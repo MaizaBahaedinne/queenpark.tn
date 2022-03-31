@@ -1,1369 +1,1060 @@
-<div class="page_content_wrap">
-   <div class="content_wrap">
-      <div class="content">
-         <article id="post-1030" class="post_item_single post_type_page post-1030 page type-page status-publish hentry">
-            <div class="post_content entry-content">
-               <div data-vc-full-width="true" data-vc-full-width-init="false" data-vc-stretch-content="true" class="vc_row wpb_row vc_row-fluid vc_row-no-padding">
-                  <div class="wpb_column vc_column_container vc_col-sm-12 sc_layouts_column_icons_position_left">
-                     <div class="vc_column-inner">
-                        <div class="wpb_wrapper">
-                           <div class="wpb_revslider_element wpb_content_element">
-                              <p class="rs-p-wp-fix"></p>
-                              <rs-module-wrap id="rev_slider_3_1_wrapper" data-source="gallery" style="background:transparent;padding:0;margin:0px auto;margin-top:0;margin-bottom:0;max-width:">
-                                 <rs-module id="rev_slider_3_1" style="display:none;" data-version="6.2.2">
-                                    <rs-slides>
-                                       <rs-slide data-key="rs-7" data-title="Slide" data-thumb="//partymaker.ancorathemes.com/wp-content/uploads/2020/04/home3_slide1-100x50.jpg" data-anim="ei:d;eo:d;s:600;r:0;t:fade;sl:d;">
-                                          <img src="<?php echo base_url() ?>assets/wp-content/plugins/revslider/public/assets/assets/dummy.png" title="home3_slide1" width="1920" height="960" data-lazyload="https://scontent.ftun15-1.fna.fbcdn.net/v/t1.6435-9/s960x960/107434686_101715191616974_4035341118185278314_n.jpg?_nc_cat=101&ccb=1-5&_nc_sid=e3f864&_nc_ohc=-rYN0FnJ_hMAX-gXfyj&_nc_ht=scontent.ftun15-1.fna&oh=32ccb7e974fb40da27719d61eb39b2d4&oe=61778379" data-panzoom="d:10000;ss:100;se:110;" class="rev-slidebg" data-no-retina="">
-                                          <rs-layer id="slider-3-slide-7-layer-2" data-type="image" data-rsp_ch="on" data-xy="x:r;xo:-10px;y:c;yo:14px;" data-text="l:22;a:inherit;" data-dim="w:388px;h:625px;" data-basealign="slide" data-frame_0="y:100%;tp:600;" data-frame_0_mask="u:t;y:100%;" data-frame_1="tp:600;e:power2.inOut;st:3300;sp:1000;sR:3300;" dhttps://scontent.ftun15-1.fna.fbcdn.net/v/t1.6435-9/s960x960/107434686_101715191616974_4035341118185278314_n.jpg?_nc_cat=101&ccb=1-5&_nc_sid=e3f864&_nc_ohc=-rYN0FnJ_hMAX-gXfyj&_nc_ht=scontent.ftun15-1.fna&oh=32ccb7e974fb40da27719d61eb39b2d4&oe=61778379ta-frame_1_mask="u:t;" data-frame_999="ohttps://scontent.ftun15-1.fna.fbcdn.net/v/t1.6435-9/s960x960/107434686_101715191616974_4035341118185278314_n.jpg?_nc_cat=101&ccb=1-5&_nc_sid=e3f864&_nc_ohc=-rYN0FnJ_hMAX-gXfyj&_nc_ht=scontent.ftun15-1.fna&oh=32ccb7e974fb40da27719d61eb39b2d4&oe=617783790;tp:600;st:w;sR:4700;" data-loop_0="rZ:2;oX:50;oY:50;" data-loop_999="rZ:-2;sp:4000;yym:t;yyr:t;yys:t;yyf:t;" style="z-index:5;"><img src="<?php echo base_url() ?>assets/wp-content/plugins/revslider/public/assets/assets/dummy.png" width="388" height="625" data-lazyload="//partymaker.ancorathemes.com/wp-content/uploads/2018/01/img2.png" data-no-retina=""></rs-layer>
-                                          <rs-layer id="slider-3-slide-7-layer-3" data-type="image" data-rsp_ch="on" data-xy="x:r;xo:60px;y:c;yo:14px;" data-text="l:22;a:inherit;" data-dim="w:648px;h:625px;" data-frame_0="y:-100%;o:1;tp:600;" data-frame_0_mask="u:t;" data-frame_1="tp:600;st:3300;sp:1000;sR:3300;" data-frame_1_mask="u:t;" data-frame_999="o:0;tp:600;st:w;sR:4700;" data-loop_0="rZ:-2;oX:50;oY:50;" data-loop_999="rZ:2;sp:4000;yym:t;yyr:t;yys:t;yyf:t;" style="z-index:6;">
-
-                                            <img src="<?php echo base_url() ?>assets/wp-content/plugins/revslider/public/assets/assets/dummy.png" width="648" height="625" data-lazyload="//partymaker.ancorathemes.com/wp-content/uploads/2018/01/img-1.png" data-no-retina=""></rs-layer>
-                                          <rs-layer id="slider-3-slide-7-layer-4" class="SmallWhiteText" data-type="text" data-color="#ffffff" data-rsp_ch="on" data-xy="x:93px;y:c;yo:-230px;" data-text="s:40;l:70;a:inherit;" data-frame_0="y:-50px;tp:600;" data-frame_1="tp:600;e:bounce.out;st:1650;sp:800;sR:1650;" data-frame_999="o:0;tp:600;st:w;sR:6550;" style="z-index:7;font-family:Open Sans;">Faisons une fête!</rs-layer>
-                                          <rs-layer id="slider-3-slide-7-layer-5" class="BigText" data-type="text" data-color="#ffd909" data-rsp_ch="on" data-xy="x:93px;y:c;yo:-25px;" data-text="s:150;l:140;fw:700;a:inherit;" data-frame_0="x:-100%;o:1;tp:600;" data-frame_0_mask="u:t;" data-frame_1="tp:600;st:400;sp:1200;sR:400;" data-frame_1_mask="u:t;" data-frame_999="o:0;tp:600;st:w;sR:7400;" style="z-index:8;font-family:Open Sans;">Il est temps <br>de célébrer !</rs-layer>
-                                          <a id="slider-3-slide-7-layer-6" class="rs-layer SliderButton rev-btn" href="../contacts/index.htm" target="_self" data-type="button" data-color="#2b2b2b" data-xy="x:103px;y:c;yo:210px;" data-text="s:18;l:27;fw:500;a:inherit;" data-rsp_bd="off" data-padding="t:12;r:35;b:12;l:35;" data-border="bor:50px,50px,50px,50px;" data-frame_0="x:right;o:1;tp:600;" data-frame_1="tp:600;st:2470;sp:700;sR:2470;" data-frame_999="o:0;tp:600;st:w;sR:5830;" data-frame_hover="c:#fff;bgc:#ffd909;boc:#000;bor:50px,50px,50px,50px;bos:solid;oX:50;oY:50;sp:0;e:none;" style="z-index:9;background-color:#ffffff;font-family:Roboto;cursor:pointer;outline:none;box-shadow:none;box-sizing:border-box;-moz-box-sizing:border-box;-webkit-box-sizing:border-box;">Demande en ligne
-                                          </a> 
-                                       </rs-slide>
-                                       <rs-slide data-key="rs-8" data-title="Slide" data-thumb="//partymaker.ancorathemes.com/wp-content/uploads/2018/01/home2_slide2-100x50.jpg" data-anim="ei:d;eo:d;s:600;r:0;t:fade;sl:d;">
-                                          <img src="<?php echo base_url() ?>assets/wp-content/plugins/revslider/public/assets/assets/dummy.png" title="Home 3" data-lazyload="https://scontent.ftun15-1.fna.fbcdn.net/v/t1.6435-9/107699971_108417804280046_2191418831752950545_n.jpg?_nc_cat=101&ccb=1-5&_nc_sid=cdbe9c&_nc_ohc=VGC8rianVskAX8HPQxw&_nc_ht=scontent.ftun15-1.fna&oh=a3f32516c9ed875ee0111488d2d2de45&oe=617872A8" data-panzoom="d:10000;ss:100;se:110;" class="rev-slidebg" data-no-retina="">
-                                          <rs-layer id="slider-3-slide-8-layer-4" class="SmallWhiteText" data-type="text" data-color="#ffffff" data-rsp_ch="on" data-xy="x:93px;y:c;yo:-230px;" data-text="s:40;l:70;a:inherit;" data-frame_0="y:-50px;tp:600;" data-frame_1="tp:600;e:bounce.out;st:1650;sp:800;sR:1650;" data-frame_999="o:0;tp:600;st:w;sR:6550;" style="z-index:5;font-family:Open Sans;">Faisons une fête!</rs-layer>
-                                          <rs-layer id="slider-3-slide-8-layer-5" class="BigText" data-type="text" data-color="#ffd909" data-rsp_ch="on" data-xy="x:93px;y:c;yo:-25px;" data-text="s:150;l:140;fw:700;a:inherit;" data-frame_0="x:-100%;o:1;tp:600;" data-frame_0_mask="u:t;" data-frame_1="tp:600;st:400;sp:1200;sR:400;" data-frame_1_mask="u:t;" data-frame_999="o:0;tp:600;st:w;sR:7400;" style="z-index:6;font-family:Open Sans;">Les événements<br>c'est notre métié </rs-layer>
-                                          <a id="slider-3-slide-8-layer-6" class="rs-layer SliderButton rev-btn" href="../contacts/index.htm" target="_self" data-type="button" data-color="#2b2b2b" data-xy="x:103px;y:c;yo:210px;" data-text="s:18;l:27;fw:500;a:inherit;" data-rsp_bd="off" data-padding="t:12;r:35;b:12;l:35;" data-border="bor:50px,50px,50px,50px;" data-frame_0="x:right;o:1;tp:600;" data-frame_1="tp:600;st:2470;sp:700;sR:2470;" data-frame_999="o:0;tp:600;st:w;sR:5830;" data-frame_hover="c:#fff;bgc:#ffd909;boc:#000;bor:50px,50px,50px,50px;bos:solid;oX:50;oY:50;sp:0;e:none;" style="z-index:7;background-color:#ffffff;font-family:Roboto;cursor:pointer;outline:none;box-shadow:none;box-sizing:border-box;-moz-box-sizing:border-box;-webkit-box-sizing:border-box;">Demande en ligne
-                                          </a> 
-                                       </rs-slide>
-                                       <rs-slide data-key="rs-9" data-title="Slide" data-thumb="//partymaker.ancorathemes.com/wp-content/uploads/2018/01/home2_slide3-100x50.jpg" data-anim="ei:d;eo:d;s:600;r:0;t:fade;sl:d;">
-                                          <img src="<?php echo base_url() ?>assets/wp-content/plugins/revslider/public/assets/assets/dummy.png" title="Home 3" data-lazyload="https://scontent.ftun15-1.fna.fbcdn.net/v/t1.6435-9/107761898_107627701025723_3842390019185200353_n.jpg?_nc_cat=103&ccb=1-5&_nc_sid=cdbe9c&_nc_ohc=8_uODrYGUvMAX8i5zSj&_nc_ht=scontent.ftun15-1.fna&oh=6e005654c262c5bc8c830cdacc13be94&oe=617A0BE0" data-panzoom="d:10000;ss:100;se:110;" class="rev-slidebg" data-no-retina="">
-                                          <rs-layer id="slider-3-slide-9-layer-4" class="SmallWhiteText" data-type="text" data-color="#ffffff" data-rsp_ch="on" data-xy="x:93px;y:c;yo:-230px;" data-text="s:40;l:70;a:inherit;" data-frame_0="y:-50px;tp:600;" data-frame_1="tp:600;e:bounce.out;st:1650;sp:800;sR:1650;" data-frame_999="o:0;tp:600;st:w;sR:6550;" style="z-index:5;font-family:Open Sans;">Faisons une fête!</rs-layer>
-                                          <rs-layer id="slider-3-slide-9-layer-5" class="BigText" data-type="text" data-color="#ffd909" data-rsp_ch="on" data-xy="x:93px;y:c;yo:-25px;" data-text="s:150;l:140;fw:700;a:inherit;" data-frame_0="x:-100%;o:1;tp:600;" data-frame_0_mask="u:t;" data-frame_1="tp:600;st:400;sp:1200;sR:400;" data-frame_1_mask="u:t;" data-frame_999="o:0;tp:600;st:w;sR:7400;" style="z-index:6;font-family:Open Sans;">Bonne fête !</rs-layer>
-                                          <a id="slider-3-slide-9-layer-6" class="rs-layer SliderButton rev-btn" href="../contacts/index.htm" target="_self" data-type="button" data-color="#2b2b2b" data-xy="x:103px;y:c;yo:210px;" data-text="s:18;l:27;fw:500;a:inherit;" data-rsp_bd="off" data-padding="t:12;r:35;b:12;l:35;" data-border="bor:50px,50px,50px,50px;" data-frame_0="x:right;o:1;tp:600;" data-frame_1="tp:600;st:2470;sp:700;sR:2470;" data-frame_999="o:0;tp:600;st:w;sR:5830;" data-frame_hover="c:#fff;bgc:#ffd909;boc:#000;bor:50px,50px,50px,50px;bos:solid;oX:50;oY:50;sp:0;e:none;" style="z-index:7;background-color:#ffffff;font-family:Roboto;cursor:pointer;outline:none;box-shadow:none;box-sizing:border-box;-moz-box-sizing:border-box;-webkit-box-sizing:border-box;">Demande en ligne
-                                          </a> 
-                                       </rs-slide>
-                                    </rs-slides>
-                                    <rs-progress class="rs-bottom" style="visibility: hidden !important;"></rs-progress>
-                                 </rs-module>
-                                 <script type="text/javascript">
-                                    setREVStartSize({c: 'rev_slider_3_1',rl:[1240,1024,778,480],el:[832],gw:[1370],gh:[832],type:'standard',justify:'',layout:'fullwidth',mh:"0"});
-                                    var revapi3,
-                                        tpj;
-                                    jQuery(function() {
-                                        tpj = jQuery;
-                                        if(tpj("#rev_slider_3_1").revolution == undefined){
-                                            revslider_showDoubleJqueryError("#rev_slider_3_1");
-                                        }else{
-                                            revapi3 = tpj("#rev_slider_3_1").show().revolution({
-                                                jsFileLocation:"//partymaker.ancorathemes.com/wp-content/plugins/revslider/public/assets/js/",
-                                                visibilityLevels:"1240,1024,778,480",
-                                                gridwidth:1370,
-                                                gridheight:832,
-                                                lazyType:"all",
-                                                spinner:"spinner0",
-                                                editorheight:"832,768,960,720",
-                                                responsiveLevels:"1240,1024,778,480",
-                                                disableProgressBar:"on",
-                                                navigation: {
-                                                    mouseScrollNavigation:false,
-                                                    onHoverStop:false,
-                                                    touch: {
-                                                        touchenabled:true,
-                                                        touchOnDesktop:true
-                                                    },
-                                                    bullets: {
-                                                        enable:true,
-                                                        tmp:"",
-                                                        style:"custom",
-                                                        v_offset:70,
-                                                        space:11
-                                                    }
-                                                },
-                                                fallbacks: {
-                                                    allowHTML5AutoPlayOnAndroid:true
-                                                },
-                                            });
-                                        }
-                                        
-                                    });
-                                 </script>
-                                 <script>
-                                    var htmlDivCss = unescape(".custom.tp-bullets%20%7B%0A%7D%0A.custom.tp-bullets%3Abefore%20%7B%0A%09content%3A%27%20%27%3B%0A%09position%3Aabsolute%3B%0A%09width%3A100%25%3B%0A%09height%3A100%25%3B%0A%09background%3Atransparent%3B%0A%09padding%3A10px%3B%0A%09margin-left%3A-10px%3Bmargin-top%3A-10px%3B%0A%09box-sizing%3Acontent-box%3B%0A%7D%0A.custom%20.tp-bullet%20%7B%0A%09width%3A12px%3B%0A%09height%3A12px%3B%0A%09position%3Aabsolute%3B%0A%09background%3A%23aaa%3B%0A%20%20%20%20background%3Argba%28125%2C125%2C125%2C0.5%29%3B%0A%09cursor%3A%20pointer%3B%0A%09box-sizing%3Acontent-box%3B%0A%7D%0A.custom%20.tp-bullet%3Ahover%2C%0A.custom%20.tp-bullet.selected%20%7B%0A%09background%3Argb%28125%2C125%2C125%29%3B%0A%7D%0A.custom%20.tp-bullet-image%20%7B%0A%7D%0A.custom%20.tp-bullet-title%20%7B%0A%7D%0A%0A");
-                                    var htmlDiv = document.getElementById('rs-plugin-settings-inline-css');
-                                    if(htmlDiv) {
-                                        htmlDiv.innerHTML = htmlDiv.innerHTML + htmlDivCss;
-                                    }else{
-                                        var htmlDiv = document.createElement('div');
-                                        htmlDiv.innerHTML = '';
-                                        document.getElementsByTagName('head')[0].appendChild(htmlDiv.childNodes[0]);
-                                    }
-                                 </script>
-                                 <script>
-                                    var htmlDivCss = unescape("%0A%0A%0A");
-                                    var htmlDiv = document.getElementById('rs-plugin-settings-inline-css');
-                                    if(htmlDiv) {
-                                        htmlDiv.innerHTML = htmlDiv.innerHTML + htmlDivCss;
-                                    }else{
-                                        var htmlDiv = document.createElement('div');
-                                        htmlDiv.innerHTML = '';
-                                        document.getElementsByTagName('head')[0].appendChild(htmlDiv.childNodes[0]);
-                                    }
-                                 </script>
-                              </rs-module-wrap>
-                           </div>
+<div data-elementor-type="wp-page" data-elementor-id="7" class="elementor elementor-7" data-elementor-settings="[]">
+   <div class="elementor-section-wrap">
+      <section class="elementor-section elementor-top-section elementor-element elementor-element-9aad51b elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="9aad51b" data-element_type="section" 
+      data-settings="{&quot;background_background&quot;:&quot;slideshow&quot;,&quot;background_slideshow_gallery&quot;:
+      [{&quot;id&quot;:85,&quot;url&quot;:&quot;<?php echo base_url() ?>assets/img/1.jpg&quot;}
+      ,{&quot;id&quot;:32,&quot;url&quot;:&quot;<?php echo base_url() ?>assets/img/2.jpg&quot;}
+      ,{&quot;id&quot;:1402,&quot;url&quot;:&quot;<?php echo base_url() ?>assets/img/3.jpg&quot;}
+      ,{&quot;id&quot;:3689,&quot;url&quot;:&quot;<?php echo base_url() ?>assets/img/4.jpg&quot;}]
+      ,&quot;background_slideshow_ken_burns&quot;:&quot;yes&quot;,&quot;background_slideshow_loop&quot;:&quot;yes&quot;,&quot;background_slideshow_slide_duration&quot;:5000,&quot;background_slideshow_slide_transition&quot;:&quot;fade&quot;,&quot;background_slideshow_transition_duration&quot;:500,&quot;background_slideshow_ken_burns_zoom_direction&quot;:&quot;in&quot;}">
+         <div class="elementor-background-overlay"></div>
+         <div class="elementor-container elementor-column-gap-default">
+            <div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-8e82adf" data-id="8e82adf" data-element_type="column">
+               <div class="elementor-widget-wrap elementor-element-populated">
+                  <div class="elementor-element elementor-element-9ca3272 elementor-invisible elementor-widget elementor-widget-jkit_animated_text" data-id="9ca3272" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;fadeInLeft&quot;}" data-widget_type="jkit_animated_text.default">
+                     <div class="elementor-widget-container">
+                        <div  class="jeg-elementor-kit jkit-animated-text jeg_module_7_3_6240504cc1eba"  data-style="rotating" data-text="Birthday,Weddings,Events,Festival" data-rotate="bounce" data-delay="2500">
+                           <p class="animated-text"><span class="normal-text style-color">Célébrons votre </span><span class="dynamic-wrapper style-gradient"><span class="dynamic-text">Mariages</span><span class="dynamic-text">Events</span><span class="dynamic-text">Congrets</span></span></p>
                         </div>
+                     </div>
+                  </div>
+                  <div class="elementor-element elementor-element-5036ac2 elementor-invisible elementor-widget elementor-widget-text-editor" data-id="5036ac2" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;fadeInRight&quot;}" data-widget_type="text-editor.default">
+                     <div class="elementor-widget-container">
+                        <p></p>
+                     </div>
+                  </div>
+                  <div class="elementor-element elementor-element-c5865a1 elementor-widget__width-auto elementor-widget-mobile__width-inherit elementor-invisible elementor-widget elementor-widget-jkit_button" data-id="c5865a1" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;fadeInLeft&quot;}" data-widget_type="jkit_button.default">
+                     <div class="elementor-widget-container">
+                        <div  class="jeg-elementor-kit jkit-button  icon-position-before jeg_module_7_4_6240504cc3148" ><a href="#"  class="jkit-button-wrapper">PLUS D'INFORMATION</a></div>
+                     </div>
+                  </div>
+                  <div class="elementor-element elementor-element-b8689c8 elementor-widget__width-auto elementor-widget-mobile__width-auto elementor-invisible elementor-widget elementor-widget-jkit_video_button" data-id="b8689c8" data-element_type="widget" data-settings="{&quot;_animation_delay&quot;:&quot;200&quot;,&quot;_animation&quot;:&quot;fadeInUp&quot;}" data-widget_type="jkit_video_button.default">
+                     <div class="elementor-widget-container">
+                        <div  class="jeg-elementor-kit jkit-video-button jeg_module_7_5_6240504cc4737"  data-autoplay="0" data-loop="0" data-controls="0" data-type="youtube" data-start="0" data-end="0"><a href="https://www.youtube.com/watch?v=MLpWrANjFbI"  class="jkit-video-popup-btn glow-enable"><span class="icon-position-before"><i aria-hidden="true" class="fas fa-play"></i></span></a></div>
+                     </div>
+                  </div>
+                  <div class="elementor-element elementor-element-e45c84f elementor-widget-mobile__width-auto elementor-widget__width-auto elementor-invisible elementor-widget elementor-widget-heading" data-id="e45c84f" data-element_type="widget" data-settings="{&quot;_animation_delay&quot;:&quot;200&quot;,&quot;_animation&quot;:&quot;fadeInRight&quot;}" data-widget_type="heading.default">
+                     <div class="elementor-widget-container">
+                        <h2 class="elementor-heading-title elementor-size-default"><a href="#">REGARDEZ L'INTRO</a></h2>
                      </div>
                   </div>
                </div>
-               <div class="vc_row-full-width vc_clearfix"></div>
-               <div class="vc_row wpb_row vc_row-fluid scheme_extra">
-                  <div class="wpb_column vc_column_container vc_col-sm-12 sc_layouts_column_icons_position_left">
-                     <div class="vc_column-inner">
-                        <div class="wpb_wrapper">
-                           <div class="vc_empty_space  height_huge" style="height: 32px"><span class="vc_empty_space_inner"></span></div>
-                           <div id="sc_services_1162585322" class="sc_services color_style_default sc_services_light sc_services_featured_top">
-                              <h6 class="sc_item_subtitle sc_services_subtitle sc_align_center sc_item_title_style_default">Bonjour!</h6>
-                              <h2 class="sc_item_title sc_services_title sc_align_center sc_item_title_style_default">On donne du style à votre page </i></h2>
-                              <div class="sc_services_columns_wrap sc_item_columns sc_item_columns_4 trx_addons_columns_wrap columns_padding_bottom">
-                                 
-                                 <div class="trx_addons_column-1_4">
-                                    <div class="sc_services_item without_content with_image sc_services_item_featured_top">
-                                       <div class="post_featured with_thumb hover_dots sc_services_item_thumb">
-                                          <img width="540" height="456" src="<?php echo base_url() ?>assets/wp-content/uploads/2017/10/service-2-540x456.jpg" class="attachment-partymaker-thumb-servl size-partymaker-thumb-servl wp-post-image" alt="" srcset="<?php echo base_url() ?>assets/wp-content/uploads/2017/10/service-2-540x456.jpg 540w, <?php echo base_url() ?>assets/wp-content/uploads/2017/10/service-2-300x253.jpg 300w, <?php echo base_url() ?>assets/wp-content/uploads/2017/10/service-2-768x649.jpg 768w, <?php echo base_url() ?>assets/wp-content/uploads/2017/10/service-2-1024x865.jpg 1024w, <?php echo base_url() ?>assets/wp-content/uploads/2017/10/service-2-370x312.jpg 370w, <?php echo base_url() ?>assets/wp-content/uploads/2017/10/service-2-1080x912.jpg 1080w, <?php echo base_url() ?>assets/wp-content/uploads/2017/10/service-2-760x642.jpg 760w, <?php echo base_url() ?>assets/wp-content/uploads/2017/10/service-2-1520x1284.jpg 1520w, <?php echo base_url() ?>assets/wp-content/uploads/2017/10/service-2-740x625.jpg 740w, <?php echo base_url() ?>assets/wp-content/uploads/2017/10/service-2-600x507.jpg 600w, <?php echo base_url() ?>assets/wp-content/uploads/2017/10/service-2.jpg 1600w" sizes="(max-width: 540px) 100vw, 540px">
-                                          <div class="mask"></div>
-                                          <a href="../services/weddings/index.htm" aria-hidden="true" class="icons"><span></span><span></span><span></span></a>
-                                       </div>
-                                       <div class="sc_services_item_info">
-                                          <div class="sc_services_item_header">
-                                             <h6 class="sc_services_item_title"><a href="../services/weddings/index.htm">Mariages</a></h6>
-                                             <div class="sc_services_item_subtitle"><a href="../services_group/our-services/index.htm" title="View all posts in Our Services">Our Services</a></div>
-                                          </div>
-                                       </div>
-                                    </div>
-                                 </div>
-                                 <div class="trx_addons_column-1_4">
-                                    <div class="sc_services_item without_content with_image sc_services_item_featured_top">
-                                       <div class="post_featured with_thumb hover_dots sc_services_item_thumb">
-                                          <img width="540" height="456" src="<?php echo base_url() ?>assets/wp-content/uploads/2017/10/service-3-540x456.jpg" class="attachment-partymaker-thumb-servl size-partymaker-thumb-servl wp-post-image" alt="" srcset="<?php echo base_url() ?>assets/wp-content/uploads/2017/10/service-3-540x456.jpg 540w, <?php echo base_url() ?>assets/wp-content/uploads/2017/10/service-3-300x253.jpg 300w, <?php echo base_url() ?>assets/wp-content/uploads/2017/10/service-3-768x649.jpg 768w, <?php echo base_url() ?>assets/wp-content/uploads/2017/10/service-3-1024x865.jpg 1024w, <?php echo base_url() ?>assets/wp-content/uploads/2017/10/service-3-370x312.jpg 370w, <?php echo base_url() ?>assets/wp-content/uploads/2017/10/service-3-1080x912.jpg 1080w, <?php echo base_url() ?>assets/wp-content/uploads/2017/10/service-3-760x642.jpg 760w, <?php echo base_url() ?>assets/wp-content/uploads/2017/10/service-3-1520x1284.jpg 1520w, <?php echo base_url() ?>assets/wp-content/uploads/2017/10/service-3-740x625.jpg 740w, <?php echo base_url() ?>assets/wp-content/uploads/2017/10/service-3-600x507.jpg 600w, <?php echo base_url() ?>assets/wp-content/uploads/2017/10/service-3.jpg 1600w" sizes="(max-width: 540px) 100vw, 540px">
-                                          <div class="mask"></div>
-                                          <a href="../services/engagements/index.htm" aria-hidden="true" class="icons"><span></span><span></span><span></span></a>
-                                       </div>
-                                       <div class="sc_services_item_info">
-                                          <div class="sc_services_item_header">
-                                             <h6 class="sc_services_item_title"><a href="../services/engagements/index.htm">fiançailles</a></h6>
-                                             <div class="sc_services_item_subtitle"><a href="../services_group/our-services/index.htm" title="View all posts in Our Services">Our Services</a></div>
-                                          </div>
-                                       </div>
-                                    </div>
-                                 </div>
-                                 <div class="trx_addons_column-1_4">
-                                    <div class="sc_services_item without_content with_image sc_services_item_featured_top">
-                                       <div class="post_featured with_thumb hover_dots sc_services_item_thumb">
-                                          <img width="540" height="456" src="<?php echo base_url() ?>assets/wp-content/uploads/2017/10/service-4-540x456.jpg" class="attachment-partymaker-thumb-servl size-partymaker-thumb-servl wp-post-image" alt="" srcset="<?php echo base_url() ?>assets/wp-content/uploads/2017/10/service-4-540x456.jpg 540w, <?php echo base_url() ?>assets/wp-content/uploads/2017/10/service-4-300x253.jpg 300w, <?php echo base_url() ?>assets/wp-content/uploads/2017/10/service-4-768x649.jpg 768w, <?php echo base_url() ?>assets/wp-content/uploads/2017/10/service-4-1024x865.jpg 1024w, <?php echo base_url() ?>assets/wp-content/uploads/2017/10/service-4-370x312.jpg 370w, <?php echo base_url() ?>assets/wp-content/uploads/2017/10/service-4-1080x912.jpg 1080w, <?php echo base_url() ?>assets/wp-content/uploads/2017/10/service-4-760x642.jpg 760w, <?php echo base_url() ?>assets/wp-content/uploads/2017/10/service-4-1520x1284.jpg 1520w, <?php echo base_url() ?>assets/wp-content/uploads/2017/10/service-4-740x625.jpg 740w, <?php echo base_url() ?>assets/wp-content/uploads/2017/10/service-4-600x507.jpg 600w, <?php echo base_url() ?>assets/wp-content/uploads/2017/10/service-4.jpg 1600w" sizes="(max-width: 540px) 100vw, 540px">
-                                          <div class="mask"></div>
-                                          <a href="../services/corporate/index.htm" aria-hidden="true" class="icons"><span></span><span></span><span></span></a>
-                                       </div>
-                                       <div class="sc_services_item_info">
-                                          <div class="sc_services_item_header">
-                                             <h6 class="sc_services_item_title"><a href="../services/corporate/index.htm">Entreprise</a></h6>
-                                             <div class="sc_services_item_subtitle"><a href="../services_group/our-services/index.htm" title="View all posts in Our Services">Our Services</a></div>
-                                          </div>
-                                       </div>
-                                    </div>
-                                 </div>
-
-                                 <div class="trx_addons_column-1_4">
-                                    <div class="sc_services_item without_content with_image sc_services_item_featured_top">
-                                       <div class="post_featured with_thumb hover_dots sc_services_item_thumb">
-                                          <img width="540" height="456" src="<?php echo base_url() ?>assets/wp-content/uploads/2017/10/service-1-540x456.jpg" class="attachment-partymaker-thumb-servl size-partymaker-thumb-servl wp-post-image" alt="" srcset="<?php echo base_url() ?>assets/wp-content/uploads/2017/10/service-1-540x456.jpg 540w, <?php echo base_url() ?>assets/wp-content/uploads/2017/10/service-1-300x253.jpg 300w, <?php echo base_url() ?>assets/wp-content/uploads/2017/10/service-1-768x649.jpg 768w, <?php echo base_url() ?>assets/wp-content/uploads/2017/10/service-1-1024x865.jpg 1024w, <?php echo base_url() ?>assets/wp-content/uploads/2017/10/service-1-370x312.jpg 370w, <?php echo base_url() ?>assets/wp-content/uploads/2017/10/service-1-1080x912.jpg 1080w, <?php echo base_url() ?>assets/wp-content/uploads/2017/10/service-1-760x642.jpg 760w, <?php echo base_url() ?>assets/wp-content/uploads/2017/10/service-1-1520x1284.jpg 1520w, <?php echo base_url() ?>assets/wp-content/uploads/2017/10/service-1-740x625.jpg 740w, <?php echo base_url() ?>assets/wp-content/uploads/2017/10/service-1-600x507.jpg 600w, <?php echo base_url() ?>assets/wp-content/uploads/2017/10/service-1.jpg 1600w" sizes="(max-width: 540px) 100vw, 540px">
-                                          <div class="mask"></div>
-                                          <a href="../services/birthdays/index.htm" aria-hidden="true" class="icons"><span></span><span></span><span></span></a>
-                                       </div>
-                                       <div class="sc_services_item_info">
-                                          <div class="sc_services_item_header">
-                                             <h6 class="sc_services_item_title"><a href="../services/birthdays/index.htm">Birthdays</a></h6>
-                                             <div class="sc_services_item_subtitle"><a href="../services_group/our-services/index.htm" title="View all posts in Our Services">Our Services</a></div>
-                                          </div>
-                                       </div>
-                                    </div>
-                                 </div>
-
-                              </div>
-                              <div class="sc_item_button sc_button_wrap sc_align_center"><a href="../services-pages/index.htm" id="sc_button_2106971304" class="sc_button color_style_default sc_button_default sc_item_button sc_item_button_default sc_services_button sc_button_size_normal sc_button_icon_left"><span class="sc_button_text"><span class="sc_button_title">View Info</span></span></a></div>
-                           </div>
-                           <div class="vc_empty_space  height_huge" style="height: 32px"><span class="vc_empty_space_inner"></span></div>
-                        </div>
-                     </div>
-                  </div>
-               </div>
-               <div data-vc-full-width="true" data-vc-full-width-init="false" class="vc_row wpb_row vc_row-fluid vc_custom_1587472706288 vc_row-has-fill scheme_extra">
-                  <div class="wpb_column vc_column_container vc_col-sm-12 sc_layouts_column_icons_position_left">
-                     <div class="vc_column-inner">
-                        <div class="wpb_wrapper">
-                           <div class="vc_empty_space  height_huge" style="height: 32px"><span class="vc_empty_space_inner"></span></div>
-                        </div>
-                     </div>
-                  </div>
-                  <div class="wpb_column vc_column_container vc_col-sm-12 vc_col-md-6 sc_layouts_column_icons_position_left scheme_extra">
-                     <div class="vc_column-inner">
-                        <div class="wpb_wrapper">
-                           <div id="sc_services_2116883678" class="sc_services color_style_default sc_services_light sc_services_featured_top">
-                              <div class="sc_services_columns_wrap sc_item_columns sc_item_columns_3 trx_addons_columns_wrap columns_padding_bottom">
-                                 <div class="trx_addons_column-1_3">
-                                    <div class="sc_services_item without_content with_icon sc_services_item_featured_top">
-                                       <a href="../services/catering-and-decor/index.htm" id="sc_services_2116883678_icon-service1_1" class="sc_services_item_icon icon-service1"></a>
-                                       <div class="sc_services_item_info">
-                                          <div class="sc_services_item_header">
-                                             <h6 class="sc_services_item_title"><a href="../services/catering-and-decor/index.htm">Catering and decor</a></h6>
-                                             <div class="sc_services_item_subtitle"><a href="../services_group/what-we-offer/index.htm" title="View all posts in Ce que nous offrons">Ce que nous offrons</a></div>
-                                          </div>
-                                       </div>
-                                    </div>
-                                 </div>
-                                 <div class="trx_addons_column-1_3">
-                                    <div class="sc_services_item without_content with_icon sc_services_item_featured_top">
-                                       <a href="../services/floral/index.htm" id="sc_services_2116883678_icon-service2_2" class="sc_services_item_icon icon-service2"></a>
-                                       <div class="sc_services_item_info">
-                                          <div class="sc_services_item_header">
-                                             <h6 class="sc_services_item_title"><a href="../services/floral/index.htm">Floral</a></h6>
-                                             <div class="sc_services_item_subtitle"><a href="../services_group/what-we-offer/index.htm" title="View all posts in Ce que nous offrons">Ce que nous offrons</a></div>
-                                          </div>
-                                       </div>
-                                    </div>
-                                 </div>
-                                 <div class="trx_addons_column-1_3">
-                                    <div class="sc_services_item without_content with_icon sc_services_item_featured_top">
-                                       <a href="../services/photo-video-and-audio/index.htm" id="sc_services_2116883678_icon-service3_3" class="sc_services_item_icon icon-service3"></a>
-                                       <div class="sc_services_item_info">
-                                          <div class="sc_services_item_header">
-                                             <h6 class="sc_services_item_title"><a href="../services/photo-video-and-audio/index.htm">Photo, Video and Audio</a></h6>
-                                             <div class="sc_services_item_subtitle"><a href="../services_group/what-we-offer/index.htm" title="View all posts in Ce que nous offrons">Ce que nous offrons</a></div>
-                                          </div>
-                                       </div>
-                                    </div>
-                                 </div>
-                                 <div class="trx_addons_column-1_3">
-                                    <div class="sc_services_item without_content with_icon sc_services_item_featured_top">
-                                       <a href="../services/invitation-cards/index.htm" id="sc_services_2116883678_icon-service4_4" class="sc_services_item_icon icon-service4"></a>
-                                       <div class="sc_services_item_info">
-                                          <div class="sc_services_item_header">
-                                             <h6 class="sc_services_item_title"><a href="../services/invitation-cards/index.htm">Invitation Cards</a></h6>
-                                             <div class="sc_services_item_subtitle"><a href="../services_group/what-we-offer/index.htm" title="View all posts in Ce que nous offrons">Ce que nous offrons</a></div>
-                                          </div>
-                                       </div>
-                                    </div>
-                                 </div>
-                                 <div class="trx_addons_column-1_3">
-                                    <div class="sc_services_item without_content with_icon sc_services_item_featured_top">
-                                       <a href="../services/entertainment/index.htm" id="sc_services_2116883678_icon-service5_5" class="sc_services_item_icon icon-service5"></a>
-                                       <div class="sc_services_item_info">
-                                          <div class="sc_services_item_header">
-                                             <h6 class="sc_services_item_title"><a href="../services/entertainment/index.htm">Entertainment</a></h6>
-                                             <div class="sc_services_item_subtitle"><a href="../services_group/what-we-offer/index.htm" title="View all posts in Ce que nous offrons">Ce que nous offrons</a></div>
-                                          </div>
-                                       </div>
-                                    </div>
-                                 </div>
-                                 <div class="trx_addons_column-1_3">
-                                    <div class="sc_services_item without_content with_icon sc_services_item_featured_top">
-                                       <a href="../services/venue-selection/index.htm" id="sc_services_2116883678_icon-service6_6" class="sc_services_item_icon icon-service6"></a>
-                                       <div class="sc_services_item_info">
-                                          <div class="sc_services_item_header">
-                                             <h6 class="sc_services_item_title"><a href="../services/venue-selection/index.htm">Venue Selection</a></h6>
-                                             <div class="sc_services_item_subtitle"><a href="../services_group/what-we-offer/index.htm" title="View all posts in Ce que nous offrons">Ce que nous offrons</a></div>
-                                          </div>
-                                       </div>
-                                    </div>
-                                 </div>
-                              </div>
-                           </div>
-                        </div>
-                     </div>
-                  </div>
-                  <div class="wpb_column vc_column_container vc_col-sm-12 vc_hidden-lg vc_hidden-md sc_layouts_column_icons_position_left">
-                     <div class="vc_column-inner">
-                        <div class="wpb_wrapper">
-                           <div class="vc_empty_space  height_large" style="height: 32px"><span class="vc_empty_space_inner"></span></div>
-                        </div>
-                     </div>
-                  </div>
-                  <div class="wpb_column vc_column_container vc_col-sm-12 vc_col-lg-offset-2 vc_col-lg-4 vc_col-md-offset-1 vc_col-md-5 sc_layouts_column_icons_position_left">
-                     <div class="vc_column-inner">
-                        <div class="wpb_wrapper">
-                           <div id="sc_title_785524833" class="sc_title color_style_default sc_title_default">
-                              <h1 class="sc_item_title sc_title_title sc_align_left sc_item_title_style_default sc_item_title_tag">Ce que nous offrons</h1>
-                              <div class="sc_item_descr sc_title_descr sc_align_left">
-                                 <p>Chaque événement et client est unique, et nous pensons que nos services devraient l'être aussi. Nous savons ce qu'est l'embauche d'un planificateur !</p>
-                              </div>
-                           </div>
-                           <div class="vc_empty_space  height_small" style="height: 32px"><span class="vc_empty_space_inner"></span></div>
-                           <a href="../services-pages/index.htm" id="sc_button_1185037792" class="sc_button color_style_link2 sc_button_default sc_button_size_normal sc_button_icon_left"><span class="sc_button_text"><span class="sc_button_title">More Services</span></span></a>
-                        </div>
-                     </div>
-                  </div>
-                  <div class="wpb_column vc_column_container vc_col-sm-12 sc_layouts_column_icons_position_left">
-                     <div class="vc_column-inner">
-                        <div class="wpb_wrapper">
-                           <div class="vc_empty_space  vc_custom_1516378091139 height_huge" style="height: 32px"><span class="vc_empty_space_inner"></span></div>
-                        </div>
-                     </div>
-                  </div>
-               </div>
-               <div class="vc_row-full-width vc_clearfix"></div>
-               <div data-vc-full-width="true" data-vc-full-width-init="false" class="vc_row wpb_row vc_row-fluid vc_custom_1587474888837 vc_row-has-fill scheme_dark">
-                  <div class="wpb_column vc_column_container vc_col-sm-12 sc_layouts_column_icons_position_left">
-                     <div class="vc_column-inner">
-                        <div class="wpb_wrapper">
-                           <div class="vc_empty_space  vc_custom_1516283109796 height_huge" style="height: 32px"><span class="vc_empty_space_inner"></span></div>
-                           <div id="sc_services_1448199706" class="sc_services color_style_default sc_services_default sc_services_featured_top serv_lit_margins">
-                              <h6 class="sc_item_subtitle sc_services_subtitle sc_align_center sc_item_title_style_default">Comment ça fonctionne</h6>
-                              <h2 class="sc_item_title sc_services_title sc_align_center sc_item_title_style_default">C'est simple.<br> Vous avez un événement à planifier <br>et nous avons les solutions</i></h2>
-                              <div class="sc_services_columns_wrap sc_item_columns sc_item_columns_3 trx_addons_columns_wrap columns_padding_bottom">
-                                 <div class="trx_addons_column-1_3">
-                                    <div class="sc_services_item without_content with_icon sc_services_item_featured_top">
-                                       <span class="sc_services_item_number">1</span>
-                                       <div class="sc_services_item_info">
-                                          <div class="sc_services_item_header">
-                                             <h4 class="sc_services_item_title"><a href="../services/find-the-perfect-venue-for-free/index.htm">Trouvez le lieu idéal gratuitement</a></h4>
-                                          </div>
-                                          <a href="../services/find-the-perfect-venue-for-free/index.htm" class="sc_button_iconed color_style_dark sc_button"><span class="sc_button_icon"><span class="icon-arrow_bottom"></span></span></a> 
-                                       </div>
-                                    </div>
-                                 </div>
-                                 <div class="trx_addons_column-1_3">
-                                    <div class="sc_services_item without_content with_icon sc_services_item_featured_top">
-                                       <span class="sc_services_item_number">2</span>
-                                       <div class="sc_services_item_info">
-                                          <div class="sc_services_item_header">
-                                             <h4 class="sc_services_item_title"><a href="../services/connect-with-the-best-vendor/index.htm">Connectez-vous avec nos conseillers </a></h4>
-                                          </div>
-                                          <a href="../services/connect-with-the-best-vendor/index.htm" class="sc_button_iconed color_style_dark sc_button"><span class="sc_button_icon"><span class="icon-arrow_bottom"></span></span></a> 
-                                       </div>
-                                    </div>
-                                 </div>
-                                 <div class="trx_addons_column-1_3">
-                                    <div class="sc_services_item without_content with_icon sc_services_item_featured_top">
-                                       <span class="sc_services_item_number">3</span>
-                                       <div class="sc_services_item_info">
-                                          <div class="sc_services_item_header">
-                                             <h4 class="sc_services_item_title"><a href="../services/let-us-help-you-with-the-event/index.htm">laissez-nous vous aider avec l'événement</a></h4>
-                                          </div>
-                                          <a href="../services/let-us-help-you-with-the-event/index.htm" class="sc_button_iconed color_style_dark sc_button"><span class="sc_button_icon"><span class="icon-arrow_bottom"></span></span></a> 
-                                       </div>
-                                    </div>
-                                 </div>
-                              </div>
-                           </div>
-                           <div class="vc_empty_space  vc_custom_1516283618915 height_large" style="height: 32px"><span class="vc_empty_space_inner"></span></div>
-                        </div>
-                     </div>
-                  </div>
-               </div>
-               <div class="vc_row-full-width vc_clearfix"></div>
-               <div data-vc-full-width="true" data-vc-full-width-init="false" class="vc_row wpb_row vc_row-fluid vc_custom_1587474630072 vc_row-has-fill scheme_extra_dark">
-                  <div class="wpb_column vc_column_container vc_col-sm-12 sc_layouts_column_icons_position_left">
-                     <div class="vc_column-inner">
-                        <div class="wpb_wrapper">
-                           <div class="vc_empty_space  vc_custom_1516378917723 height_huge" style="height: 32px"><span class="vc_empty_space_inner"></span></div>
-                        </div>
-                     </div>
-                  </div>
-                  <div class="wpb_column vc_column_container vc_col-sm-9 vc_col-lg-6 sc_layouts_column_icons_position_left">
-                     <div class="vc_column-inner">
-                        <div class="wpb_wrapper">
-                           <div class="wpb_text_column wpb_content_element ">
-                              <div class="wpb_wrapper">
-                                 <h1><big><span class="trx_addons_accent_hovered">Nous créons, </span></big><br>
-                                    <big><span class="trx_addons_accent_hovered"> Vous –</span></big><br>
-                                    <big><span class="trx_addons_accent_hovered"> fêtez!</span></big>
-                                 </h1>
-                              </div>
-                           </div>
-                           <div class="vc_empty_space  height_tiny" style="height: 32px"><span class="vc_empty_space_inner"></span></div>
-                           <div id="sc_title_1057292883" class="sc_title color_style_default sc_title_default">
-                              <h6 class="sc_item_subtitle sc_title_subtitle sc_align_left sc_item_title_style_default">Commandez un forfait marriage  à partir de <i>6500 DT</i></h6>
-                           </div>
-                           <div class="vc_empty_space  height_small" style="height: 32px"><span class="vc_empty_space_inner"></span></div>
-                           <div class="vc_empty_space  height_tiny" style="height: 32px"><span class="vc_empty_space_inner"></span></div>
-                           <a href="../services-pages/index.htm" id="sc_button_1758718929" class="sc_button color_style_dark sc_button_default sc_button_size_normal sc_button_icon_left"><span class="sc_button_text"><span class="sc_button_title">More Services</span></span></a>
-                        </div>
-                     </div>
-                  </div>
-                  <div class="wpb_column vc_column_container vc_col-sm-6 sc_layouts_column_icons_position_left">
-                     <div class="vc_column-inner">
-                        <div class="wpb_wrapper"></div>
-                     </div>
-                  </div>
-                  <div class="wpb_column vc_column_container vc_col-sm-12 sc_layouts_column_icons_position_left">
-                     <div class="vc_column-inner">
-                        <div class="wpb_wrapper">
-                           <div class="vc_empty_space  vc_custom_1516379036141 height_huge" style="height: 32px"><span class="vc_empty_space_inner"></span></div>
-                        </div>
-                     </div>
-                  </div>
-               </div>
-               <div class="vc_row-full-width vc_clearfix"></div>
-               <div data-vc-full-width="true" data-vc-full-width-init="false" class="vc_row wpb_row vc_row-fluid vc_custom_1587474665882 vc_row-has-fill scheme_extra">
-                  <div class="wpb_column vc_column_container vc_col-sm-12 sc_layouts_column_icons_position_left">
-                     <div class="vc_column-inner">
-                        <div class="wpb_wrapper">
-                           <div class="vc_empty_space  vc_custom_1516274544258 height_huge" style="height: 32px"><span class="vc_empty_space_inner"></span></div>
-                           <div id="sc_price_1275305442" class="sc_price color_style_default sc_price_default">
-                              <h6 class="sc_item_subtitle sc_price_subtitle sc_align_center sc_item_title_style_default">Choisissez votre forfait</h6>
-                              <h2 class="sc_item_title sc_price_title sc_align_center sc_item_title_style_default">Nos forfaits de marriage</h2>
-                              <div class="sc_price_columns_wrap sc_item_columns trx_addons_columns_wrap columns_padding_bottom">
-                                 
-                                 <div class="trx_addons_column-1_4">
-                                    <div class="sc_price_item sc_price_item_default">
-                                       <div class="sc_price_item_info">
-                                          <div class="price-top">
-                                             <h3 class="sc_price_item_title"><span>Bronze</span></h3>
-                                             <div class="sc_price_item_price"><span class="sc_price_item_price_before">à partir de</span><span class="sc_price_item_price_value"><br>6,500DT</span></div>
-                                          </div>
-                                          <div class="price-bottom">
-                                             <div class="sc_price_item_details">
-                                                <ul>
-                                                   <li>4 Heures</li>
-                                                   <li>Max 500 Personnes</li>
-                                                   <li>Decoration</li>
-                                                   <li>Eau</li>
-                                                </ul>
-                                             </div>
-                                             <a href="../contacts/index.htm" class="sc_button_iconed sc_button" target="_blank"><span class="sc_button_icon"><span class="icon-arrow_bottom"></span></span></a>
-                                          </div>
-                                       </div>
-                                    </div>
-                                 </div>
-
-                                 <div class="trx_addons_column-1_4">
-                                    <div class="sc_price_item sc_price_item_default">
-                                       <div class="sc_price_item_info">
-                                          <div class="price-top">
-                                             <h3 class="sc_price_item_title"><span>Silver</span></h3>
-                                             <div class="sc_price_item_price"><span class="sc_price_item_price_before">à partir de</span><span class="sc_price_item_price_value"><br>10k DT</span></div>
-                                          </div>
-                                          <div class="price-bottom">
-                                             <div class="sc_price_item_details">
-                                                <ul>
-                                                   <li>4 Heures</li>
-                                                   <li>Max 500 Personnes</li>
-                                                   <li>Decoration</li>
-                                                   <li>Eau</li>
-                                                   <li>Photographe </li>
-                                                   <li>Troupe </li>
-                                                </ul>
-                                             </div>
-                                             <a href="../contacts/index.htm" class="sc_button_iconed sc_button" target="_blank"><span class="sc_button_icon"><span class="icon-arrow_bottom"></span></span></a>
-                                          </div>
-                                       </div>
-                                    </div>
-                                 </div>
-
-
-                                 <div class="trx_addons_column-1_4">
-                                    <div class="sc_price_item sc_price_item_default">
-                                       <div class="sc_price_item_info">
-                                          <div class="price-top">
-                                             <h3 class="sc_price_item_title"><span>OR</span></h3>
-                                             <div class="sc_price_item_price"><span class="sc_price_item_price_before">à partir de</span><span class="sc_price_item_price_value"><br>12k DT</span></div>
-                                          </div>
-                                          <div class="price-bottom">
-                                             <div class="sc_price_item_details">
-                                                <ul>
-                                                   <li>4 Heures</li>
-                                                   <li>Max 500 Personnes</li>
-                                                   <li>Decoration</li>
-                                                   <li>Eau</li>
-                                                   <li>Photographe </li>
-                                                   <li>Troupe </li>
-                                                </ul>
-                                             </div>
-                                             <a href="../contacts/index.htm" class="sc_button_iconed sc_button" target="_blank"><span class="sc_button_icon"><span class="icon-arrow_bottom"></span></span></a>
-                                          </div>
-                                       </div>
-                                    </div>
-                                 </div>
-
-                                 <div class="trx_addons_column-1_4">
-                                    <div class="sc_price_item sc_price_item_default">
-                                       <div class="sc_price_item_info">
-                                          <div class="price-top">
-                                             <h3 class="sc_price_item_title"><span>Diamants</span></h3>
-                                             <div class="sc_price_item_price"><span class="sc_price_item_price_before">à partir de</span><span class="sc_price_item_price_value"><br>15k DT</span></div>
-                                          </div>
-                                          <div class="price-bottom">
-                                             <div class="sc_price_item_details">
-                                                <ul>
-                                                   <li>4 Heures</li>
-                                                   <li>Max 500 Personnes</li>
-                                                   <li>Decoration</li>
-                                                   <li>Eau</li>
-                                                   <li>Photographe </li>
-                                                   <li>Troupe + Seif el sham + Artist </li>
-                                                </ul>
-                                             </div>
-                                             <a href="../contacts/index.htm" class="sc_button_iconed sc_button" target="_blank"><span class="sc_button_icon"><span class="icon-arrow_bottom"></span></span></a>
-                                          </div>
-                                       </div>
-                                    </div>
-                                 </div>
-
-                                
-                                 
-                                 
-                              </div>
-                           </div>
-                           <div class="vc_empty_space  height_large" style="height: 32px"><span class="vc_empty_space_inner"></span></div>
-                           <div class="vc_empty_space  height_medium" style="height: 32px"><span class="vc_empty_space_inner"></span></div>
-                        </div>
-                     </div>
-                  </div>
-               </div>
-               <div class="vc_row-full-width vc_clearfix"></div>
-               <div data-vc-full-width="true" data-vc-full-width-init="false" data-vc-stretch-content="true" class="vc_row wpb_row vc_row-fluid vc_custom_1587482733484 vc_row-has-fill scheme_dark">
-                  <div class="wpb_column vc_column_container vc_col-sm-12 sc_layouts_column_icons_position_left">
-                     <div class="vc_column-inner">
-                        <div class="wpb_wrapper">
-                           <div class="vc_empty_space  height_huge" style="height: 32px"><span class="vc_empty_space_inner"></span></div>
-                           <div id="sc_content_1671393113" class="sc_content color_style_default sc_content_default sc_float_center  vc_custom_1516288539408">
-                              <div class="sc_content_container">
-                                 <div id="sc_testimonials_2142133946" class="sc_testimonials color_style_default sc_testimonials_default serv_lit_margins">
-                                    <h6 class="sc_item_subtitle sc_testimonials_subtitle sc_align_center sc_item_title_style_default">Témoignages</h6>
-                                    <h2 class="sc_item_title sc_testimonials_title sc_align_center sc_item_title_style_default">Clients satisfaits À propos de nous</h2>
-                                    <div class="sc_testimonials_slider sc_item_slider slider_swiper_outer slider_outer slider_outer_nocontrols slider_outer_pagination slider_outer_pagination_bullets slider_outer_pagination_pos_bottom slider_outer_multi">
-                                       <div class="slider_container swiper-slider-container slider_swiper slider_noresize slider_nocontrols slider_pagination slider_pagination_bullets slider_pagination_pos_bottom slider_multi" data-slides-per-view="3" data-slides-space="30" data-slides-min-width="290" data-pagination="bullets">
-                                          <div class="slides slider-wrapper swiper-wrapper sc_item_columns_3">
-                                             <div class="slider-slide swiper-slide">
-                                                <div class="sc_testimonials_item">
-                                                   <div class="sc_testimonials_item_content">
-                                                      <p>Right from the initial meeting, we found PartyMaker to be very organized, detail-oriented and professional. Their final proposed event plan stood out from the other tenders due to the level of detail involved.”</p>
-                                                   </div>
-                                                   <div class="sc_testimonials_item_author">
-                                                      <div class="sc_testimonials_item_author_avatar"><img width="84" height="84" src="<?php echo base_url() ?>assets/wp-content/uploads/2017/10/testi-4.jpg" class="attachment-partymaker-thumb-tiny size-partymaker-thumb-tiny wp-post-image" alt="John Snow"></div>
-                                                      <div class="sc_testimonials_item_author_data">
-                                                         <h4 class="sc_testimonials_item_author_title">John Snow</h4>
-                                                         <div class="sc_testimonials_item_author_subtitle"></div>
-                                                      </div>
-                                                   </div>
-                                                </div>
-                                             </div>
-                                             <div class="slider-slide swiper-slide">
-                                                <div class="sc_testimonials_item">
-                                                   <div class="sc_testimonials_item_content">
-                                                      <p>Thank you so much for all your hard work, your flexibility and diligence in pulling together a very successful event. It was a pleasure working with you. We hope to have the opportunity to work with you again in the future.”</p>
-                                                   </div>
-                                                   <div class="sc_testimonials_item_author">
-                                                      <div class="sc_testimonials_item_author_avatar"><img width="84" height="84" src="<?php echo base_url() ?>assets/wp-content/uploads/2017/10/testi-3.png" class="attachment-partymaker-thumb-tiny size-partymaker-thumb-tiny wp-post-image" alt="Alex Groshvin"></div>
-                                                      <div class="sc_testimonials_item_author_data">
-                                                         <h4 class="sc_testimonials_item_author_title">Alex Groshvin</h4>
-                                                         <div class="sc_testimonials_item_author_subtitle"></div>
-                                                      </div>
-                                                   </div>
-                                                </div>
-                                             </div>
-                                             <div class="slider-slide swiper-slide">
-                                                <div class="sc_testimonials_item">
-                                                   <div class="sc_testimonials_item_content">
-                                                      <p>As the premier event planning company in the area, these people know that it’s not “one size fits all”. Every assignment they take is an event to remember. Our company has been using their services for years.”</p>
-                                                   </div>
-                                                   <div class="sc_testimonials_item_author">
-                                                      <div class="sc_testimonials_item_author_avatar"><img width="84" height="84" src="<?php echo base_url() ?>assets/wp-content/uploads/2017/10/testi-2.png" class="attachment-partymaker-thumb-tiny size-partymaker-thumb-tiny wp-post-image" alt="Elizabeth Growth"></div>
-                                                      <div class="sc_testimonials_item_author_data">
-                                                         <h4 class="sc_testimonials_item_author_title">Elizabeth Growth</h4>
-                                                         <div class="sc_testimonials_item_author_subtitle"></div>
-                                                      </div>
-                                                   </div>
-                                                </div>
-                                             </div>
-                                             <div class="slider-slide swiper-slide">
-                                                <div class="sc_testimonials_item">
-                                                   <div class="sc_testimonials_item_content">
-                                                      <p>I’ve hired this company for my son’s tenth birthday, and, honestly, it turned out to be the best decision I could have made! If you’re still on the fence, I strongly suggest you give these guys a chance – you won’t regret it.”</p>
-                                                   </div>
-                                                   <div class="sc_testimonials_item_author">
-                                                      <div class="sc_testimonials_item_author_avatar"><img width="84" height="84" src="<?php echo base_url() ?>assets/wp-content/uploads/2017/10/testi-1.png" class="attachment-partymaker-thumb-tiny size-partymaker-thumb-tiny wp-post-image" alt="Julia Willams"></div>
-                                                      <div class="sc_testimonials_item_author_data">
-                                                         <h4 class="sc_testimonials_item_author_title">Julia Willams</h4>
-                                                         <div class="sc_testimonials_item_author_subtitle"></div>
-                                                      </div>
-                                                   </div>
-                                                </div>
-                                             </div>
-                                          </div>
-                                       </div>
-                                       <div class="slider_pagination_wrap swiper-pagination"></div>
-                                    </div>
-                                 </div>
-                              </div>
-                           </div>
-                           <div class="vc_empty_space  vc_custom_1516289147284 height_huge" style="height: 32px"><span class="vc_empty_space_inner"></span></div>
-                        </div>
-                     </div>
-                  </div>
-               </div>
-               <div class="vc_row-full-width vc_clearfix"></div>
-               <div data-vc-full-width="true" data-vc-full-width-init="false" data-vc-stretch-content="true" class="vc_row wpb_row vc_row-fluid z-index-1 balloons_section2 vc_row-no-padding">
-                  <div class="wpb_column vc_column_container vc_col-sm-12 sc_layouts_column_icons_position_left">
-                     <div class="vc_column-inner">
-                        <div class="wpb_wrapper">
-                           <div class="sc_content_wrap sc_push_large sc_pull_large">
-                              <div id="sc_content_1824945716" class="sc_content color_style_default sc_content_default sc_float_center">
-                                 <div class="sc_content_container">
-                                    <div class="wpb_single_image wpb_content_element vc_align_left">
-                                       <figure class="wpb_wrapper vc_figure">
-                                          <div class="vc_single_image-wrapper   vc_box_border_grey"><img width="307" height="526" src="<?php echo base_url() ?>assets/wp-content/uploads/2020/04/shary2.png" class="vc_single_image-img attachment-full" alt="" srcset="<?php echo base_url() ?>assets/wp-content/uploads/2020/04/shary2.png 307w, <?php echo base_url() ?>assets/wp-content/uploads/2020/04/shary2-175x300.png 175w" sizes="(max-width: 307px) 100vw, 307px"></div>
-                                       </figure>
-                                    </div>
-                                 </div>
-                              </div>
-                           </div>
-                        </div>
-                     </div>
-                  </div>
-               </div>
-               <div class="vc_row-full-width vc_clearfix"></div>
-               <div data-vc-full-width="true" data-vc-full-width-init="false" class="vc_row wpb_row vc_row-fluid vc_custom_1587474989350 vc_row-has-fill scheme_extra">
-                  <div class="wpb_column vc_column_container vc_col-sm-12 sc_layouts_column_icons_position_left">
-                     <div class="vc_column-inner">
-                        <div class="wpb_wrapper">
-                           <div class="vc_empty_space  vc_custom_1516613226884 height_large" style="height: 32px"><span class="vc_empty_space_inner"></span></div>
-                        </div>
-                     </div>
-                  </div>
-                  <div class="wpb_column vc_column_container vc_col-sm-12 vc_col-md-6 sc_layouts_column_icons_position_left">
-                     <div class="vc_column-inner">
-                        <div class="wpb_wrapper">
-                           <div class="vc_empty_space  height_medium" style="height: 32px"><span class="vc_empty_space_inner"></span></div>
-                           <div id="sc_title_750693787" class="sc_title color_style_default sc_title_default  vc_custom_1516613246419">
-                              <h1 class="sc_item_title sc_title_title sc_align_left sc_item_title_style_default sc_item_title_tag">Notre processus de travail</h1>
-                              <div class="sc_item_descr sc_title_descr sc_align_left">
-                                 <p>Vous avez un événement à planifier et nous avons la solution. En tant que première entreprise de planification d'événements dans notre pays, nous savons qu'il ne s'agit pas d'une « taille unique ».</p>
-                              </div>
-                           </div>
-                           <div class="vc_empty_space  vc_custom_1516613348626 height_medium" style="height: 32px"><span class="vc_empty_space_inner"></span></div>
-                           <a href="../who-we-are-style-1/index.htm" id="sc_button_1029401752" class="sc_button color_style_link2 sc_button_default sc_button_size_normal sc_button_icon_left"><span class="sc_button_text"><span class="sc_button_title">More About Us</span></span></a>
-                        </div>
-                     </div>
-                  </div>
-                  <div class="wpb_column vc_column_container vc_col-sm-12 vc_hidden-lg vc_hidden-md sc_layouts_column_icons_position_left">
-                     <div class="vc_column-inner">
-                        <div class="wpb_wrapper">
-                           <div class="vc_empty_space  height_large" style="height: 32px"><span class="vc_empty_space_inner"></span></div>
-                        </div>
-                     </div>
-                  </div>
-                  <div class="wpb_column vc_column_container vc_col-sm-12 vc_col-md-6 sc_layouts_column_icons_position_left">
-                     <div class="vc_column-inner">
-                        <div class="wpb_wrapper">
-                           <div id="sc_content_1362724838" class="sc_content color_style_default sc_content_shadowed sc_float_center">
-                              <div class="sc_content_container">
-                                 <div id="widget_video_1760708694" class="widget_area sc_widget_video vc_widget_video wpb_content_element">
-                                    <aside id="widget_video_1760708694_widget" class="widget widget_video">
-                                       <div id="sc_video_1494512934" class="trx_addons_video_player with_cover hover_play">
-                                          <img src="<?php echo base_url() ?>assets/wp-content/uploads/2017/10/bg-11.jpg" alt="" width="507" height="418">
-                                          <div class="video_mask"></div>
-                                          <div class="video_hover" data-video="&lt;iframe title=&quot;FASHION WEEK SS13&quot; src=&quot;https://player.vimeo.com/video/51959108?dnt=1&amp;app_id=122963&amp;autoplay=1&quot; width=&quot;1280&quot; height=&quot;720&quot; frameborder=&quot;0&quot; allow=&quot;autoplay; fullscreen&quot; allowfullscreen&gt;&lt;/iframe&gt;"></div>
-                                          <div class="video_embed video_frame"></div>
-                                       </div>
-                                    </aside>
-                                 </div>
-                              </div>
-                           </div>
-                        </div>
-                     </div>
-                  </div>
-                  <div class="wpb_column vc_column_container vc_col-sm-12 sc_layouts_column_icons_position_left">
-                     <div class="vc_column-inner">
-                        <div class="wpb_wrapper">
-                           <div class="vc_empty_space  vc_custom_1516613407517 height_large" style="height: 32px"><span class="vc_empty_space_inner"></span></div>
-                        </div>
-                     </div>
-                  </div>
-               </div>
-               <div class="vc_row-full-width vc_clearfix"></div>
-               <div data-vc-full-width="true" data-vc-full-width-init="false" class="vc_row wpb_row vc_row-fluid vc_custom_1587474959683 vc_row-has-fill scheme_extra">
-                  <div class="wpb_column vc_column_container vc_col-sm-12 sc_layouts_column_icons_position_left">
-                     <div class="vc_column-inner">
-                        <div class="wpb_wrapper">
-                           <div class="vc_empty_space  height_huge" style="height: 32px"><span class="vc_empty_space_inner"></span></div>
-                           <div id="sc_team_660028055" class="sc_team color_style_default sc_team_default">
-                              <h6 class="sc_item_subtitle sc_team_subtitle sc_align_center sc_item_title_style_default">Notre meilleure équipe</h6>
-                              <h2 class="sc_item_title sc_team_title sc_align_center sc_item_title_style_default">Notre équipe de professionnels</h2>
-                              <div class="sc_team_columns_wrap sc_item_columns trx_addons_columns_wrap columns_padding_bottom">
-                                 <div class="trx_addons_column-1_4">
-                                    <div class="sc_team_item">
-                                       <div class="post_featured with_thumb hover_dots sc_team_item_thumb">
-                                          <img width="370" height="370" src="<?php echo base_url() ?>assets/wp-content/uploads/2017/10/team1-370x370.jpg" class="attachment-partymaker-thumb-square size-partymaker-thumb-square wp-post-image" alt="" srcset="<?php echo base_url() ?>assets/wp-content/uploads/2017/10/team1-370x370.jpg 370w, <?php echo base_url() ?>assets/wp-content/uploads/2017/10/team1-150x150.jpg 150w, <?php echo base_url() ?>assets/wp-content/uploads/2017/10/team1-300x300.jpg 300w, <?php echo base_url() ?>assets/wp-content/uploads/2017/10/team1-768x768.jpg 768w, <?php echo base_url() ?>assets/wp-content/uploads/2017/10/team1-740x740.jpg 740w, <?php echo base_url() ?>assets/wp-content/uploads/2017/10/team1-90x90.jpg 90w, <?php echo base_url() ?>assets/wp-content/uploads/2017/10/team1-180x180.jpg 180w, <?php echo base_url() ?>assets/wp-content/uploads/2017/10/team1-760x760.jpg 760w, <?php echo base_url() ?>assets/wp-content/uploads/2017/10/team1-450x450.jpg 450w, <?php echo base_url() ?>assets/wp-content/uploads/2017/10/team1-600x600.jpg 600w, <?php echo base_url() ?>assets/wp-content/uploads/2017/10/team1-100x100.jpg 100w, <?php echo base_url() ?>assets/wp-content/uploads/2017/10/team1.jpg 1000w" sizes="(max-width: 370px) 100vw, 370px">
-                                          <div class="mask"></div>
-                                          <a href="../team/julia-mann/index.htm" aria-hidden="true" class="icons"><span></span><span></span><span></span></a>
-                                       </div>
-                                       <div class="sc_team_item_info">
-                                          <div class="sc_team_item_header">
-                                             <h4 class="sc_team_item_title"><a href="../team/julia-mann/index.htm">Haythem Abidi</a></h4>
-                                             <div class="sc_team_item_subtitle">Directeur Fondateur</div>
-                                          </div>
-                                          <div class="sc_team_item_content">
-                                             <p>Lorem ipsum dolor sit amet, per tempor salutatus in, ad veniam mentitum prodesset mei. Ut est legere salutandi, eam ea euismod vivendum scriptorem. Vel&hellip;</p>
-                                          </div>
-                                          <div class="sc_team_item_socials socials_wrap"><a target="_blank" href="https://www.facebook.com/AncoraThemes/" class="social_item social_item_style_icons social_item_type_icons"><span class="social_icon social_icon_facebook"><span class="icon-facebook"></span></span></a><a target="_blank" href="https://twitter.com/ancora_themes" class="social_item social_item_style_icons social_item_type_icons"><span class="social_icon social_icon_twitter"><span class="icon-twitter"></span></span></a></div>
-                                          <div class="sc_team_item_button"><a href="../team/julia-mann/index.htm" class="sc_button sc_button_simple">Learn more</a></div>
-                                       </div>
-                                    </div>
-                                 </div>
-                                 <div class="trx_addons_column-1_4">
-                                    <div class="sc_team_item">
-                                       <div class="post_featured with_thumb hover_dots sc_team_item_thumb">
-                                          <img width="370" height="370" src="<?php echo base_url() ?>assets/wp-content/uploads/2017/10/team2-370x370.jpg" class="attachment-partymaker-thumb-square size-partymaker-thumb-square wp-post-image" alt="" srcset="<?php echo base_url() ?>assets/wp-content/uploads/2017/10/team2-370x370.jpg 370w, <?php echo base_url() ?>assets/wp-content/uploads/2017/10/team2-150x150.jpg 150w, <?php echo base_url() ?>assets/wp-content/uploads/2017/10/team2-300x300.jpg 300w, <?php echo base_url() ?>assets/wp-content/uploads/2017/10/team2-768x768.jpg 768w, <?php echo base_url() ?>assets/wp-content/uploads/2017/10/team2-740x740.jpg 740w, <?php echo base_url() ?>assets/wp-content/uploads/2017/10/team2-90x90.jpg 90w, <?php echo base_url() ?>assets/wp-content/uploads/2017/10/team2-180x180.jpg 180w, <?php echo base_url() ?>assets/wp-content/uploads/2017/10/team2-760x760.jpg 760w, <?php echo base_url() ?>assets/wp-content/uploads/2017/10/team2-450x450.jpg 450w, <?php echo base_url() ?>assets/wp-content/uploads/2017/10/team2-600x600.jpg 600w, <?php echo base_url() ?>assets/wp-content/uploads/2017/10/team2-100x100.jpg 100w, <?php echo base_url() ?>assets/wp-content/uploads/2017/10/team2.jpg 1000w" sizes="(max-width: 370px) 100vw, 370px">
-                                          <div class="mask"></div>
-                                          <a href="../team/sofie-gilmor/index.htm" aria-hidden="true" class="icons"><span></span><span></span><span></span></a>
-                                       </div>
-                                       <div class="sc_team_item_info">
-                                          <div class="sc_team_item_header">
-                                             <h4 class="sc_team_item_title"><a href="../team/sofie-gilmor/index.htm">Ala Maaref</a></h4>
-                                             <div class="sc_team_item_subtitle">Co-fondateur</div>
-                                          </div>
-                                          <div class="sc_team_item_content">
-                                             <p>Lorem ipsum dolor sit amet, per tempor salutatus in, ad veniam mentitum prodesset mei. Ut est legere salutandi, eam ea euismod vivendum scriptorem. Vel&hellip;</p>
-                                          </div>
-                                          <div class="sc_team_item_socials socials_wrap"><a target="_blank" href="https://www.facebook.com/AncoraThemes/" class="social_item social_item_style_icons social_item_type_icons"><span class="social_icon social_icon_facebook"><span class="icon-facebook"></span></span></a><a target="_blank" href="https://twitter.com/ancora_themes" class="social_item social_item_style_icons social_item_type_icons"><span class="social_icon social_icon_twitter"><span class="icon-twitter"></span></span></a></div>
-                                          <div class="sc_team_item_button"><a href="../team/sofie-gilmor/index.htm" class="sc_button sc_button_simple">Learn more</a></div>
-                                       </div>
-                                    </div>
-                                 </div>
-                                 <div class="trx_addons_column-1_4">
-                                    <div class="sc_team_item">
-                                       <div class="post_featured with_thumb hover_dots sc_team_item_thumb">
-                                          <img width="370" height="370" src="<?php echo base_url() ?>assets/wp-content/uploads/2017/10/team3-370x370.jpg" class="attachment-partymaker-thumb-square size-partymaker-thumb-square wp-post-image" alt="" srcset="<?php echo base_url() ?>assets/wp-content/uploads/2017/10/team3-370x370.jpg 370w, <?php echo base_url() ?>assets/wp-content/uploads/2017/10/team3-150x150.jpg 150w, <?php echo base_url() ?>assets/wp-content/uploads/2017/10/team3-300x300.jpg 300w, <?php echo base_url() ?>assets/wp-content/uploads/2017/10/team3-768x768.jpg 768w, <?php echo base_url() ?>assets/wp-content/uploads/2017/10/team3-740x740.jpg 740w, <?php echo base_url() ?>assets/wp-content/uploads/2017/10/team3-90x90.jpg 90w, <?php echo base_url() ?>assets/wp-content/uploads/2017/10/team3-180x180.jpg 180w, <?php echo base_url() ?>assets/wp-content/uploads/2017/10/team3-760x760.jpg 760w, <?php echo base_url() ?>assets/wp-content/uploads/2017/10/team3-450x450.jpg 450w, <?php echo base_url() ?>assets/wp-content/uploads/2017/10/team3-600x600.jpg 600w, <?php echo base_url() ?>assets/wp-content/uploads/2017/10/team3-100x100.jpg 100w, <?php echo base_url() ?>assets/wp-content/uploads/2017/10/team3.jpg 1000w" sizes="(max-width: 370px) 100vw, 370px">
-                                          <div class="mask"></div>
-                                          <a href="../team/jessica-smith/index.htm" aria-hidden="true" class="icons"><span></span><span></span><span></span></a>
-                                       </div>
-                                       <div class="sc_team_item_info">
-                                          <div class="sc_team_item_header">
-                                             <h4 class="sc_team_item_title"><a href="../team/jessica-smith/index.htm">Koussay Bahaedinne Maiza</a></h4>
-                                             <div class="sc_team_item_subtitle">Directeur Technique</div>
-                                          </div>
-                                          <div class="sc_team_item_content">
-                                             <p>Lorem ipsum dolor sit amet, per tempor salutatus in, ad veniam mentitum prodesset mei. Ut est legere salutandi, eam ea euismod vivendum scriptorem. Vel&hellip;</p>
-                                          </div>
-                                          <div class="sc_team_item_socials socials_wrap"><a target="_blank" href="https://www.facebook.com/AncoraThemes/" class="social_item social_item_style_icons social_item_type_icons"><span class="social_icon social_icon_facebook"><span class="icon-facebook"></span></span></a><a target="_blank" href="https://twitter.com/ancora_themes" class="social_item social_item_style_icons social_item_type_icons"><span class="social_icon social_icon_twitter"><span class="icon-twitter"></span></span></a></div>
-                                          <div class="sc_team_item_button"><a href="../team/jessica-smith/index.htm" class="sc_button sc_button_simple">Learn more</a></div>
-                                       </div>
-                                    </div>
-                                 </div>
-                                 <div class="trx_addons_column-1_4">
-                                    <div class="sc_team_item">
-                                       <div class="post_featured with_thumb hover_dots sc_team_item_thumb">
-                                          <img width="370" height="370" src="<?php echo base_url() ?>assets/wp-content/uploads/2017/10/team4-370x370.jpg" class="attachment-partymaker-thumb-square size-partymaker-thumb-square wp-post-image" alt="" srcset="<?php echo base_url() ?>assets/wp-content/uploads/2017/10/team4-370x370.jpg 370w, <?php echo base_url() ?>assets/wp-content/uploads/2017/10/team4-150x150.jpg 150w, <?php echo base_url() ?>assets/wp-content/uploads/2017/10/team4-300x300.jpg 300w, <?php echo base_url() ?>assets/wp-content/uploads/2017/10/team4-768x768.jpg 768w, <?php echo base_url() ?>assets/wp-content/uploads/2017/10/team4-740x740.jpg 740w, <?php echo base_url() ?>assets/wp-content/uploads/2017/10/team4-90x90.jpg 90w, <?php echo base_url() ?>assets/wp-content/uploads/2017/10/team4-180x180.jpg 180w, <?php echo base_url() ?>assets/wp-content/uploads/2017/10/team4-760x760.jpg 760w, <?php echo base_url() ?>assets/wp-content/uploads/2017/10/team4-450x450.jpg 450w, <?php echo base_url() ?>assets/wp-content/uploads/2017/10/team4-600x600.jpg 600w, <?php echo base_url() ?>assets/wp-content/uploads/2017/10/team4-100x100.jpg 100w, <?php echo base_url() ?>assets/wp-content/uploads/2017/10/team4.jpg 1000w" sizes="(max-width: 370px) 100vw, 370px">
-                                          <div class="mask"></div>
-                                          <a href="../team/ann-wagner/index.htm" aria-hidden="true" class="icons"><span></span><span></span><span></span></a>
-                                       </div>
-                                       <div class="sc_team_item_info">
-                                          <div class="sc_team_item_header">
-                                             <h4 class="sc_team_item_title"><a href="../team/ann-wagner/index.htm">Lynda Abidi</a></h4>
-                                             <div class="sc_team_item_subtitle">Responsable comercial</div>
-                                          </div>
-                                          <div class="sc_team_item_content">
-                                             <p>Lorem ipsum dolor sit amet, per tempor salutatus in, ad veniam mentitum prodesset mei. Ut est legere salutandi, eam ea euismod vivendum scriptorem. Vel&hellip;</p>
-                                          </div>
-                                          <div class="sc_team_item_socials socials_wrap"><a target="_blank" href="https://www.facebook.com/AncoraThemes/" class="social_item social_item_style_icons social_item_type_icons"><span class="social_icon social_icon_facebook"><span class="icon-facebook"></span></span></a><a target="_blank" href="https://twitter.com/ancora_themes" class="social_item social_item_style_icons social_item_type_icons"><span class="social_icon social_icon_twitter"><span class="icon-twitter"></span></span></a></div>
-                                          <div class="sc_team_item_button"><a href="../team/ann-wagner/index.htm" class="sc_button sc_button_simple">Learn more</a></div>
-                                       </div>
-                                    </div>
-                                 </div>
-                              </div>
-                              <div class="sc_item_button sc_button_wrap sc_align_center"><a href="../who-we-are-style-1/index.htm" id="sc_button_1096218856" class="sc_button color_style_default sc_button_default sc_item_button sc_item_button_default sc_team_button sc_button_size_normal sc_button_icon_left"><span class="sc_button_text"><span class="sc_button_title">View More</span></span></a></div>
-                           </div>
-                           <div class="vc_empty_space  height_huge" style="height: 32px"><span class="vc_empty_space_inner"></span></div>
-                        </div>
-                     </div>
-                  </div>
-               </div>
-               <div class="vc_row-full-width vc_clearfix"></div>
-               <div data-vc-full-width="true" data-vc-full-width-init="false" class="vc_row wpb_row vc_row-fluid vc_custom_1587475082856 vc_row-has-fill vc_row-o-equal-height vc_row-o-content-middle vc_row-flex scheme_extra">
-                  <div class="wpb_column vc_column_container vc_col-sm-12 sc_layouts_column_icons_position_left">
-                     <div class="vc_column-inner">
-                        <div class="wpb_wrapper">
-                           <div class="vc_empty_space  vc_custom_1516613585208 height_medium" style="height: 32px"><span class="vc_empty_space_inner"></span></div>
-                        </div>
-                     </div>
-                  </div>
-                  <div class="wpb_column vc_column_container vc_col-sm-4 sc_layouts_column_icons_position_left">
-                     <div class="vc_column-inner">
-                        <div class="wpb_wrapper">
-                           <div id="sc_title_1107196212" class="sc_title color_style_default sc_title_default">
-                              <h2 class="sc_item_title sc_title_title sc_align_left sc_item_title_style_default">Nos clients</h2>
-                           </div>
-                        </div>
-                     </div>
-                  </div>
-                  <div class="wpb_column vc_column_container vc_col-sm-8 sc_layouts_column_icons_position_left">
-                     <div class="vc_column-inner">
-                        <div class="wpb_wrapper">
-                           <div id="widget_slider_1173807526" class="widget_area sc_widget_slider vc_widget_slider wpb_content_element">
-                              <aside id="widget_slider_1173807526_widget" class="widget widget_slider">
-                                 <div class="slider_wrap slider_engine_swiper">
-                                    <div id="widget_slider_1173807526_outer" class="slider_outer slider_swiper_outer slider_style_default slider_outer_direction_horizontal slider_outer_multi slider_outer_nopagination slider_outer_nocontrols slider_outer_titles_center">
-                                       <div id="widget_slider_1173807526_swiper" class="slider_container slider_swiper swiper-slider-container slider_nocontrols slider_titles_center slider_resize slider_height_auto slider_direction_horizontal slider_nopagination slider_multi slider_type_images" data-ratio="70х250" data-interval="7000" data-effect="slide" data-pagination="bullets" data-direction="horizontal" data-slides-per-view="5" data-slides-space="0">
-                                          <div class="slider-wrapper swiper-wrapper">
-                                             <div class="slider-slide swiper-slide" data-image="http://partymaker.ancorathemes.com/wp-content/uploads/2017/10/client-01.png" style=""><img src="<?php echo base_url() ?>assets/wp-content/uploads/2017/10/client-01.png" alt=""></div>
-                                             <div class="slider-slide swiper-slide" data-image="http://partymaker.ancorathemes.com/wp-content/uploads/2017/10/client-2.png" style=""><img src="<?php echo base_url() ?>assets/wp-content/uploads/2017/10/client-2.png" alt=""></div>
-                                             <div class="slider-slide swiper-slide" data-image="http://partymaker.ancorathemes.com/wp-content/uploads/2017/10/client-3.png" style=""><img src="<?php echo base_url() ?>assets/wp-content/uploads/2017/10/client-3.png" alt=""></div>
-                                             <div class="slider-slide swiper-slide" data-image="http://partymaker.ancorathemes.com/wp-content/uploads/2017/10/client-4.png" style=""><img src="<?php echo base_url() ?>assets/wp-content/uploads/2017/10/client-4.png" alt=""></div>
-                                             <div class="slider-slide swiper-slide" data-image="http://partymaker.ancorathemes.com/wp-content/uploads/2017/10/client-5.png" style=""><img src="<?php echo base_url() ?>assets/wp-content/uploads/2017/10/client-5.png" alt=""></div>
-                                          </div>
-                                       </div>
-                                    </div>
-                                 </div>
-                              </aside>
-                           </div>
-                        </div>
-                     </div>
-                  </div>
-                  <div class="wpb_column vc_column_container vc_col-sm-12 sc_layouts_column_icons_position_left">
-                     <div class="vc_column-inner">
-                        <div class="wpb_wrapper">
-                           <div class="vc_empty_space  vc_custom_1516613589398 height_medium" style="height: 32px"><span class="vc_empty_space_inner"></span></div>
-                        </div>
-                     </div>
-                  </div>
-               </div>
-               <div class="vc_row-full-width vc_clearfix"></div>
-               <div data-vc-full-width="true" data-vc-full-width-init="false" data-vc-stretch-content="true" class="vc_row wpb_row vc_row-fluid vc_row-no-padding">
-                  <div class="wpb_column vc_column_container vc_col-sm-12 vc_col-md-6 sc_layouts_column_icons_position_left">
-                     <div class="vc_column-inner vc_custom_1516695747634">
-                        <div class="wpb_wrapper">
-                           <div class="vc_empty_space" style="height: 13px"><span class="vc_empty_space_inner"></span></div>
-                           <article class="myportfolio-container minimal-light source_type_post" id="esg-grid-4-1-wrap">
-                              <div id="esg-grid-4-1" class="esg-grid" style="background: transparent;padding: 0px 0px 0px 0px ; box-sizing:border-box; -moz-box-sizing:border-box; -webkit-box-sizing:border-box;">
-                                 <ul>
-                                    <li id="eg-4-post-id-151" data-skin="partymaker" class="filterall filter-holidays filter-weddings eg-partymaker-wrapper eg-post-id-151" data-date="1504963214" data-cobblesw="2" data-cobblesh="1">
-                                       <div class="esg-media-cover-wrapper">
-                                          <div class="esg-entry-media"><img src="<?php echo base_url() ?>assets/wp-content/uploads/2017/10/gallery-1.jpg" data-no-lazy="1" alt="" width="1600" height="762"></div>
-                                          <div class="esg-entry-cover esg-transition" data-delay="0" data-duration="deafult" data-transition="esg-fade">
-                                             <div class="esg-overlay esg-transition eg-partymaker-container" data-delay="0" data-duration="default" data-transition="esg-fade"></div>
-                                             <div class="esg-center eg-post-151 eg-partymaker-element-1 esg-transition" data-delay="0.05" data-duration="default" data-transition="esg-flipup">How To Be An Event Planner</div>
-                                             <div class="esg-center eg-partymaker-element-5 esg-none esg-clear" style="height: 5px; visibility: hidden;"></div>
-                                             <div class="esg-center eg-post-151 eg-partymaker-element-2-a esg-transition" data-delay="0.05" data-duration="default" data-transition="esg-rotatescale"><a class="eg-partymaker-element-2 eg-post-151 esgbox" href="<?php echo base_url() ?>assets/wp-content/uploads/2017/10/gallery-1.jpg" data-width="1600" data-height="762"><i class="eg-icon-plus"></i></a></div>
-                                          </div>
-                                       </div>
-                                    </li>
-                                    <li id="eg-4-post-id-160" data-skin="partymaker" class="filterall filter-holidays filter-corporate filter-weddings eg-partymaker-wrapper eg-post-id-160" data-date="1504963973" data-cobblesw="1" data-cobblesh="1">
-                                       <div class="esg-media-cover-wrapper">
-                                          <div class="esg-entry-media"><img src="<?php echo base_url() ?>assets/wp-content/uploads/2017/10/gallery-4.jpg" data-no-lazy="1" alt="" width="1600" height="1600"></div>
-                                          <div class="esg-entry-cover esg-transition" data-delay="0" data-duration="deafult" data-transition="esg-fade">
-                                             <div class="esg-overlay esg-transition eg-partymaker-container" data-delay="0" data-duration="default" data-transition="esg-fade"></div>
-                                             <div class="esg-center eg-post-160 eg-partymaker-element-1 esg-transition" data-delay="0.05" data-duration="default" data-transition="esg-flipup">How To Hire Event Staff</div>
-                                             <div class="esg-center eg-partymaker-element-5 esg-none esg-clear" style="height: 5px; visibility: hidden;"></div>
-                                             <div class="esg-center eg-post-160 eg-partymaker-element-2-a esg-transition" data-delay="0.05" data-duration="default" data-transition="esg-rotatescale"><a class="eg-partymaker-element-2 eg-post-160 esgbox" href="<?php echo base_url() ?>assets/wp-content/uploads/2017/10/gallery-4.jpg" data-width="1600" data-height="1600"><i class="eg-icon-plus"></i></a></div>
-                                          </div>
-                                       </div>
-                                    </li>
-                                    <li id="eg-4-post-id-163" data-skin="partymaker" class="filterall filter-holidays filter-corporate filter-engagement eg-partymaker-wrapper eg-post-id-163" data-date="1504964063" data-cobblesw="1" data-cobblesh="1">
-                                       <div class="esg-media-cover-wrapper">
-                                          <div class="esg-entry-media"><img src="<?php echo base_url() ?>assets/wp-content/uploads/2017/10/gallery-5.jpg" data-no-lazy="1" alt="" width="1600" height="1600"></div>
-                                          <div class="esg-entry-cover esg-transition" data-delay="0" data-duration="deafult" data-transition="esg-fade">
-                                             <div class="esg-overlay esg-transition eg-partymaker-container" data-delay="0" data-duration="default" data-transition="esg-fade"></div>
-                                             <div class="esg-center eg-post-163 eg-partymaker-element-1 esg-transition" data-delay="0.05" data-duration="default" data-transition="esg-flipup">How Wedding Planners Can Target A New Generation</div>
-                                             <div class="esg-center eg-partymaker-element-5 esg-none esg-clear" style="height: 5px; visibility: hidden;"></div>
-                                             <div class="esg-center eg-post-163 eg-partymaker-element-2-a esg-transition" data-delay="0.05" data-duration="default" data-transition="esg-rotatescale"><a class="eg-partymaker-element-2 eg-post-163 esgbox" href="<?php echo base_url() ?>assets/wp-content/uploads/2017/10/gallery-5.jpg" data-width="1600" data-height="1600"><i class="eg-icon-plus"></i></a></div>
-                                          </div>
-                                       </div>
-                                    </li>
-                                 </ul>
-                              </div>
-                           </article>
-                           <div class="clear"></div>
-                           <script type="text/javascript">
-                              var essapi_4;
-                              jQuery(document).ready(function() {
-                                  essapi_4 = jQuery("#esg-grid-4-1").tpessential({
-                                      gridID:4,
-                                      layout:"cobbles",
-                                      forceFullWidth:"off",
-                                      lazyLoad:"off",
-                                      row:3,
-                                      apiName: "essapi_4",
-                                      loadMoreAjaxToken:"ab3f3e575a",
-                                      loadMoreAjaxUrl:"http://partymaker.ancorathemes.com/wp-admin/admin-ajax.php",
-                                      loadMoreAjaxAction:"Essential_Grid_Front_request_ajax",
-                                      ajaxContentTarget:"ess-grid-ajax-container-",
-                                      ajaxScrollToOffset:"0",
-                                      ajaxCloseButton:"off",
-                                      ajaxContentSliding:"on",
-                                      ajaxScrollToOnLoad:"on",
-                                      ajaxCallbackArgument:"off",
-                                      ajaxNavButton:"off",
-                                      ajaxCloseType:"type1",
-                                      ajaxCloseInner:"false",
-                                      ajaxCloseStyle:"light",
-                                      ajaxClosePosition:"tr",
-                                      space:13,
-                                      pageAnimation:"fade",
-                                      startAnimation: "none",
-                                      startAnimationSpeed: 1000,
-                                      startAnimationDelay: 100,
-                                      startAnimationType: "item",
-                                      animationType: "item",
-                                      paginationScrollToTop:"off",
-                                      paginationAutoplay:"off",
-                                      spinner:"spinner0",
-                                      lightBoxMode:"single",
-                                      lightboxHash:"group",
-                                      lightboxPostMinWid:"75%",
-                                      lightboxPostMaxWid:"75%",
-                                      lightboxSpinner:"off",
-                                      lightBoxFeaturedImg:"off",
-                                      lightBoxPostTitle:"off",
-                                      lightBoxPostTitleTag:"h2",
-                                      lightboxMargin : "0|0|0|0",
-                                      lbContentPadding : "0|0|0|0",
-                                      lbContentOverflow : "auto",
-                                      animSpeed:1000,
-                                      delayBasic:1,
-                                      mainhoverdelay:1,
-                                      filterType:"single",
-                                      showDropFilter:"hover",
-                                      filterGroupClass:"esg-fgc-4",
-                                      filterNoMatch:"No Items for the Selected Filter",
-                                      filterDeepLink:"off",
-                                      hideMarkups: "on",
-                                      inViewport: true,
-                                      viewportBuffer: 20,
-                                      youtubeNoCookie:"false",
-                                      convertFilterMobile:false,
-                                      paginationSwipe: "off",
-                                      paginationDragVer: "on",
-                                      pageSwipeThrottle: 30,
-                                      googleFonts:['Open+Sans:300,400,600,700,800','Raleway:100,200,300,400,500,600,700,800,900','Droid+Serif:400,700'],
-                                      aspectratio:"4:4",
-                                      hideBlankItemsAt: "1",
-                                      responsiveEntries: [
-                                                      { width:1400,amount:2,mmheight:0},
-                                                      { width:1170,amount:2,mmheight:0},
-                                                      { width:1024,amount:2,mmheight:0},
-                                                      { width:960,amount:2,mmheight:0},
-                                                      { width:778,amount:2,mmheight:0},
-                                                      { width:640,amount:2,mmheight:0},
-                                                      { width:480,amount:1,mmheight:0}
-                                                      ]
-                                  });
-                              
-                                  var arrows = true,
-                                      lightboxOptions = {
-                                      margin : [0,0,0,0],
-                                      buttons : ["share","thumbs","close"],
-                                      infobar : true,
-                                      loop : true,
-                                      slideShow : {"autoStart": false, "speed": 3000},
-                                      animationEffect : "fade",
-                                      animationDuration : 500,
-                                      beforeShow: function(a, c) {
-                                        if(!arrows) {
-                                            jQuery("body").addClass("esgbox-hidearrows");
-                                        }
-                                          var i = 0,
-                                              multiple = false;
-                                          a = a.slides;
-                                          for(var b in a) {
-                                              i++;
-                                              if(i > 1) {
-                                                  multiple = true;
-                                                  break;
-                                              }
-                                          }
-                                          if(!multiple) jQuery("body").addClass("esgbox-single");
-                                          if(c.type === "image") jQuery(".esgbox-button--zoom").show();
-                                      },
-                                      beforeLoad: function(a, b) {
-                                          jQuery("body").removeClass("esg-four-by-three");
-                                          if(b.opts.$orig.data("ratio") === "4:3") jQuery("body").addClass("esg-four-by-three");
-                                      },
-                                      afterLoad: function() {jQuery(window).trigger("resize.esglb");},
-                                      afterClose : function() {jQuery("body").removeClass("esgbox-hidearrows esgbox-single");},
-                                      transitionEffect : "fade",
-                                      transitionDuration : 366,
-                                      hash : "group",
-                                      arrows : true,
-                                      wheel : false,
-                                  };
-                              
-                                  jQuery("#esg-grid-4-1").data("lightboxsettings", lightboxOptions);
-                              
-                              
-                                  try{
-                                      jQuery("#esg-grid-4-1 .esgbox").esgbox(lightboxOptions);
-                                  } catch (e) {}
-                              
-                              });
-                           </script>
-                        </div>
-                     </div>
-                  </div>
-                  <div class="wpb_column vc_column_container vc_col-sm-12 vc_col-md-6 sc_layouts_column_icons_position_left">
-                     <div class="vc_column-inner vc_custom_1516695725741">
-                        <div class="wpb_wrapper">
-                           <div class="vc_empty_space" style="height: 13px"><span class="vc_empty_space_inner"></span></div>
-                           <article class="myportfolio-container minimal-light source_type_post" id="esg-grid-5-2-wrap">
-                              <div id="esg-grid-5-2" class="esg-grid" style="background: transparent;padding: 0px 0px 0px 0px ; box-sizing:border-box; -moz-box-sizing:border-box; -webkit-box-sizing:border-box;">
-                                 <ul>
-                                    <li id="eg-5-post-id-157" data-skin="partymaker" class="filterall filter-holidays filter-engagement eg-partymaker-wrapper eg-post-id-157" data-date="1504963481" data-cobblesw="1" data-cobblesh="1">
-                                       <div class="esg-media-cover-wrapper">
-                                          <div class="esg-entry-media"><img src="<?php echo base_url() ?>assets/wp-content/uploads/2017/10/gallery-3.jpg" data-no-lazy="1" alt="" width="1600" height="1600"></div>
-                                          <div class="esg-entry-cover esg-transition" data-delay="0" data-duration="deafult" data-transition="esg-fade">
-                                             <div class="esg-overlay esg-transition eg-partymaker-container" data-delay="0" data-duration="default" data-transition="esg-fade"></div>
-                                             <div class="esg-center eg-post-157 eg-partymaker-element-1 esg-transition" data-delay="0.05" data-duration="default" data-transition="esg-flipup">10 Step Event Planning Business Plan</div>
-                                             <div class="esg-center eg-partymaker-element-5 esg-none esg-clear" style="height: 5px; visibility: hidden;"></div>
-                                             <div class="esg-center eg-post-157 eg-partymaker-element-2-a esg-transition" data-delay="0.05" data-duration="default" data-transition="esg-rotatescale"><a class="eg-partymaker-element-2 eg-post-157 esgbox" href="<?php echo base_url() ?>assets/wp-content/uploads/2017/10/gallery-3.jpg" data-width="1600" data-height="1600"><i class="eg-icon-plus"></i></a></div>
-                                          </div>
-                                       </div>
-                                    </li>
-                                    <li id="eg-5-post-id-187" data-skin="partymaker" class="filterall filter-holidays filter-weddings eg-partymaker-wrapper eg-post-id-187" data-date="1504965390" data-cobblesw="1" data-cobblesh="1">
-                                       <div class="esg-media-cover-wrapper">
-                                          <div class="esg-entry-media"><img src="<?php echo base_url() ?>assets/wp-content/uploads/2017/10/gallery-13.jpg" data-no-lazy="1" alt="" width="1600" height="1600"></div>
-                                          <div class="esg-entry-cover esg-transition" data-delay="0" data-duration="deafult" data-transition="esg-fade">
-                                             <div class="esg-overlay esg-transition eg-partymaker-container" data-delay="0" data-duration="default" data-transition="esg-fade"></div>
-                                             <div class="esg-center eg-post-187 eg-partymaker-element-1 esg-transition" data-delay="0.05" data-duration="default" data-transition="esg-flipup">7 Birthday Surprise Ideas To Make Their Day Special</div>
-                                             <div class="esg-center eg-partymaker-element-5 esg-none esg-clear" style="height: 5px; visibility: hidden;"></div>
-                                             <div class="esg-center eg-post-187 eg-partymaker-element-2-a esg-transition" data-delay="0.05" data-duration="default" data-transition="esg-rotatescale"><a class="eg-partymaker-element-2 eg-post-187 esgbox" href="<?php echo base_url() ?>assets/wp-content/uploads/2017/10/gallery-13.jpg" data-width="1600" data-height="1600"><i class="eg-icon-plus"></i></a></div>
-                                          </div>
-                                       </div>
-                                    </li>
-                                 </ul>
-                              </div>
-                           </article>
-                           <div class="clear"></div>
-                           <script type="text/javascript">
-                              var essapi_5;
-                              jQuery(document).ready(function() {
-                                  essapi_5 = jQuery("#esg-grid-5-2").tpessential({
-                                      gridID:5,
-                                      layout:"cobbles",
-                                      forceFullWidth:"off",
-                                      lazyLoad:"off",
-                                      row:10,
-                                      apiName: "essapi_5",
-                                      loadMoreAjaxToken:"ab3f3e575a",
-                                      loadMoreAjaxUrl:"http://partymaker.ancorathemes.com/wp-admin/admin-ajax.php",
-                                      loadMoreAjaxAction:"Essential_Grid_Front_request_ajax",
-                                      ajaxContentTarget:"ess-grid-ajax-container-",
-                                      ajaxScrollToOffset:"0",
-                                      ajaxCloseButton:"off",
-                                      ajaxContentSliding:"on",
-                                      ajaxScrollToOnLoad:"on",
-                                      ajaxCallbackArgument:"off",
-                                      ajaxNavButton:"off",
-                                      ajaxCloseType:"type1",
-                                      ajaxCloseInner:"false",
-                                      ajaxCloseStyle:"light",
-                                      ajaxClosePosition:"tr",
-                                      space:13,
-                                      pageAnimation:"fade",
-                                      startAnimation: "none",
-                                      startAnimationSpeed: 1000,
-                                      startAnimationDelay: 100,
-                                      startAnimationType: "item",
-                                      animationType: "item",
-                                      paginationScrollToTop:"off",
-                                      paginationAutoplay:"off",
-                                      spinner:"spinner0",
-                                      lightBoxMode:"single",
-                                      lightboxHash:"group",
-                                      lightboxPostMinWid:"75%",
-                                      lightboxPostMaxWid:"75%",
-                                      lightboxSpinner:"off",
-                                      lightBoxFeaturedImg:"off",
-                                      lightBoxPostTitle:"off",
-                                      lightBoxPostTitleTag:"h2",
-                                      lightboxMargin : "0|0|0|0",
-                                      lbContentPadding : "0|0|0|0",
-                                      lbContentOverflow : "auto",
-                                      animSpeed:1000,
-                                      delayBasic:1,
-                                      mainhoverdelay:1,
-                                      filterType:"single",
-                                      showDropFilter:"hover",
-                                      filterGroupClass:"esg-fgc-5",
-                                      filterNoMatch:"No Items for the Selected Filter",
-                                      filterDeepLink:"off",
-                                      hideMarkups: "on",
-                                      inViewport: true,
-                                      viewportBuffer: 20,
-                                      youtubeNoCookie:"false",
-                                      convertFilterMobile:false,
-                                      paginationSwipe: "off",
-                                      paginationDragVer: "on",
-                                      pageSwipeThrottle: 30,
-                                      googleFonts:['Open+Sans:300,400,600,700,800','Raleway:100,200,300,400,500,600,700,800,900','Droid+Serif:400,700'],
-                                      aspectratio:"4:4",
-                                      hideBlankItemsAt: "1",
-                                      responsiveEntries: [
-                                                      { width:1400,amount:2,mmheight:0},
-                                                      { width:1170,amount:2,mmheight:0},
-                                                      { width:1024,amount:2,mmheight:0},
-                                                      { width:960,amount:2,mmheight:0},
-                                                      { width:778,amount:2,mmheight:0},
-                                                      { width:640,amount:2,mmheight:0},
-                                                      { width:480,amount:1,mmheight:0}
-                                                      ]
-                                  });
-                              
-                                  var arrows = true,
-                                      lightboxOptions = {
-                                      margin : [0,0,0,0],
-                                      buttons : ["share","thumbs","close"],
-                                      infobar : true,
-                                      loop : true,
-                                      slideShow : {"autoStart": false, "speed": 3000},
-                                      animationEffect : "fade",
-                                      animationDuration : 500,
-                                      beforeShow: function(a, c) {
-                                        if(!arrows) {
-                                            jQuery("body").addClass("esgbox-hidearrows");
-                                        }
-                                          var i = 0,
-                                              multiple = false;
-                                          a = a.slides;
-                                          for(var b in a) {
-                                              i++;
-                                              if(i > 1) {
-                                                  multiple = true;
-                                                  break;
-                                              }
-                                          }
-                                          if(!multiple) jQuery("body").addClass("esgbox-single");
-                                          if(c.type === "image") jQuery(".esgbox-button--zoom").show();
-                                      },
-                                      beforeLoad: function(a, b) {
-                                          jQuery("body").removeClass("esg-four-by-three");
-                                          if(b.opts.$orig.data("ratio") === "4:3") jQuery("body").addClass("esg-four-by-three");
-                                      },
-                                      afterLoad: function() {jQuery(window).trigger("resize.esglb");},
-                                      afterClose : function() {jQuery("body").removeClass("esgbox-hidearrows esgbox-single");},
-                                      transitionEffect : "fade",
-                                      transitionDuration : 366,
-                                      hash : "group",
-                                      arrows : true,
-                                      wheel : false,
-                                  };
-                              
-                                  jQuery("#esg-grid-5-2").data("lightboxsettings", lightboxOptions);
-                              
-                              
-                                  try{
-                                      jQuery("#esg-grid-5-2 .esgbox").esgbox(lightboxOptions);
-                                  } catch (e) {}
-                              
-                              });
-                           </script>
-                           <div class="vc_row wpb_row vc_inner vc_row-fluid scheme_dark">
-                              <div class="wpb_column vc_column_container vc_col-sm-12 sc_layouts_column_icons_position_left">
-                                 <div class="vc_column-inner">
-                                    <div class="wpb_wrapper">
-                                       <div class="vc_empty_space" style="height: 13px"><span class="vc_empty_space_inner"></span></div>
-                                       <div id="sc_action_1049187017" class="sc_action color_style_default sc_action_default  vc_custom_1587483840051">
-                                          <div class="sc_action_content sc_item_content">
-                                             <div class="sc_action_item sc_action_item_default sc_action_fixed_height sc_action_item_mc" style="height:467px;overflow:hidden;">
-                                                <h3 class="sc_action_item_title"><span>See Our Best Events Gallery!</span></h3>
-                                                <a href="../cobbles/index.htm" class="sc_action_item_link sc_button sc_button_size_small">Visit Gallery</a>
-                                             </div>
-                                          </div>
-                                       </div>
-                                    </div>
-                                 </div>
-                              </div>
-                           </div>
-                        </div>
-                     </div>
-                  </div>
-                  <div class="wpb_column vc_column_container vc_col-sm-12 sc_layouts_column_icons_position_left">
-                     <div class="vc_column-inner">
-                        <div class="wpb_wrapper">
-                           <div class="vc_empty_space" style="height: 13px"><span class="vc_empty_space_inner"></span></div>
-                        </div>
-                     </div>
-                  </div>
-               </div>
-               <div class="vc_row-full-width vc_clearfix"></div>
-               <div data-vc-full-width="true" data-vc-full-width-init="false" class="vc_row wpb_row vc_row-fluid contacts_block vc_custom_1587716805754 vc_row-has-fill vc_row-o-equal-height vc_row-o-content-middle vc_row-flex scheme_extra">
-                  <div class="wpb_column vc_column_container vc_col-sm-12 vc_hidden-lg vc_hidden-md vc_hidden-sm sc_layouts_column_icons_position_left">
-                     <div class="vc_column-inner">
-                        <div class="wpb_wrapper">
-                           <div class="vc_empty_space  height_large" style="height: 32px"><span class="vc_empty_space_inner"></span></div>
-                        </div>
-                     </div>
-                  </div>
-                  <div class="wpb_column vc_column_container vc_col-sm-6 sc_layouts_column_icons_position_left">
-                     <div class="vc_column-inner">
-                        <div class="wpb_wrapper">
-                           <div class="vc_empty_space" style="height: 1rem"><span class="vc_empty_space_inner"></span></div>
-                           <div id="sc_title_858566633" class="sc_title color_style_default sc_title_default">
-                              <h1 class="sc_item_title sc_title_title sc_align_left sc_item_title_style_default sc_item_title_tag">Nous sommes là pour vous aider</h1>
-                           </div>
-                           <div class="vc_empty_space  height_medium" style="height: 3rem"><span class="vc_empty_space_inner"></span></div>
-                           <div id="widget_contacts_586994657" class="widget_area sc_widget_contacts vc_widget_contacts wpb_content_element">
-                              <aside id="widget_contacts_586994657_widget" class="widget widget_contacts">
-                                 <div class="contacts_wrap">
-                                    <div class="contacts_info"><span class="contacts_address">MC 35 Route Mornag <br>Ben Arous, 2090</span>
-                                        <span class="contacts_email">
-                                            <a href="../cdn-cgi/l/email-protection.html#8dabaebcbcbdb6ecabaebcbdb4b6e8abaebbb9b6abaebcbdbcb6abaebcbfbdb6abaeb4bab6abaebcbdb4b6abaebcbcbfb6abaebcbdb5b6e8abaeb9bbb6abaeb4b4b6abaebcbcbcb6e0">
-                                            info@queenpark.tn</a>
-                                        </span>
-                                        <a href="tel:1234567890" class="contacts_phone">+216 54 419 959</a></div>
-                                 </div>
-                              </aside>
-                           </div>
-                        </div>
-                     </div>
-                  </div>
-                  <div class="wpb_column vc_column_container vc_col-sm-6 sc_layouts_column_icons_position_left">
-                     <div class="vc_column-inner">
-                        <div class="wpb_wrapper">
-                           <div class="vc_empty_space  height_huge" style="height: 32px"><span class="vc_empty_space_inner"></span></div>
-                           <div role="form" class="wpcf7" id="wpcf7-f918-p1030-o1" lang="en-US" dir="ltr">
-                              <div class="screen-reader-response"></div>
-                              <form action="/home-3/#wpcf7-f918-p1030-o1" method="post" class="wpcf7-form" novalidate="novalidate">
-                                 <div style="display: none;">
-                                    <input type="hidden" name="_wpcf7" value="918">
-                                    <input type="hidden" name="_wpcf7_version" value="5.1.7">
-                                    <input type="hidden" name="_wpcf7_locale" value="en_US">
-                                    <input type="hidden" name="_wpcf7_unit_tag" value="wpcf7-f918-p1030-o1">
-                                    <input type="hidden" name="_wpcf7_container_post" value="1030">
-                                 </div>
-                                 <div class="contact_us">
-                                    <div class="flex">
-                                       <div class='itm row'><span class="wpcf7-form-control-wrap your-name"><input type="text" name="your-name" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required" aria-required="true" aria-invalid="false" placeholder="Your name*"></span></div>
-                                       <div class='itm row'><span class="wpcf7-form-control-wrap your-email"><input type="text" name="your-email" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required" aria-required="true" aria-invalid="false" placeholder="Your e-mail*"></span></div>
-                                    </div>
-                                    <div class=''><span class="wpcf7-form-control-wrap your-message"><textarea name="your-message" cols="40" rows="10" class="wpcf7-form-control wpcf7-textarea wpcf7-validates-as-required" aria-required="true" aria-invalid="false" placeholder="Your message*"></textarea></span></div>
-                                    <p><span class="wpcf7-form-control-wrap acceptance-157"><span class="wpcf7-form-control wpcf7-acceptance"><span class="wpcf7-list-item"><label><input type="checkbox" name="acceptance-157" value="1" aria-invalid="false"><span class="wpcf7-list-item-label">I agree that my submitted data is being collected and stored.</span></label></span></span></span></p>
-                                    <div class="sc_form_field sc_form_field_button sc_form_field_submit"><input type="submit" value="Submit Info" class="wpcf7-form-control wpcf7-submit"></div>
-                                 </div>
-                                 <div class="wpcf7-response-output wpcf7-display-none"></div>
-                              </form>
-                           </div>
-                           <div class="vc_empty_space  height_huge" style="height: 32px"><span class="vc_empty_space_inner"></span></div>
-                        </div>
-                     </div>
-                  </div>
-               </div>
-               <div class="vc_row-full-width vc_clearfix"></div>
-               <div class="vc_row wpb_row vc_row-fluid scheme_extra">
-                  <div class="wpb_column vc_column_container vc_col-sm-12 sc_layouts_column_icons_position_left">
-                     <div class="vc_column-inner">
-                        <div class="wpb_wrapper">
-                           <div class="vc_empty_space  height_huge" style="height: 32px"><span class="vc_empty_space_inner"></span></div>
-                           <div id="sc_blogger_522779719" class="sc_blogger color_style_default sc_blogger_default">
-                              <h6 class="sc_item_subtitle sc_blogger_subtitle sc_align_center sc_item_title_style_default">Blog feed</h6>
-                              <h2 class="sc_item_title sc_blogger_title sc_align_center sc_item_title_style_default">Latest News and Updates</h2>
-                              <div class="sc_blogger_columns_wrap sc_item_columns trx_addons_columns_wrap columns_padding_bottom">
-                                 <div class="trx_addons_column-1_2">
-                                    <div class="sc_blogger_item post_format_standard post-148 post type-post status-publish format-standard has-post-thumbnail hentry category-party-ideas">
-                                       <div class="post-date">01/10</div>
-                                       <div class="post_featured with_thumb hover_dots sc_blogger_item_featured">
-                                          <img width="567" height="270" src="<?php echo base_url() ?>assets/wp-content/uploads/2017/10/image-13-567x270.jpg" class="attachment-partymaker-thumb-blogger size-partymaker-thumb-blogger wp-post-image" alt="" srcset="<?php echo base_url() ?>assets/wp-content/uploads/2017/10/image-13-567x270.jpg 567w, <?php echo base_url() ?>assets/wp-content/uploads/2017/10/image-13-300x143.jpg 300w, <?php echo base_url() ?>assets/wp-content/uploads/2017/10/image-13-768x366.jpg 768w, <?php echo base_url() ?>assets/wp-content/uploads/2017/10/image-13-1024x487.jpg 1024w, <?php echo base_url() ?>assets/wp-content/uploads/2017/10/image-13-370x176.jpg 370w, <?php echo base_url() ?>assets/wp-content/uploads/2017/10/image-13-1134x540.jpg 1134w, <?php echo base_url() ?>assets/wp-content/uploads/2017/10/image-13-760x362.jpg 760w, <?php echo base_url() ?>assets/wp-content/uploads/2017/10/image-13-1520x724.jpg 1520w, <?php echo base_url() ?>assets/wp-content/uploads/2017/10/image-13-740x352.jpg 740w, <?php echo base_url() ?>assets/wp-content/uploads/2017/10/image-13-600x286.jpg 600w, <?php echo base_url() ?>assets/wp-content/uploads/2017/10/image-13.jpg 1600w" sizes="(max-width: 567px) 100vw, 567px">
-                                          <div class="mask"></div>
-                                          <a href="../best-kids-birthday-party-ideas/index.htm" aria-hidden="true" class="icons"><span></span><span></span><span></span></a>
-                                       </div>
-                                       <div class="sc_blogger_item_content entry-content">
-                                          <div class="sc_blogger_item_header entry-header">
-                                             <h5 class="sc_blogger_item_title entry-title"><a href="../best-kids-birthday-party-ideas/index.htm" rel="bookmark">Best Kids’ Birthday Party Ideas</a></h5>
-                                             <div class="post_meta"> <a class="post_meta_item post_author" rel="author" href="../author/anc_admin/index.htm">
-                                                by Mike Newton </a>
-                                                <a href="../best-kids-birthday-party-ideas/index.htm#respond" class="post_meta_item post_counters_item post_counters_comments icon-comment-1"><span class="post_counters_number">0</span><span class="post_counters_label">Comments</span>
-                                                </a>
-                                             </div>
-                                          </div>
-                                       </div>
-                                    </div>
-                                 </div>
-                                 <div class="trx_addons_column-1_2">
-                                    <div class="sc_blogger_item post_format_standard post-145 post type-post status-publish format-standard has-post-thumbnail hentry category-party-ideas">
-                                       <div class="post-date">01/10</div>
-                                       <div class="post_featured with_thumb hover_dots sc_blogger_item_featured">
-                                          <img width="567" height="270" src="<?php echo base_url() ?>assets/wp-content/uploads/2017/10/image-14-567x270.jpg" class="attachment-partymaker-thumb-blogger size-partymaker-thumb-blogger wp-post-image" alt="" srcset="<?php echo base_url() ?>assets/wp-content/uploads/2017/10/image-14-567x270.jpg 567w, <?php echo base_url() ?>assets/wp-content/uploads/2017/10/image-14-300x143.jpg 300w, <?php echo base_url() ?>assets/wp-content/uploads/2017/10/image-14-768x366.jpg 768w, <?php echo base_url() ?>assets/wp-content/uploads/2017/10/image-14-1024x487.jpg 1024w, <?php echo base_url() ?>assets/wp-content/uploads/2017/10/image-14-370x176.jpg 370w, <?php echo base_url() ?>assets/wp-content/uploads/2017/10/image-14-1134x540.jpg 1134w, <?php echo base_url() ?>assets/wp-content/uploads/2017/10/image-14-760x362.jpg 760w, <?php echo base_url() ?>assets/wp-content/uploads/2017/10/image-14-1520x724.jpg 1520w, <?php echo base_url() ?>assets/wp-content/uploads/2017/10/image-14-740x352.jpg 740w, <?php echo base_url() ?>assets/wp-content/uploads/2017/10/image-14-600x286.jpg 600w, <?php echo base_url() ?>assets/wp-content/uploads/2017/10/image-14.jpg 1600w" sizes="(max-width: 567px) 100vw, 567px">
-                                          <div class="mask"></div>
-                                          <a href="../top-10-afterparty-golden-rules/index.htm" aria-hidden="true" class="icons"><span></span><span></span><span></span></a>
-                                       </div>
-                                       <div class="sc_blogger_item_content entry-content">
-                                          <div class="sc_blogger_item_header entry-header">
-                                             <h5 class="sc_blogger_item_title entry-title"><a href="../top-10-afterparty-golden-rules/index.htm" rel="bookmark">Top 10 Afterparty Golden Rules</a></h5>
-                                             <div class="post_meta"> <a class="post_meta_item post_author" rel="author" href="../author/anc_admin/index.htm">
-                                                by Mike Newton </a>
-                                                <a href="../top-10-afterparty-golden-rules/index.htm#comments" class="post_meta_item post_counters_item post_counters_comments icon-comment-1"><span class="post_counters_number">3</span><span class="post_counters_label">Comments</span>
-                                                </a>
-                                             </div>
-                                          </div>
-                                       </div>
-                                    </div>
-                                 </div>
-                              </div>
-                           </div>
-                           <div class="vc_empty_space  vc_custom_1516619066128 height_huge" style="height: 32px"><span class="vc_empty_space_inner"></span></div>
-                        </div>
-                     </div>
-                  </div>
-               </div>
-               <div data-vc-full-width="true" data-vc-full-width-init="false" class="vc_row wpb_row vc_row-fluid vc_custom_1587483407745 vc_row-has-fill scheme_extra">
-                  <div class="wpb_column vc_column_container vc_col-sm-12 sc_layouts_column_icons_position_left">
-                     <div class="vc_column-inner">
-                        <div class="wpb_wrapper">
-                           <div class="vc_empty_space  vc_custom_1516623079684 height_large" style="height: 32px"><span class="vc_empty_space_inner"></span></div>
-                        </div>
-                     </div>
-                  </div>
-                  <div class="wpb_column vc_column_container vc_col-sm-12 vc_col-md-6 sc_layouts_column_icons_position_left">
-                     <div class="vc_column-inner">
-                        <div class="wpb_wrapper">
-                           <div id="sc_title_1057991468" class="sc_title color_style_default sc_title_default">
-                              <h2 class="sc_item_title sc_title_title sc_align_left sc_item_title_style_default">Ne manquez jamais nos nouvelles!</h2>
-                           </div>
-                        </div>
-                     </div>
-                  </div>
-                  <div class="wpb_column vc_column_container vc_col-sm-12 vc_hidden-lg vc_hidden-md sc_layouts_column_icons_position_left">
-                     <div class="vc_column-inner">
-                        <div class="wpb_wrapper">
-                           <div class="vc_empty_space  height_medium" style="height: 32px"><span class="vc_empty_space_inner"></span></div>
-                        </div>
-                     </div>
-                  </div>
-                  <div class="wpb_column vc_column_container vc_col-sm-12 vc_col-md-6 sc_layouts_column_icons_position_left">
-                     <div class="vc_column-inner">
-                        <div class="wpb_wrapper">
-                           <div class="wpb_text_column wpb_content_element ">
-                              <div class="wpb_wrapper">
-                                 <script data-cfasync="false" src="../cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script>(function() {
-                                    window.mc4wp = window.mc4wp || {
-                                        listeners: [],
-                                        forms: {
-                                            on: function(evt, cb) {
-                                                window.mc4wp.listeners.push(
-                                                    {
-                                                        event   : evt,
-                                                        callback: cb
-                                                    }
-                                                );
-                                            }
-                                        }
-                                    }
-                                    })();
-                                 </script>
-                                 <form id="mc4wp-form-1" class="mc4wp-form mc4wp-form-467" method="post" data-id="467" data-name="New">
-                                    <div class="mc4wp-form-fields"><input type="email" name="EMAIL" placeholder="Enter Your Email" required=""><input type="submit" value="Submit Info"></div>
-                                    <label style="display: none !important;">Leave this field empty if you're human: <input type="text" name="_mc4wp_honeypot" value="" tabindex="-1" autocomplete="off"></label><input type="hidden" name="_mc4wp_timestamp" value="1632825412"><input type="hidden" name="_mc4wp_form_id" value="467"><input type="hidden" name="_mc4wp_form_element_id" value="mc4wp-form-1">
-                                    <div class="mc4wp-response"></div>
-                                 </form>
-                              </div>
-                           </div>
-                        </div>
-                     </div>
-                  </div>
-                  <div class="wpb_column vc_column_container vc_col-sm-12 sc_layouts_column_icons_position_left">
-                     <div class="vc_column-inner">
-                        <div class="wpb_wrapper">
-                           <div class="vc_empty_space  vc_custom_1516623134134 height_large" style="height: 32px"><span class="vc_empty_space_inner"></span></div>
-                        </div>
-                     </div>
-                  </div>
-               </div>
-               <div class="vc_row-full-width vc_clearfix"></div>
             </div>
-         </article>
-      </div>
+            <div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-27b86c6 elementor-hidden-tablet" data-id="27b86c6" data-element_type="column">
+               <div class="elementor-widget-wrap">
+               </div>
+            </div>
+         </div>
+      </section>
+      <section class="elementor-section elementor-top-section elementor-element elementor-element-deef05d elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="deef05d" data-element_type="section">
+         <div class="elementor-container elementor-column-gap-default">
+            <div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-934235c" data-id="934235c" data-element_type="column">
+               <div class="elementor-widget-wrap elementor-element-populated">
+                  <section class="elementor-section elementor-inner-section elementor-element elementor-element-b3d275b elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="b3d275b" data-element_type="section">
+                     <div class="elementor-container elementor-column-gap-no">
+                        <div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-be90be4 elementor-invisible" data-id="be90be4" data-element_type="column" data-settings="{&quot;animation&quot;:&quot;fadeInLeft&quot;}">
+                           <div class="elementor-widget-wrap elementor-element-populated">
+                              <div class="elementor-element elementor-element-afd0234 jkit-equal-height-disable elementor-invisible elementor-widget elementor-widget-jkit_icon_box" data-id="afd0234" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;fadeInLeft&quot;}" data-widget_type="jkit_icon_box.default">
+                                 <div class="elementor-widget-container">
+                                    <div  class="jeg-elementor-kit jkit-icon-box icon-position-left elementor-animation-shrink jeg_module_7_6_6240504cc9600" >
+                                       <div class="jkit-icon-box-wrapper hover-from-left">
+                                          <div class="icon-box icon-box-header elementor-animation-grow">
+                                             <div class="icon style-color"><img src="<?php echo base_url() ?>assets/wp-content/uploads/sites/146/2021/08/wedding-ring-3-150x150.png"  alt="Wedding Party"></div>
+                                          </div>
+                                          <div class="icon-box icon-box-body">
+                                             <h2 class="title">Mariage</h2>
+                                             <p class="icon-box-description">En Tunisie, il est possible de faire confiance à un professionnel ! <br>Nous organis de votre mariage, c’est tout simplement la certitude de réaliser une fête de mariage inoubliable. </p>
+                                          </div>
+                                       </div>
+                                    </div>
+                                 </div>
+                              </div>
+                           </div>
+                        </div>
+                        <div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-ca06dfb elementor-invisible" data-id="ca06dfb" data-element_type="column" data-settings="{&quot;animation&quot;:&quot;fadeInUp&quot;}">
+                           <div class="elementor-widget-wrap elementor-element-populated">
+                              <div class="elementor-element elementor-element-c65bbb4 jkit-equal-height-disable elementor-invisible elementor-widget elementor-widget-jkit_icon_box" data-id="c65bbb4" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;fadeInUp&quot;}" data-widget_type="jkit_icon_box.default">
+                                 <div class="elementor-widget-container">
+                                    <div  class="jeg-elementor-kit jkit-icon-box icon-position-left elementor-animation-shrink jeg_module_7_7_6240504ccb1da" >
+                                       <div class="jkit-icon-box-wrapper hover-from-left">
+                                          <div class="icon-box icon-box-header elementor-animation-grow">
+                                             <div class="icon style-color"><img src="<?php echo base_url() ?>assets/wp-content/uploads/sites/146/2021/08/010-cake-150x150.png"  alt="Birthday Party"></div>
+                                          </div>
+                                          <div class="icon-box icon-box-body">
+                                             <h2 class="title">Voitrues de lux</h2>
+                                             <p class="icon-box-description">Choisissez le modèle de voitures que vous souhaitez, une Traction antique, une limousine, et laissez nous vous rendre votre transport, un moment inoubliable. </p>
+                                          </div>
+                                       </div>
+                                    </div>
+                                 </div>
+                              </div>
+                           </div>
+                        </div>
+                        <div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-b38a117 elementor-invisible" data-id="b38a117" data-element_type="column" data-settings="{&quot;animation&quot;:&quot;fadeInRight&quot;}">
+                           <div class="elementor-widget-wrap elementor-element-populated">
+                              <div class="elementor-element elementor-element-f19feb0 jkit-equal-height-disable elementor-invisible elementor-widget elementor-widget-jkit_icon_box" data-id="f19feb0" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;fadeInUp&quot;}" data-widget_type="jkit_icon_box.default">
+                                 <div class="elementor-widget-container">
+                                    <div  class="jeg-elementor-kit jkit-icon-box icon-position-left elementor-animation-shrink jeg_module_7_8_6240504cccb26" >
+                                       <div class="jkit-icon-box-wrapper hover-from-left">
+                                          <div class="icon-box icon-box-header elementor-animation-grow">
+                                             <div class="icon style-color"><img src="<?php echo base_url() ?>assets/wp-content/uploads/sites/146/2021/08/004-champagne-150x150.png"  alt="Party &amp; Events"></div>
+                                          </div>
+                                          <div class="icon-box icon-box-body">
+                                             <h2 class="title">Prestations</h2>
+                                             <p class="icon-box-description">Toutes les idées nécessaires pour organiser un mariage unique, à votre style : reportages photos et vidéo, troupe musical professionnelle avec un catalogue des artistes.</p>
+                                          </div>
+                                       </div>
+                                    </div>
+                                 </div>
+                              </div>
+                           </div>
+                        </div>
+                     </div>
+                  </section>
+               </div>
+            </div>
+         </div>
+      </section>
+      <section class="elementor-section elementor-top-section elementor-element elementor-element-fcb1cc3 elementor-reverse-tablet elementor-reverse-mobile elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="fcb1cc3" data-element_type="section">
+         <div class="elementor-container elementor-column-gap-no">
+            <div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-a0860d2" data-id="a0860d2" data-element_type="column">
+               <div class="elementor-widget-wrap elementor-element-populated">
+                  <div class="elementor-element elementor-element-be9b1f6 elementor-absolute animated-slow elementor-widget-tablet__width-auto elementor-widget__width-initial elementor-invisible elementor-widget elementor-widget-image" data-id="be9b1f6" data-element_type="widget" data-settings="{&quot;_position&quot;:&quot;absolute&quot;,&quot;_animation&quot;:&quot;fadeInRight&quot;}" data-widget_type="image.default">
+                     <div class="elementor-widget-container">
+                        <img src="<?php echo base_url() ?>assets/img/por/0.jpg" title="People partying" alt="People partying" />                                             
+                     </div>
+                  </div>
+                  <div class="elementor-element elementor-element-3426a85 animated-slow elementor-widget__width-initial elementor-invisible elementor-widget elementor-widget-image" data-id="3426a85" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;fadeInLeft&quot;}" data-widget_type="image.default">
+                     <div class="elementor-widget-container">
+                        <img src="<?php echo base_url() ?>assets/img/por/0.jpg" title="Business People Party Celebration Success Concept" alt="Business People Party Celebration Success Concept" />                                            
+                     </div>
+                  </div>
+               </div>
+            </div>
+            <div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-8ab159b" data-id="8ab159b" data-element_type="column">
+               <div class="elementor-widget-wrap elementor-element-populated">
+                  <div class="elementor-element elementor-element-508fe72 elementor-invisible elementor-widget elementor-widget-jkit_heading" data-id="508fe72" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;fadeInRight&quot;}" data-widget_type="jkit_heading.default">
+                     <div class="elementor-widget-container">
+                        <div  class="jeg-elementor-kit jkit-heading  align-left align-tablet-left align-mobile-left jeg_module_7_9_6240504cd63e4" >
+                           <h3 class="heading-section-subtitle  style-color">A propos Queen Park</h3>
+                           <div class="heading-section-title ">
+                              <h2 class="heading-title">Nous sommes le meilleur planificateur et organisateur d'événements</h2>
+                           </div>
+                           <div class="heading-section-description">
+                              <p>Queen Park est une agence événementielle spécialisée dans l’organisation des événements professionnels, nous proposons à nos clients la planification complète de A à Z ou à la carte, nous collaborons avec les meilleurs prestataires de services en Tunisie.</p>
+                           </div>
+                        </div>
+                     </div>
+                  </div>
+                  <section class="elementor-section elementor-inner-section elementor-element elementor-element-8e4959b elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-invisible" data-id="8e4959b" data-element_type="section" data-settings="{&quot;animation&quot;:&quot;fadeInLeft&quot;}">
+                     <div class="elementor-container elementor-column-gap-no">
+                        <div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-2b5a342" data-id="2b5a342" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+                           <div class="elementor-widget-wrap elementor-element-populated">
+                              <div class="elementor-element elementor-element-1fe29f7 elementor-widget elementor-widget-jkit_fun_fact" data-id="1fe29f7" data-element_type="widget" data-widget_type="jkit_fun_fact.default">
+                                 <div class="elementor-widget-container">
+                                    <div  class="jeg-elementor-kit jkit-fun-fact align-center hover-from-left elementor-animation- jeg_module_7_10_6240504cd8686" >
+                                       <div class=fun-fact-inner>
+                                          <div class="icon elementor-animation-"><i aria-hidden="true" class="jki jki-medal"></i></div>
+                                          <div class="content">
+                                             <div class="number-wrapper">
+                                                <span class="number" data-value="5" data-animation-duration="3500">0</span>
+                                                <sup class="super">+</sup>
+                                             </div>
+                                             <h2 class="title">Years Of Experiences</h2>
+                                          </div>
+                                       </div>
+                                    </div>
+                                 </div>
+                              </div>
+                           </div>
+                        </div>
+                        <div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-36211a0" data-id="36211a0" data-element_type="column">
+                           <div class="elementor-widget-wrap elementor-element-populated">
+                              <div class="elementor-element elementor-element-60105e9 elementor-icon-list--layout-traditional elementor-list-item-link-full_width elementor-widget elementor-widget-icon-list" data-id="60105e9" data-element_type="widget" data-widget_type="icon-list.default">
+                                 <div class="elementor-widget-container">
+                                    <ul class="elementor-icon-list-items">
+                                       <li class="elementor-icon-list-item">
+                                          <span class="elementor-icon-list-icon">
+                                          <i aria-hidden="true" class="fas fa-check-circle"></i>                  </span>
+                                          <span class="elementor-icon-list-text">Meilleurs services de qualité</span>
+                                       </li>
+                                       <li class="elementor-icon-list-item">
+                                          <span class="elementor-icon-list-icon">
+                                          <i aria-hidden="true" class="fas fa-check-circle"></i>                  </span>
+                                          <span class="elementor-icon-list-text">Garantie de satisfaction à 100 %</span>
+                                       </li>
+                                       <li class="elementor-icon-list-item">
+                                          <span class="elementor-icon-list-icon">
+                                          <i aria-hidden="true" class="fas fa-check-circle"></i>                  </span>
+                                          <span class="elementor-icon-list-text">Système de contrôle de la qualité</span>
+                                       </li>
+                                       <li class="elementor-icon-list-item">
+                                          <span class="elementor-icon-list-icon">
+                                          <i aria-hidden="true" class="fas fa-check-circle"></i>                  </span>
+                                          <span class="elementor-icon-list-text">Engagement envers les clients</span>
+                                       </li>
+                                       <li class="elementor-icon-list-item">
+                                          <span class="elementor-icon-list-icon">
+                                          <i aria-hidden="true" class="fas fa-check-circle"></i>                  </span>
+                                          <span class="elementor-icon-list-text">Équipe hautement professionnelle</span>
+                                       </li>
+                                    </ul>
+                                 </div>
+                              </div>
+                           </div>
+                        </div>
+                     </div>
+                  </section>
+                  <div class="elementor-element elementor-element-50c6338 elementor-invisible elementor-widget elementor-widget-jkit_button" data-id="50c6338" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;fadeInRight&quot;}" data-widget_type="jkit_button.default">
+                     <div class="elementor-widget-container">
+                        <div  class="jeg-elementor-kit jkit-button  icon-position-before jeg_module_7_11_6240504cda378" ><a href="#"  class="jkit-button-wrapper">À PROPOS</a></div>
+                     </div>
+                  </div>
+               </div>
+            </div>
+         </div>
+      </section>
+      <section class="elementor-section elementor-top-section elementor-element elementor-element-0eb5c0a elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="0eb5c0a" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+         <div class="elementor-background-overlay"></div>
+         <div class="elementor-container elementor-column-gap-default">
+            <div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-8601777" data-id="8601777" data-element_type="column">
+               <div class="elementor-widget-wrap elementor-element-populated">
+
+                  <section class="elementor-section elementor-inner-section elementor-element elementor-element-9308063 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="9308063" data-element_type="section">
+                     <div class="elementor-container elementor-column-gap-no">
+                        <div class="elementor-column elementor-col-100 elementor-inner-column elementor-element elementor-element-8173572 elementor-invisible" data-id="8173572" data-element_type="column" data-settings="{&quot;animation&quot;:&quot;fadeInUp&quot;}">
+                           <div class="elementor-widget-wrap elementor-element-populated">
+                              <div class="elementor-element elementor-element-af475f4 elementor-invisible elementor-widget elementor-widget-jkit_heading" data-id="af475f4" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;fadeInRight&quot;}" data-widget_type="jkit_heading.default">
+                                 <div class="elementor-widget-container">
+                                    <div  class="jeg-elementor-kit jkit-heading  align-center align-tablet-left align-mobile-left jeg_module_7_12_6240504cdb639" >
+                                       <h3 class="heading-section-subtitle  style-color">Nos Services</h3>
+                                       <div class="heading-section-title ">
+                                          <h2 class="heading-title">Nous fournissons le meilleur service pour votre événement</h2>
+                                       </div>
+                                       <div class="heading-section-description">
+                                          <p>En tant qu'organisateur de mariage prestige, nous vous proposons un service à la carte à la hauteur</p>
+                                       </div>
+                                    </div>
+                                 </div>
+                              </div>
+                           </div>
+                        </div>
+                     </div>
+                  </section>
+                  <section class="elementor-section elementor-inner-section elementor-element elementor-element-56275e4 elementor-section-content-bottom elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="56275e4" data-element_type="section">
+                     <div class="elementor-container elementor-column-gap-no">
+                        <div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-a6d5b7b elementor-invisible" data-id="a6d5b7b" data-element_type="column" data-settings="{&quot;animation&quot;:&quot;fadeInLeft&quot;,&quot;animation_delay&quot;:80}">
+                           <div class="elementor-widget-wrap elementor-element-populated">
+                              <div class="elementor-element elementor-element-10d6703 jkit-equal-height-disable elementor-widget elementor-widget-jkit_icon_box" data-id="10d6703" data-element_type="widget" data-widget_type="jkit_icon_box.default">
+                                 <div class="elementor-widget-container">
+                                    <div  class="jeg-elementor-kit jkit-icon-box icon-position-top elementor-animation- jeg_module_7_16_6240504ce1967" >
+                                       <div class="jkit-icon-box-wrapper hover-from-bottom">
+                                          <div class="icon-box icon-box-header elementor-animation-">
+                                             <div class="icon style-color">
+                                                <img src="<?php echo base_url() ?>assets/wp-content/uploads/sites/146/2021/08/046-garlands.png" alt="Decoration"></div>
+                                          </div>
+                                          <div class="icon-box icon-box-body">
+                                             <h3 class="title">Location d'espace</h3>
+                                             <p class="icon-box-description">Une salle couverte ou en plein air c'est votre choix et notre devoir c'est de vous garantir la luxait. </p>
+                                             <div class="icon-box-button ">
+                                                <div class="btn-wrapper icon-position-after">
+                                                   <a href="#"  class="icon-box-link">Read More<i aria-hidden="true" class="jki jki-right-arrow-light"></i></a>
+                                                </div>
+                                             </div>
+                                          </div>
+                                       </div>
+                                    </div>
+                                 </div>
+                              </div>
+                           </div>
+                        </div>
+                         <div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-a6d5b7b elementor-invisible" data-id="a6d5b7b" data-element_type="column" data-settings="{&quot;animation&quot;:&quot;fadeInLeft&quot;,&quot;animation_delay&quot;:80}">
+                           <div class="elementor-widget-wrap elementor-element-populated">
+                              <div class="elementor-element elementor-element-10d6703 jkit-equal-height-disable elementor-widget elementor-widget-jkit_icon_box" data-id="10d6703" data-element_type="widget" data-widget_type="jkit_icon_box.default">
+                                 <div class="elementor-widget-container">
+                                    <div  class="jeg-elementor-kit jkit-icon-box icon-position-top elementor-animation- jeg_module_7_16_6240504ce1967" >
+                                       <div class="jkit-icon-box-wrapper hover-from-bottom">
+                                          <div class="icon-box icon-box-header elementor-animation-">
+                                             <div class="icon style-color"><img src="<?php echo base_url() ?>assets/wp-content/uploads/sites/146/2021/08/028-guitar.png"  alt="Entertaiment"></div>
+                                          </div>
+                                          <div class="icon-box icon-box-body">
+                                             <h3 class="title">Troupe Musical</h3>
+                                             <p class="icon-box-description">le Maestro Hatem Lahmedi avec les artistes les plus brillants de Tunisie et du monde arabe assuront une soirée innoubliabe. </p>
+                                             <div class="icon-box-button ">
+                                                <div class="btn-wrapper icon-position-after">
+                                                   <a href="#"  class="icon-box-link">Read More<i aria-hidden="true" class="jki jki-right-arrow-light"></i></a>
+                                                </div>
+                                             </div>
+                                          </div>
+                                       </div>
+                                    </div>
+                                 </div>
+                              </div>
+                           </div>
+                        </div>
+                        <div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-65f015e elementor-invisible" data-id="65f015e" data-element_type="column" data-settings="{&quot;animation&quot;:&quot;fadeInUp&quot;,&quot;animation_delay&quot;:80}">
+                           <div class="elementor-widget-wrap elementor-element-populated">
+                              <div class="elementor-element elementor-element-919d4d7 jkit-equal-height-disable elementor-widget elementor-widget-jkit_icon_box" data-id="919d4d7" data-element_type="widget" data-widget_type="jkit_icon_box.default">
+                                 <div class="elementor-widget-container">
+                                    <div  class="jeg-elementor-kit jkit-icon-box icon-position-top elementor-animation- jeg_module_7_14_6240504cde68e" >
+                                       <div class="jkit-icon-box-wrapper hover-from-bottom">
+                                          <div class="icon-box icon-box-header elementor-animation-">
+                                             <div class="icon style-color"><img src="<?php echo base_url() ?>assets/wp-content/uploads/sites/146/2021/08/012-photo-camera.png"  alt="Documentation"></div>
+                                          </div>
+                                          <div class="icon-box icon-box-body">
+                                             <h3 class="title">Photographe</h3>
+                                             <p class="icon-box-description">Quand on pense au choix du photographe de mariage, on ne peut que penser au talentueux et incontournable Mak'Photo.  </p>
+                                             <div class="icon-box-button ">
+                                                <div class="btn-wrapper icon-position-after">
+                                                   <a href="#"  class="icon-box-link">Read More<i aria-hidden="true" class="jki jki-right-arrow1-light"></i></a>
+                                                </div>
+                                             </div>
+                                          </div>
+                                       </div>
+                                    </div>
+                                 </div>
+                              </div>
+                           </div>
+                        </div>
+                     </div>
+                     <div class="elementor-container elementor-column-gap-no">
+                        <div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-31f5ae1 elementor-invisible" data-id="31f5ae1" data-element_type="column" data-settings="{&quot;animation&quot;:&quot;fadeInRight&quot;,&quot;animation_delay&quot;:80}">
+                           <div class="elementor-widget-wrap elementor-element-populated">
+                              <div class="elementor-element elementor-element-4e0fb84 jkit-equal-height-disable elementor-widget elementor-widget-jkit_icon_box" data-id="4e0fb84" data-element_type="widget" data-widget_type="jkit_icon_box.default">
+                                 <div class="elementor-widget-container">
+                                    <div  class="jeg-elementor-kit jkit-icon-box icon-position-top elementor-animation- jeg_module_7_15_6240504cdfd7e" >
+                                       <div class="jkit-icon-box-wrapper hover-from-bottom">
+                                          <div class="icon-box icon-box-header elementor-animation-">
+                                             <div class="icon style-color"><img src="<?php echo base_url() ?>assets/wp-content/uploads/sites/146/2021/08/031-invitation.png"  alt="Invitation Cards"></div>
+                                          </div>
+                                          <div class="icon-box icon-box-body">
+                                             <h3 class="title">Cartes d'invitation</h3>
+                                             <p class="icon-box-description">On vous propse un service gratuit des invitaions virtuelles sur notre site web</p>
+                                             <div class="icon-box-button ">
+                                                <div class="btn-wrapper icon-position-after">
+                                                   <a href="#"  class="icon-box-link">Read More<i aria-hidden="true" class="jki jki-arrow-right-light"></i></a>
+                                                </div>
+                                             </div>
+                                          </div>
+                                       </div>
+                                    </div>
+                                 </div>
+                              </div>
+                           </div>
+                        </div>
+                     </div>
+                  
+                  </section>
+               </div>
+            </div>
+         </div>
+      </section>
+      <section class="elementor-section elementor-top-section elementor-element elementor-element-6c8c0f2 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="6c8c0f2" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+         <div class="elementor-background-overlay"></div>
+         <div class="elementor-container elementor-column-gap-default">
+            <div class="elementor-column elementor-col-25 elementor-top-column elementor-element elementor-element-f86a65a elementor-invisible" data-id="f86a65a" data-element_type="column" data-settings="{&quot;animation&quot;:&quot;fadeInUp&quot;,&quot;animation_delay&quot;:100}">
+               <div class="elementor-widget-wrap elementor-element-populated">
+                  <div class="elementor-element elementor-element-f711e82 elementor-widget elementor-widget-jkit_fun_fact" data-id="f711e82" data-element_type="widget" data-widget_type="jkit_fun_fact.default">
+                     <div class="elementor-widget-container">
+                        <div  class="jeg-elementor-kit jkit-fun-fact align-center hover-from-left elementor-animation- jeg_module_7_19_6240504ce6767" >
+                           <div class=fun-fact-inner>
+                              <div class="icon elementor-animation-"><i aria-hidden="true" class="jki jki-handshake-light"></i></div>
+                              <div class="content">
+                                 <div class="number-wrapper">
+                                    <span class="number" data-value="125" data-animation-duration="3500">0</span>
+                                    <sup class="super">+</sup>
+                                 </div>
+                                 <h2 class="title">Projets réalisés</h2>
+                              </div>
+                           </div>
+                        </div>
+                     </div>
+                  </div>
+               </div>
+            </div>
+            <div class="elementor-column elementor-col-25 elementor-top-column elementor-element elementor-element-9e71ef4 elementor-invisible" data-id="9e71ef4" data-element_type="column" data-settings="{&quot;animation&quot;:&quot;fadeInUp&quot;,&quot;animation_delay&quot;:200}">
+               <div class="elementor-widget-wrap elementor-element-populated">
+                  <div class="elementor-element elementor-element-d9bdf0a elementor-widget elementor-widget-jkit_fun_fact" data-id="d9bdf0a" data-element_type="widget" data-widget_type="jkit_fun_fact.default">
+                     <div class="elementor-widget-container">
+                        <div  class="jeg-elementor-kit jkit-fun-fact align-center hover-from-left elementor-animation- jeg_module_7_20_6240504ce734c" >
+                           <div class=fun-fact-inner>
+                              <div class="icon elementor-animation-"><i aria-hidden="true" class="jki jki-smile-wink-solid"></i></div>
+                              <div class="content">
+                                 <div class="number-wrapper">
+                                    <span class="number" data-value="200" data-animation-duration="3500">0</span>
+                                    <sup class="super">+</sup>
+                                 </div>
+                                 <h2 class="title">Client satisfait</h2>
+                              </div>
+                           </div>
+                        </div>
+                     </div>
+                  </div>
+               </div>
+            </div>
+            <div class="elementor-column elementor-col-25 elementor-top-column elementor-element elementor-element-0099a1b elementor-invisible" data-id="0099a1b" data-element_type="column" data-settings="{&quot;animation&quot;:&quot;fadeInUp&quot;,&quot;animation_delay&quot;:300}">
+               <div class="elementor-widget-wrap elementor-element-populated">
+                  <div class="elementor-element elementor-element-45de13f elementor-widget elementor-widget-jkit_fun_fact" data-id="45de13f" data-element_type="widget" data-widget_type="jkit_fun_fact.default">
+                     <div class="elementor-widget-container">
+                        <div  class="jeg-elementor-kit jkit-fun-fact align-center hover-from-left elementor-animation- jeg_module_7_21_6240504ce7eb4" >
+                           <div class=fun-fact-inner>
+                              <div class="icon elementor-animation-"><i aria-hidden="true" class="jki jki-badge"></i></div>
+                              <div class="content">
+                                 <div class="number-wrapper">
+                                    <span class="number" data-value="199" data-animation-duration="3500">0</span>
+                                    <sup class="super">+</sup>
+                                 </div>
+                                 <h2 class="title">Garantie de service</h2>
+                              </div>
+                           </div>
+                        </div>
+                     </div>
+                  </div>
+               </div>
+            </div>
+            <div class="elementor-column elementor-col-25 elementor-top-column elementor-element elementor-element-3baa18c elementor-invisible" data-id="3baa18c" data-element_type="column" data-settings="{&quot;animation&quot;:&quot;fadeInUp&quot;,&quot;animation_delay&quot;:400}">
+               <div class="elementor-widget-wrap elementor-element-populated">
+                  <div class="elementor-element elementor-element-b1d3c46 elementor-widget elementor-widget-jkit_fun_fact" data-id="b1d3c46" data-element_type="widget" data-widget_type="jkit_fun_fact.default">
+                     <div class="elementor-widget-container">
+                        <div  class="jeg-elementor-kit jkit-fun-fact align-center hover-from-left elementor-animation- jeg_module_7_22_6240504ce8a31" >
+                           <div class=fun-fact-inner>
+                              <div class="icon elementor-animation-"><i aria-hidden="true" class="jki jki-team-2-line"></i></div>
+                              <div class="content">
+                                 <div class="number-wrapper">
+                                    <span class="number" data-value="5" data-animation-duration="3500">0</span>
+                                    <sup class="super">+</sup>
+                                 </div>
+                                 <h2 class="title">Experts de l'équipe</h2>
+                              </div>
+                           </div>
+                        </div>
+                     </div>
+                  </div>
+               </div>
+            </div>
+         </div>
+      </section>
+     
+     
+      <section class="elementor-section elementor-top-section elementor-element elementor-element-7bf25b9 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="7bf25b9" data-element_type="section">
+         <div class="elementor-container elementor-column-gap-default">
+            <div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-9de5e84" data-id="9de5e84" data-element_type="column">
+               <div class="elementor-widget-wrap elementor-element-populated">
+                  <div class="elementor-element elementor-element-f2c8822 elementor-invisible elementor-widget elementor-widget-jkit_heading" data-id="f2c8822" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;fadeInUp&quot;}" data-widget_type="jkit_heading.default">
+                     <div class="elementor-widget-container">
+                        <div  class="jeg-elementor-kit jkit-heading  align-center align-tablet-left align-mobile-left jeg_module_7_31_6240504d0a04f" >
+                           <h3 class="heading-section-subtitle  style-color">Notre équipe</h3>
+                           <div class="heading-section-title ">
+                              <h2 class="heading-title">Rencontrez notre équipe d'experts</h2>
+                           </div>
+                           <div class="heading-section-description">
+                              <p>
+                                 L'équipe de Queen Park restera à votre écoute et vous accompagnera lors des préparatifs. Elle rendra votre soirée inoubliable
+                             </p>
+                           </div>
+                        </div>
+                     </div>
+                  </div>
+                  <section class="elementor-section elementor-inner-section elementor-element elementor-element-52f9ce7 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="52f9ce7" data-element_type="section">
+                     <div class="elementor-container elementor-column-gap-default">
+                        <div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-1b0ca37 elementor-invisible" data-id="1b0ca37" data-element_type="column" data-settings="{&quot;animation_delay&quot;:200,&quot;animation&quot;:&quot;fadeInLeft&quot;}">
+                           <div class="elementor-widget-wrap elementor-element-populated">
+                              <div class="elementor-element elementor-element-fd8b8d6 elementor-widget elementor-widget-jkit_team" data-id="fd8b8d6" data-element_type="widget" data-widget_type="jkit_team.default">
+                                 <div class="elementor-widget-container">
+                                    <div  class="jeg-elementor-kit jkit-team style-overlay overlay-bottom jeg_module_7_32_6240504d0e8de" >
+                                       <div class="profile-card ">
+                                          <img src="<?php echo base_url() ?>assets/img/teams/haythem.jpg" >
+                                          <div class="hover-area alignment-center">
+                                             <div class="profile-body">
+                                                <h2 class="profile-title"></h2>
+                                                <p class="profile-designation"></p>
+                                                <ul class="social-list">
+                                                   <li class="social-icon elementor-repeater-item-14ee0f9"><a href="https://facebook.com/" ><i aria-hidden="true" class="fab fa-facebook-f"></i></a></li>
+                                                   <li class="social-icon elementor-repeater-item-11db393"><a href="https://twitter.com/" ><i aria-hidden="true" class="fab fa-twitter"></i></a></li>
+                                                   <li class="social-icon elementor-repeater-item-618b2ac"><a href="https://instagram.com/" ><i aria-hidden="true" class="jki jki-instagram-1-light"></i></a></li>
+                                                </ul>
+                                             </div>
+                                          </div>
+                                       </div>
+                                    </div>
+                                 </div>
+                              </div>
+                              <div class="elementor-element elementor-element-5d935ea jkit-equal-height-disable elementor-widget elementor-widget-jkit_icon_box" data-id="5d935ea" data-element_type="widget" data-widget_type="jkit_icon_box.default">
+                                 <div class="elementor-widget-container">
+                                    <div  class="jeg-elementor-kit jkit-icon-box icon-position-top elementor-animation- jeg_module_7_33_6240504d1002b" >
+                                       <div class="jkit-icon-box-wrapper hover-from-left">
+                                          <div class="icon-box icon-box-body">
+                                             <h4 class="title">Haythem Abidi</h4>
+                                             <p class="icon-box-description">DIrecteur General</p>
+                                          </div>
+                                       </div>
+                                    </div>
+                                 </div>
+                              </div>
+                           </div>
+                        </div>
+                         <div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-fcd55e1 elementor-invisible" data-id="fcd55e1" data-element_type="column" data-settings="{&quot;animation_delay&quot;:200,&quot;animation&quot;:&quot;fadeInRight&quot;}">
+                           <div class="elementor-widget-wrap elementor-element-populated">
+                              <div class="elementor-element elementor-element-552b6dc elementor-widget elementor-widget-jkit_team" data-id="552b6dc" data-element_type="widget" data-widget_type="jkit_team.default">
+                                 <div class="elementor-widget-container">
+                                    <div  class="jeg-elementor-kit jkit-team style-overlay overlay-bottom jeg_module_7_36_6240504d13f66" >
+                                       <div class="profile-card ">
+                                          <img src="<?php echo base_url() ?>assets/img/teams/ala.jpg" >
+                                          <div class="hover-area alignment-center">
+                                             <div class="profile-body">
+                                                <h2 class="profile-title"></h2>
+                                                <p class="profile-designation"></p>
+                                                <ul class="social-list">
+                                                   <li class="social-icon elementor-repeater-item-14ee0f9"><a href="https://facebook.com/" ><i aria-hidden="true" class="fab fa-facebook-f"></i></a></li>
+                                                   <li class="social-icon elementor-repeater-item-11db393"><a href="https://twitter.com/" ><i aria-hidden="true" class="fab fa-twitter"></i></a></li>
+                                                   <li class="social-icon elementor-repeater-item-618b2ac"><a href="https://instagram.com/" ><i aria-hidden="true" class="jki jki-instagram-1-light"></i></a></li>
+                                                </ul>
+                                             </div>
+                                          </div>
+                                       </div>
+                                    </div>
+                                 </div>
+                              </div>
+                              <div class="elementor-element elementor-element-2468d11 jkit-equal-height-disable elementor-widget elementor-widget-jkit_icon_box" data-id="2468d11" data-element_type="widget" data-widget_type="jkit_icon_box.default">
+                                 <div class="elementor-widget-container">
+                                    <div  class="jeg-elementor-kit jkit-icon-box icon-position-top elementor-animation- jeg_module_7_37_6240504d15d5b" >
+                                       <div class="jkit-icon-box-wrapper hover-from-left">
+                                          <div class="icon-box icon-box-body">
+                                             <h3 class="title">Ala Maaref</h3>
+                                             <p class="icon-box-description">Directeur Commercial</p>
+                                          </div>
+                                       </div>
+                                    </div>
+                                 </div>
+                              </div>
+                           </div>
+                        </div>
+                        <div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-1b0ca37 elementor-invisible" data-id="1b0ca37" data-element_type="column" data-settings="{&quot;animation_delay&quot;:200,&quot;animation&quot;:&quot;fadeInLeft&quot;}">
+                           <div class="elementor-widget-wrap elementor-element-populated">
+                              <div class="elementor-element elementor-element-fd8b8d6 elementor-widget elementor-widget-jkit_team" data-id="fd8b8d6" data-element_type="widget" data-widget_type="jkit_team.default">
+                                 <div class="elementor-widget-container">
+                                    <div  class="jeg-elementor-kit jkit-team style-overlay overlay-bottom jeg_module_7_32_6240504d0e8de" >
+                                       <div class="profile-card ">
+                                          <img src="<?php echo base_url() ?>assets/img/teams/koussay.jpg" >
+                                          <div class="hover-area alignment-center">
+                                             <div class="profile-body">
+                                                <h2 class="profile-title"></h2>
+                                                <p class="profile-designation"></p>
+                                                <ul class="social-list">
+                                                   <li class="social-icon elementor-repeater-item-14ee0f9"><a href="https://facebook.com/" ><i aria-hidden="true" class="fab fa-facebook-f"></i></a></li>
+                                                   <li class="social-icon elementor-repeater-item-11db393"><a href="https://twitter.com/" ><i aria-hidden="true" class="fab fa-twitter"></i></a></li>
+                                                   <li class="social-icon elementor-repeater-item-618b2ac"><a href="https://instagram.com/" ><i aria-hidden="true" class="jki jki-instagram-1-light"></i></a></li>
+                                                </ul>
+                                             </div>
+                                          </div>
+                                       </div>
+                                    </div>
+                                 </div>
+                              </div>
+                              <div class="elementor-element elementor-element-5d935ea jkit-equal-height-disable elementor-widget elementor-widget-jkit_icon_box" data-id="5d935ea" data-element_type="widget" data-widget_type="jkit_icon_box.default">
+                                 <div class="elementor-widget-container">
+                                    <div  class="jeg-elementor-kit jkit-icon-box icon-position-top elementor-animation- jeg_module_7_33_6240504d1002b" >
+                                       <div class="jkit-icon-box-wrapper hover-from-left">
+                                          <div class="icon-box icon-box-body">
+                                             <h4 class="title">Koussay Maiza</h4>
+                                             <p class="icon-box-description">Marketing manager</p>
+                                          </div>
+                                       </div>
+                                    </div>
+                                 </div>
+                              </div>
+                           </div>
+                        </div>
+                        <div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-10f30fe elementor-invisible" data-id="10f30fe" data-element_type="column" data-settings="{&quot;animation_delay&quot;:&quot;200&quot;,&quot;animation&quot;:&quot;fadeInUp&quot;}">
+                           <div class="elementor-widget-wrap elementor-element-populated">
+                              <div class="elementor-element elementor-element-7a3e123 elementor-widget elementor-widget-jkit_team" data-id="7a3e123" data-element_type="widget" data-widget_type="jkit_team.default">
+                                 <div class="elementor-widget-container">
+                                    <div  class="jeg-elementor-kit jkit-team style-overlay overlay-bottom jeg_module_7_34_6240504d11526" >
+                                       <div class="profile-card ">
+                                          <img src="<?php echo base_url() ?>assets/img/teams/lynda.jpg" >
+                                          <div class="hover-area alignment-center">
+                                             <div class="profile-body">
+                                                <h2 class="profile-title"></h2>
+                                                <p class="profile-designation"></p>
+                                                <ul class="social-list">
+                                                   <li class="social-icon elementor-repeater-item-14ee0f9"><a href="https://facebook.com/" ><i aria-hidden="true" class="fab fa-facebook-f"></i></a></li>
+                                                   <li class="social-icon elementor-repeater-item-11db393"><a href="https://twitter.com/" ><i aria-hidden="true" class="fab fa-twitter"></i></a></li>
+                                                   <li class="social-icon elementor-repeater-item-618b2ac"><a href="https://instagram.com/" ><i aria-hidden="true" class="jki jki-instagram-1-light"></i></a></li>
+                                                </ul>
+                                             </div>
+                                          </div>
+                                       </div>
+                                    </div>
+                                 </div>
+                              </div>
+                              <div class="elementor-element elementor-element-b0a01f6 jkit-equal-height-disable elementor-widget elementor-widget-jkit_icon_box" data-id="b0a01f6" data-element_type="widget" data-widget_type="jkit_icon_box.default">
+                                 <div class="elementor-widget-container">
+                                    <div  class="jeg-elementor-kit jkit-icon-box icon-position-top elementor-animation- jeg_module_7_35_6240504d12b1a" >
+                                       <div class="jkit-icon-box-wrapper hover-from-left">
+                                          <div class="icon-box icon-box-body">
+                                             <h3 class="title">Lynda Abidi</h3>
+                                             <p class="icon-box-description">Responsible commercial</p>
+                                          </div>
+                                       </div>
+                                    </div>
+                                 </div>
+                              </div>
+                           </div>
+                        </div>
+                       
+                     </div>
+                  </section>
+               </div>
+            </div>
+         </div>
+      </section>
+
+       <section class="elementor-section elementor-top-section elementor-element elementor-element-36dac22 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="36dac22" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+         <div class="elementor-container elementor-column-gap-default">
+            <div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-c476c86" data-id="c476c86" data-element_type="column">
+               <div class="elementor-widget-wrap elementor-element-populated">
+                  <div class="elementor-element elementor-element-f98ffaf elementor-invisible elementor-widget elementor-widget-jkit_client_logo" data-id="f98ffaf" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;fadeInUp&quot;,&quot;_animation_delay&quot;:300}" data-widget_type="jkit_client_logo.default">
+                     <div class="elementor-widget-container">
+                        <div  class="jeg-elementor-kit jkit-client-logo arrow-bottom-middle jeg_module_7_30_6240504d077a5"  data-id="jeg_module_7_30_6240504d077a5" data-settings="{&quot;autoplay&quot;:true,&quot;autoplay_speed&quot;:3500,&quot;autoplay_hover_pause&quot;:false,&quot;show_navigation&quot;:false,&quot;navigation_left&quot;:&quot;&lt;i aria-hidden=\&quot;true\&quot; class=\&quot;fas fa-angle-left\&quot;&gt;&lt;\/i&gt;&quot;,&quot;navigation_right&quot;:&quot;&lt;i aria-hidden=\&quot;true\&quot; class=\&quot;fas fa-angle-right\&quot;&gt;&lt;\/i&gt;&quot;,&quot;show_dots&quot;:false,&quot;arrow_position&quot;:&quot;bottom&quot;,&quot;responsive&quot;:{&quot;desktop&quot;:{&quot;items&quot;:&quot;5&quot;,&quot;margin&quot;:&quot;20&quot;,&quot;breakpoint&quot;:1025},&quot;tablet&quot;:{&quot;items&quot;:3,&quot;margin&quot;:10,&quot;breakpoint&quot;:768},&quot;mobile&quot;:{&quot;items&quot;:&quot;1&quot;,&quot;margin&quot;:&quot;20&quot;,&quot;breakpoint&quot;:0}}}">
+                           <div class="client-list">
+                              <div class="client-track">
+                                 <div class="client-slider item ">
+                                    <div class="image-list">
+                                       <div class="content-image"><img src="<?php echo base_url() ?>assets/wp-content/uploads/sites/146/2021/08/carousel-logo-300x300.png"  class="main-image" alt="Logo 1"></div>
+                                    </div>
+                                 </div>
+                                 <div class="client-slider item ">
+                                    <div class="image-list">
+                                       <div class="content-image"><img src="<?php echo base_url() ?>assets/wp-content/uploads/sites/146/2021/08/lancaster-logo-300x300.png"  class="main-image" alt="Logo 2"></div>
+                                    </div>
+                                 </div>
+                                 <div class="client-slider item ">
+                                    <div class="image-list">
+                                       <div class="content-image"><img src="<?php echo base_url() ?>assets/wp-content/uploads/sites/146/2021/08/mark-focus-logo-300x300.png"  class="main-image" alt="Logo 3"></div>
+                                    </div>
+                                 </div>
+                                 <div class="client-slider item ">
+                                    <div class="image-list">
+                                       <div class="content-image"><img src="<?php echo base_url() ?>assets/wp-content/uploads/sites/146/2021/08/mary-jane-logo-300x300.png"  class="main-image" alt="Logo 4"></div>
+                                    </div>
+                                 </div>
+                                 <div class="client-slider item ">
+                                    <div class="image-list">
+                                       <div class="content-image"><img src="<?php echo base_url() ?>assets/wp-content/uploads/sites/146/2021/08/wisconsin-logo-300x300.png"  class="main-image" alt="Logo 5"></div>
+                                    </div>
+                                 </div>
+                                 <div class="client-slider item ">
+                                    <div class="image-list">
+                                       <div class="content-image"><img src="<?php echo base_url() ?>assets/wp-content/uploads/sites/146/2021/08/three-angles-logo-300x300.png"  class="main-image" alt="Logo 6"></div>
+                                    </div>
+                                 </div>
+                                 <div class="client-slider item ">
+                                    <div class="image-list">
+                                       <div class="content-image"><img src="<?php echo base_url() ?>assets/wp-content/uploads/sites/146/2021/08/xoca-logo-300x300.png"  class="main-image" alt="Logo 7"></div>
+                                    </div>
+                                 </div>
+                              </div>
+                           </div>
+                        </div>
+                     </div>
+                  </div>
+               </div>
+            </div>
+         </div>
+      </section>
+
+
+      <section class="elementor-section elementor-top-section elementor-element elementor-element-c87d17f elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="c87d17f" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+         <div class="elementor-container elementor-column-gap-no">
+            <div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-b8e2b3e" data-id="b8e2b3e" data-element_type="column">
+               <div class="elementor-widget-wrap elementor-element-populated">
+                  <div class="elementor-element elementor-element-14aa56c elementor-invisible elementor-widget elementor-widget-jkit_heading" data-id="14aa56c" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;fadeInUp&quot;}" data-widget_type="jkit_heading.default">
+                     <div class="elementor-widget-container">
+                        <div  class="jeg-elementor-kit jkit-heading  align-center align-tablet-left align-mobile-left jeg_module_7_38_6240504d18112" >
+                           <h3 class="heading-section-subtitle  style-color">Pricing &amp; Plan</h3>
+                           <div class="heading-section-title ">
+                              <h2 class="heading-title">Services Price</h2>
+                           </div>
+                           <div class="heading-section-description">
+                              <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.</p>
+                           </div>
+                        </div>
+                     </div>
+                  </div>
+                  <section class="elementor-section elementor-inner-section elementor-element elementor-element-2c31d30 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="2c31d30" data-element_type="section">
+                     <div class="elementor-container elementor-column-gap-no">
+                        <div class="elementor-column elementor-col-25 elementor-inner-column elementor-element elementor-element-562b504 elementor-invisible" data-id="562b504" data-element_type="column" data-settings="{&quot;animation_delay&quot;:&quot;100&quot;,&quot;background_background&quot;:&quot;classic&quot;,&quot;animation&quot;:&quot;fadeInUp&quot;}">
+                           <div class="elementor-widget-wrap elementor-element-populated">
+                              <div class="elementor-element elementor-element-c52e579 elementor-widget elementor-widget-jkit_heading" data-id="c52e579" data-element_type="widget" data-widget_type="jkit_heading.default">
+                                 <div class="elementor-widget-container">
+                                    <div  class="jeg-elementor-kit jkit-heading  align-left align-tablet-left align-mobile-left jeg_module_7_39_6240504d18ef3" >
+                                       <h3 class="heading-section-subtitle  style-color">BIRTHDAY PARTY</h3>
+                                       <div class="heading-section-title ">
+                                          <h2 class="heading-title">$145</h2>
+                                       </div>
+                                    </div>
+                                 </div>
+                              </div>
+                              <div class="elementor-element elementor-element-dc593e8 elementor-icon-list--layout-traditional elementor-list-item-link-full_width elementor-widget elementor-widget-icon-list" data-id="dc593e8" data-element_type="widget" data-widget_type="icon-list.default">
+                                 <div class="elementor-widget-container">
+                                    <ul class="elementor-icon-list-items">
+                                       <li class="elementor-icon-list-item">
+                                          <span class="elementor-icon-list-icon">
+                                          <i aria-hidden="true" class="fas fa-check-circle"></i>                  </span>
+                                          <span class="elementor-icon-list-text">6 Hours</span>
+                                       </li>
+                                       <li class="elementor-icon-list-item">
+                                          <span class="elementor-icon-list-icon">
+                                          <i aria-hidden="true" class="fas fa-check-circle"></i>                  </span>
+                                          <span class="elementor-icon-list-text">Decoration</span>
+                                       </li>
+                                       <li class="elementor-icon-list-item">
+                                          <span class="elementor-icon-list-icon">
+                                          <i aria-hidden="true" class="fas fa-check-circle"></i>                  </span>
+                                          <span class="elementor-icon-list-text">Photographer</span>
+                                       </li>
+                                       <li class="elementor-icon-list-item">
+                                          <span class="elementor-icon-list-icon">
+                                          <i aria-hidden="true" class="fas fa-check-circle"></i>                  </span>
+                                          <span class="elementor-icon-list-text">Catering</span>
+                                       </li>
+                                       <li class="elementor-icon-list-item">
+                                          <span class="elementor-icon-list-icon">
+                                          <i aria-hidden="true" class="fas fa-check-circle"></i>                  </span>
+                                          <span class="elementor-icon-list-text">Entertainment</span>
+                                       </li>
+                                       <li class="elementor-icon-list-item">
+                                          <span class="elementor-icon-list-icon">
+                                          <i aria-hidden="true" class="fas fa-check-circle"></i>                  </span>
+                                          <span class="elementor-icon-list-text">Up to 20 Persons</span>
+                                       </li>
+                                    </ul>
+                                 </div>
+                              </div>
+                              <div class="elementor-element elementor-element-b44d304 elementor-widget elementor-widget-jkit_button" data-id="b44d304" data-element_type="widget" data-widget_type="jkit_button.default">
+                                 <div class="elementor-widget-container">
+                                    <div  class="jeg-elementor-kit jkit-button  icon-position-before jeg_module_7_40_6240504d19d9d" ><a href="#"  class="jkit-button-wrapper">GET IN TOUCH</a></div>
+                                 </div>
+                              </div>
+                           </div>
+                        </div>
+                        <div class="elementor-column elementor-col-25 elementor-inner-column elementor-element elementor-element-92e8e6e elementor-invisible" data-id="92e8e6e" data-element_type="column" data-settings="{&quot;animation_delay&quot;:200,&quot;background_background&quot;:&quot;classic&quot;,&quot;animation&quot;:&quot;fadeInDown&quot;}">
+                           <div class="elementor-widget-wrap elementor-element-populated">
+                              <div class="elementor-element elementor-element-f9c1b32 elementor-widget elementor-widget-jkit_heading" data-id="f9c1b32" data-element_type="widget" data-widget_type="jkit_heading.default">
+                                 <div class="elementor-widget-container">
+                                    <div  class="jeg-elementor-kit jkit-heading  align-left align-tablet-left align-mobile-left jeg_module_7_41_6240504d1abe5" >
+                                       <h3 class="heading-section-subtitle  style-color">WEDDING PARTY</h3>
+                                       <div class="heading-section-title ">
+                                          <h2 class="heading-title">$850</h2>
+                                       </div>
+                                    </div>
+                                 </div>
+                              </div>
+                              <div class="elementor-element elementor-element-51d3847 elementor-icon-list--layout-traditional elementor-list-item-link-full_width elementor-widget elementor-widget-icon-list" data-id="51d3847" data-element_type="widget" data-widget_type="icon-list.default">
+                                 <div class="elementor-widget-container">
+                                    <ul class="elementor-icon-list-items">
+                                       <li class="elementor-icon-list-item">
+                                          <span class="elementor-icon-list-icon">
+                                          <i aria-hidden="true" class="fas fa-check-circle"></i>                  </span>
+                                          <span class="elementor-icon-list-text">8 Hours</span>
+                                       </li>
+                                       <li class="elementor-icon-list-item">
+                                          <span class="elementor-icon-list-icon">
+                                          <i aria-hidden="true" class="fas fa-check-circle"></i>                  </span>
+                                          <span class="elementor-icon-list-text">Decoration</span>
+                                       </li>
+                                       <li class="elementor-icon-list-item">
+                                          <span class="elementor-icon-list-icon">
+                                          <i aria-hidden="true" class="fas fa-check-circle"></i>                  </span>
+                                          <span class="elementor-icon-list-text">Photographer</span>
+                                       </li>
+                                       <li class="elementor-icon-list-item">
+                                          <span class="elementor-icon-list-icon">
+                                          <i aria-hidden="true" class="fas fa-check-circle"></i>                  </span>
+                                          <span class="elementor-icon-list-text">Catering</span>
+                                       </li>
+                                       <li class="elementor-icon-list-item">
+                                          <span class="elementor-icon-list-icon">
+                                          <i aria-hidden="true" class="fas fa-check-circle"></i>                  </span>
+                                          <span class="elementor-icon-list-text">Entertainment</span>
+                                       </li>
+                                       <li class="elementor-icon-list-item">
+                                          <span class="elementor-icon-list-icon">
+                                          <i aria-hidden="true" class="fas fa-check-circle"></i>                  </span>
+                                          <span class="elementor-icon-list-text">Up to 100 Persons</span>
+                                       </li>
+                                    </ul>
+                                 </div>
+                              </div>
+                              <div class="elementor-element elementor-element-9a9aa89 elementor-widget elementor-widget-jkit_button" data-id="9a9aa89" data-element_type="widget" data-widget_type="jkit_button.default">
+                                 <div class="elementor-widget-container">
+                                    <div  class="jeg-elementor-kit jkit-button  icon-position-before jeg_module_7_42_6240504d1ba86" ><a href="#"  class="jkit-button-wrapper">GET IN TOUCH</a></div>
+                                 </div>
+                              </div>
+                           </div>
+                        </div>
+                        <div class="elementor-column elementor-col-25 elementor-inner-column elementor-element elementor-element-81370e5 elementor-invisible" data-id="81370e5" data-element_type="column" data-settings="{&quot;animation_delay&quot;:300,&quot;background_background&quot;:&quot;classic&quot;,&quot;animation&quot;:&quot;fadeInUp&quot;}">
+                           <div class="elementor-widget-wrap elementor-element-populated">
+                              <div class="elementor-element elementor-element-4c4120c elementor-widget elementor-widget-jkit_heading" data-id="4c4120c" data-element_type="widget" data-widget_type="jkit_heading.default">
+                                 <div class="elementor-widget-container">
+                                    <div  class="jeg-elementor-kit jkit-heading  align-left align-tablet-left align-mobile-left jeg_module_7_43_6240504d1c904" >
+                                       <h3 class="heading-section-subtitle  style-color">PARTY &amp; EVENTS</h3>
+                                       <div class="heading-section-title ">
+                                          <h2 class="heading-title">$650</h2>
+                                       </div>
+                                    </div>
+                                 </div>
+                              </div>
+                              <div class="elementor-element elementor-element-d7e92b5 elementor-icon-list--layout-traditional elementor-list-item-link-full_width elementor-widget elementor-widget-icon-list" data-id="d7e92b5" data-element_type="widget" data-widget_type="icon-list.default">
+                                 <div class="elementor-widget-container">
+                                    <ul class="elementor-icon-list-items">
+                                       <li class="elementor-icon-list-item">
+                                          <span class="elementor-icon-list-icon">
+                                          <i aria-hidden="true" class="fas fa-check-circle"></i>                  </span>
+                                          <span class="elementor-icon-list-text">8 Hours</span>
+                                       </li>
+                                       <li class="elementor-icon-list-item">
+                                          <span class="elementor-icon-list-icon">
+                                          <i aria-hidden="true" class="fas fa-check-circle"></i>                  </span>
+                                          <span class="elementor-icon-list-text">Decoration</span>
+                                       </li>
+                                       <li class="elementor-icon-list-item">
+                                          <span class="elementor-icon-list-icon">
+                                          <i aria-hidden="true" class="fas fa-check-circle"></i>                  </span>
+                                          <span class="elementor-icon-list-text">Photographer</span>
+                                       </li>
+                                       <li class="elementor-icon-list-item">
+                                          <span class="elementor-icon-list-icon">
+                                          <i aria-hidden="true" class="fas fa-check-circle"></i>                  </span>
+                                          <span class="elementor-icon-list-text">Catering</span>
+                                       </li>
+                                       <li class="elementor-icon-list-item">
+                                          <span class="elementor-icon-list-icon">
+                                          <i aria-hidden="true" class="fas fa-check-circle"></i>                  </span>
+                                          <span class="elementor-icon-list-text">Entertainment</span>
+                                       </li>
+                                       <li class="elementor-icon-list-item">
+                                          <span class="elementor-icon-list-icon">
+                                          <i aria-hidden="true" class="fas fa-check-circle"></i>                  </span>
+                                          <span class="elementor-icon-list-text">Up to 100 Persons</span>
+                                       </li>
+                                    </ul>
+                                 </div>
+                              </div>
+                              <div class="elementor-element elementor-element-414d4fb elementor-widget elementor-widget-jkit_button" data-id="414d4fb" data-element_type="widget" data-widget_type="jkit_button.default">
+                                 <div class="elementor-widget-container">
+                                    <div  class="jeg-elementor-kit jkit-button  icon-position-before jeg_module_7_44_6240504d1d78c" ><a href="#"  class="jkit-button-wrapper">GET IN TOUCH</a></div>
+                                 </div>
+                              </div>
+                           </div>
+                        </div>
+                        <div class="elementor-column elementor-col-25 elementor-inner-column elementor-element elementor-element-d14e50e elementor-invisible" data-id="d14e50e" data-element_type="column" data-settings="{&quot;animation_delay&quot;:400,&quot;background_background&quot;:&quot;classic&quot;,&quot;animation&quot;:&quot;fadeInDown&quot;}">
+                           <div class="elementor-widget-wrap elementor-element-populated">
+                              <div class="elementor-element elementor-element-6e7b005 elementor-widget elementor-widget-jkit_heading" data-id="6e7b005" data-element_type="widget" data-widget_type="jkit_heading.default">
+                                 <div class="elementor-widget-container">
+                                    <div  class="jeg-elementor-kit jkit-heading  align-left align-tablet-left align-mobile-left jeg_module_7_45_6240504d1e606" >
+                                       <h3 class="heading-section-subtitle  style-color">FESTIVAL EVENTS</h3>
+                                       <div class="heading-section-title ">
+                                          <h2 class="heading-title">$1200</h2>
+                                       </div>
+                                    </div>
+                                 </div>
+                              </div>
+                              <div class="elementor-element elementor-element-989ce24 elementor-icon-list--layout-traditional elementor-list-item-link-full_width elementor-widget elementor-widget-icon-list" data-id="989ce24" data-element_type="widget" data-widget_type="icon-list.default">
+                                 <div class="elementor-widget-container">
+                                    <ul class="elementor-icon-list-items">
+                                       <li class="elementor-icon-list-item">
+                                          <span class="elementor-icon-list-icon">
+                                          <i aria-hidden="true" class="fas fa-check-circle"></i>                  </span>
+                                          <span class="elementor-icon-list-text">12 Hours</span>
+                                       </li>
+                                       <li class="elementor-icon-list-item">
+                                          <span class="elementor-icon-list-icon">
+                                          <i aria-hidden="true" class="fas fa-check-circle"></i>                  </span>
+                                          <span class="elementor-icon-list-text">Decoration</span>
+                                       </li>
+                                       <li class="elementor-icon-list-item">
+                                          <span class="elementor-icon-list-icon">
+                                          <i aria-hidden="true" class="fas fa-check-circle"></i>                  </span>
+                                          <span class="elementor-icon-list-text">Photographer</span>
+                                       </li>
+                                       <li class="elementor-icon-list-item">
+                                          <span class="elementor-icon-list-icon">
+                                          <i aria-hidden="true" class="fas fa-check-circle"></i>                  </span>
+                                          <span class="elementor-icon-list-text">Catering</span>
+                                       </li>
+                                       <li class="elementor-icon-list-item">
+                                          <span class="elementor-icon-list-icon">
+                                          <i aria-hidden="true" class="fas fa-check-circle"></i>                  </span>
+                                          <span class="elementor-icon-list-text">Entertainment</span>
+                                       </li>
+                                       <li class="elementor-icon-list-item">
+                                          <span class="elementor-icon-list-icon">
+                                          <i aria-hidden="true" class="fas fa-check-circle"></i>                  </span>
+                                          <span class="elementor-icon-list-text">Up to 500 Persons</span>
+                                       </li>
+                                    </ul>
+                                 </div>
+                              </div>
+                              <div class="elementor-element elementor-element-b9f6de9 elementor-widget elementor-widget-jkit_button" data-id="b9f6de9" data-element_type="widget" data-widget_type="jkit_button.default">
+                                 <div class="elementor-widget-container">
+                                    <div  class="jeg-elementor-kit jkit-button  icon-position-before jeg_module_7_46_6240504d1f43b" ><a href="#"  class="jkit-button-wrapper">GET IN TOUCH</a></div>
+                                 </div>
+                              </div>
+                           </div>
+                        </div>
+                     </div>
+                  </section>
+               </div>
+            </div>
+         </div>
+      </section>
+
+       <section class="elementor-section elementor-top-section elementor-element elementor-element-c8c087b elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="c8c087b" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+         <div class="elementor-background-overlay"></div>
+         <div class="elementor-container elementor-column-gap-default">
+            <div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-72e1191" data-id="72e1191" data-element_type="column">
+               <div class="elementor-widget-wrap elementor-element-populated">
+                  <div class="elementor-element elementor-element-65f257a elementor-invisible elementor-widget elementor-widget-jkit_animated_text" data-id="65f257a" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;fadeInLeft&quot;}" data-widget_type="jkit_animated_text.default">
+                     <div class="elementor-widget-container">
+                        <div  class="jeg-elementor-kit jkit-animated-text jeg_module_7_50_6240504d279a3"  data-style="none">
+                           <p class="animated-text"><span class="normal-text style-color">N'hésitez pas à utiliser nos services, votre </span><span class="dynamic-wrapper style-color"><span class="dynamic-text">Événement &amp; Fête </span></span><span class="normal-text style-color"> Sera spécial !</span></p>
+                        </div>
+                     </div>
+                  </div>
+                  <div class="elementor-element elementor-element-e51a9b6 elementor-invisible elementor-widget elementor-widget-text-editor" data-id="e51a9b6" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;fadeInRight&quot;}" data-widget_type="text-editor.default">
+                     <div class="elementor-widget-container">
+                        <p></p>
+                     </div>
+                  </div>
+                  <div class="elementor-element elementor-element-843ed3b elementor-invisible elementor-widget elementor-widget-jkit_button" data-id="843ed3b" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;fadeInUp&quot;}" data-widget_type="jkit_button.default">
+                     <div class="elementor-widget-container">
+                        <div  class="jeg-elementor-kit jkit-button  icon-position-before jeg_module_7_51_6240504d28733" ><a href="#"  class="jkit-button-wrapper">ENTRER EN CONTACT</a></div>
+                     </div>
+                  </div>
+               </div>
+            </div>
+         </div>
+      </section>
+
+      <section class="elementor-section elementor-top-section elementor-element elementor-element-86b6537 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="86b6537" data-element_type="section">
+         <div class="elementor-container elementor-column-gap-default">
+            <div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-8a813b7" data-id="8a813b7" data-element_type="column">
+               <div class="elementor-widget-wrap elementor-element-populated">
+                  <div class="elementor-element elementor-element-19042b2 elementor-invisible elementor-widget elementor-widget-jkit_heading" data-id="19042b2" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;fadeInLeft&quot;,&quot;_animation_delay&quot;:100}" data-widget_type="jkit_heading.default">
+                     <div class="elementor-widget-container">
+                        <div  class="jeg-elementor-kit jkit-heading  align-left align-tablet-left align-mobile-left jeg_module_7_47_6240504d21095" >
+                           <h3 class="heading-section-subtitle  style-color">Testimonials</h3>
+                           <div class="heading-section-title ">
+                              <h2 class="heading-title">What Client Says</h2>
+                           </div>
+                           <div class="heading-section-description">
+                              <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+                           </div>
+                        </div>
+                     </div>
+                  </div>
+                  <div class="elementor-element elementor-element-2c78999 elementor-invisible elementor-widget elementor-widget-jkit_button" data-id="2c78999" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;fadeInRight&quot;,&quot;_animation_delay&quot;:200}" data-widget_type="jkit_button.default">
+                     <div class="elementor-widget-container">
+                        <div  class="jeg-elementor-kit jkit-button  icon-position-before jeg_module_7_48_6240504d219c0" ><a href="#"  class="jkit-button-wrapper">SEE MORE</a></div>
+                     </div>
+                  </div>
+               </div>
+            </div>
+            <div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-61b234e elementor-invisible" data-id="61b234e" data-element_type="column" data-settings="{&quot;animation&quot;:&quot;fadeInRight&quot;,&quot;animation_delay&quot;:200}">
+               <div class="elementor-widget-wrap elementor-element-populated">
+                  <div class="elementor-element elementor-element-e30f007 elementor-widget elementor-widget-jkit_testimonials" data-id="e30f007" data-element_type="widget" data-widget_type="jkit_testimonials.default">
+                     <div class="elementor-widget-container">
+                        <div  class="jeg-elementor-kit jkit-testimonials arrow-bottom-middle style-2 quote-override jeg_module_7_49_6240504d258b7"  data-id="jeg_module_7_49_6240504d258b7" data-settings="{&quot;autoplay&quot;:true,&quot;autoplay_speed&quot;:3500,&quot;autoplay_hover_pause&quot;:false,&quot;show_navigation&quot;:false,&quot;navigation_left&quot;:&quot;&lt;i aria-hidden=\&quot;true\&quot; class=\&quot;fas fa-angle-left\&quot;&gt;&lt;\/i&gt;&quot;,&quot;navigation_right&quot;:&quot;&lt;i aria-hidden=\&quot;true\&quot; class=\&quot;fas fa-angle-right\&quot;&gt;&lt;\/i&gt;&quot;,&quot;show_dots&quot;:false,&quot;arrow_position&quot;:&quot;bottom&quot;,&quot;responsive&quot;:{&quot;desktop&quot;:{&quot;items&quot;:1,&quot;margin&quot;:10,&quot;breakpoint&quot;:1025},&quot;tablet&quot;:{&quot;items&quot;:1,&quot;margin&quot;:10,&quot;breakpoint&quot;:768},&quot;mobile&quot;:{&quot;items&quot;:1,&quot;margin&quot;:10,&quot;breakpoint&quot;:0}}}">
+                           <div class="testimonials-list">
+                              <div class="testimonials-track">
+                                 <div class="testimonial-item  elementor-repeater-item-08a7159">
+                                    <div class="testimonial-box hover-from-left" >
+                                       <div class="comment-header">
+                                          <ul class="rating-stars">
+                                             <li><i aria-hidden="true" class="jki jki-star-solid"></i></li>
+                                             <li><i aria-hidden="true" class="jki jki-star-solid"></i></li>
+                                             <li><i aria-hidden="true" class="jki jki-star-solid"></i></li>
+                                             <li><i aria-hidden="true" class="jki jki-star-solid"></i></li>
+                                             <li><i aria-hidden="true" class="jki jki-star-solid"></i></li>
+                                          </ul>
+                                       </div>
+                                       <div class="comment-bio">
+                                          <div class="bio-details">
+                                             <div class="profile-image"><img src="<?php echo base_url() ?>assets/wp-content/uploads/sites/146/2021/08/cheerful-smiling-man-bodybuilder-standing-in-a-gym-150x150.jpg"  alt="Jerry Smith"></div>
+                                             <span class="profile-info">
+                                                <strong class="profile-name">Jerry Smith</strong>
+                                                <p class="profile-des">Client</p>
+                                             </span>
+                                          </div>
+                                          <div class="icon-content"><i aria-hidden="true" class="jki jki-quote-right-solid"></i></div>
+                                       </div>
+                                       <div class="comment-content">
+                                          <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+                                       </div>
+                                    </div>
+                                 </div>
+                                 <div class="testimonial-item  elementor-repeater-item-c88c418">
+                                    <div class="testimonial-box hover-from-left" >
+                                       <div class="comment-header">
+                                          <ul class="rating-stars">
+                                             <li><i aria-hidden="true" class="jki jki-star-solid"></i></li>
+                                             <li><i aria-hidden="true" class="jki jki-star-solid"></i></li>
+                                             <li><i aria-hidden="true" class="jki jki-star-solid"></i></li>
+                                             <li><i aria-hidden="true" class="jki jki-star-solid"></i></li>
+                                             <li><i aria-hidden="true" class="jki jki-star-half-solid"></i></li>
+                                          </ul>
+                                       </div>
+                                       <div class="comment-bio">
+                                          <div class="bio-details">
+                                             <div class="profile-image"><img src="<?php echo base_url() ?>assets/wp-content/uploads/sites/146/2021/08/charming-brown-eyed-woman-with-smile-looks-into-camera-and-holds-cup-on-background-of-kitchen-150x150.jpg"  alt="Amanda Kelly"></div>
+                                             <span class="profile-info">
+                                                <strong class="profile-name">Amanda Kelly</strong>
+                                                <p class="profile-des">Client</p>
+                                             </span>
+                                          </div>
+                                          <div class="icon-content"><i aria-hidden="true" class="jki jki-quote-right-solid"></i></div>
+                                       </div>
+                                       <div class="comment-content">
+                                          <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+                                       </div>
+                                    </div>
+                                 </div>
+                                 <div class="testimonial-item  elementor-repeater-item-9d1ed81">
+                                    <div class="testimonial-box hover-from-left" >
+                                       <div class="comment-header">
+                                          <ul class="rating-stars">
+                                             <li><i aria-hidden="true" class="jki jki-star-solid"></i></li>
+                                             <li><i aria-hidden="true" class="jki jki-star-solid"></i></li>
+                                             <li><i aria-hidden="true" class="jki jki-star-solid"></i></li>
+                                             <li><i aria-hidden="true" class="jki jki-star-solid"></i></li>
+                                          </ul>
+                                       </div>
+                                       <div class="comment-bio">
+                                          <div class="bio-details">
+                                             <div class="profile-image"><img src="<?php echo base_url() ?>assets/wp-content/uploads/sites/146/2021/08/portrait-of-adult-bald-smiling-attractive-man-forty-years-with-beard-in-blue-shirt-businessman-150x150.jpg"  alt="Robert Cabalero"></div>
+                                             <span class="profile-info">
+                                                <strong class="profile-name">Robert Cabalero</strong>
+                                                <p class="profile-des">Client</p>
+                                             </span>
+                                          </div>
+                                          <div class="icon-content"><i aria-hidden="true" class="jki jki-quote-right-solid"></i></div>
+                                       </div>
+                                       <div class="comment-content">
+                                          <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+                                       </div>
+                                    </div>
+                                 </div>
+                              </div>
+                           </div>
+                        </div>
+                     </div>
+                  </div>
+               </div>
+            </div>
+         </div>
+      </section>
+     
+      
    </div>
 </div>
