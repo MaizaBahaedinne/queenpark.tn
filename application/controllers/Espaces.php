@@ -19,6 +19,7 @@ class Espaces extends BaseController
         parent::__construct();
   
       $this->load->model('salle_model');
+      
         $this->isLoggedIn();   
     }
     

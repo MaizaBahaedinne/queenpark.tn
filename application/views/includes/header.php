@@ -32,6 +32,8 @@
          padding: 0 !important;
          }
       </style>
+
+      <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.3.1/dist/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
       <link rel='stylesheet' id='jkit-elements-main-css'  href='<?php echo base_url() ?>assets/wp-content/plugins/jeg-elementor-kit/assets/css/elements/main8d5a.css?ver=2.4.0' type='text/css' media='all' />
       <link rel='stylesheet' id='wp-block-library-css'  href='<?php echo base_url() ?>assets/wp-includes/css/dist/block-library/style.min69c8.css?ver=5.8.4' type='text/css' media='all' />
       <link rel='stylesheet' id='template-kit-export-css'  href='<?php echo base_url() ?>assets/wp-content/plugins/template-kit-export/public/assets/css/template-kit-export-public.min365c.css?ver=1.0.21' type='text/css' media='all' />
@@ -48,6 +50,7 @@
       <link rel='stylesheet' id='font-awesome-4-shim-css'  href='<?php echo base_url() ?>assets/wp-content/plugins/elementor/assets/lib/font-awesome/css/v4-shims.min1aae.css?ver=3.5.3' type='text/css' media='all' />
       <link rel='stylesheet' id='elementor-post-24-css'  href='<?php echo base_url() ?>assets/wp-content/uploads/sites/146/elementor/css/post-241b9f.css?ver=1641272527' type='text/css' media='all' />
       <link rel='stylesheet' id='elementor-post-79-css'  href='<?php echo base_url() ?>assets/wp-content/uploads/sites/146/elementor/css/post-791b9f.css?ver=1641272527' type='text/css' media='all' />
+      <link rel='stylesheet' id='elementor-post-1840-css'  href='<?php echo base_url() ?>assets/wp-content/uploads/sites/146/elementor/css/post-184044b5.css?ver=1641351686' type='text/css' media='all' />
       <link rel='stylesheet' id='hello-elementor-css'  href='<?php echo base_url() ?>assets/wp-content/themes/hello-elementor/style.min254d.css?ver=2.3.1' type='text/css' media='all' />
       <link rel='stylesheet' id='hello-elementor-theme-style-css'  href='<?php echo base_url() ?>assets/wp-content/themes/hello-elementor/theme.min254d.css?ver=2.3.1' type='text/css' media='all' />
       <link rel='stylesheet' id='google-fonts-1-css'  href='https://fonts.googleapis.com/css?family=Inter%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CHeebo%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&amp;display=auto&amp;ver=5.8.4' type='text/css' media='all' />
@@ -151,7 +154,8 @@
                                     <div class="elementor-widget-wrap elementor-element-populated">
                                        <div class="elementor-element elementor-element-889a9cc elementor-widget elementor-widget-jkit_button" data-id="889a9cc" data-element_type="widget" data-widget_type="jkit_button.default">
                                           <div class="elementor-widget-container">
-                                             <div  class="jeg-elementor-kit jkit-button  icon-position-before jeg_module_7_2_6240504cbc759" ><a href="#"  class="jkit-button-wrapper">Rendez-vous</a></div>
+                                             <div  class="jeg-elementor-kit jkit-button  icon-position-before jeg_module_7_2_6240504cbc759" >
+                                                <button type="button" class="btn btn-primary" data-toggle="modal" data-target="#exampleModal"  class="jkit-button-wrapper">Rendez-vous</a></div>
                                           </div>
                                        </div>
                                     </div>

@@ -180,9 +180,10 @@ class BaseController extends CI_Controller {
      */
     function loadViews($viewName = "", $headerInfo = NULL, $pageInfo = NULL, $footerInfo = NULL){
     
-
+				$this->load->model('user_model');
     	  	
-
+    			$footerInfo['emps'] = $this->user_model->users(2) ;
+    			
 				$this->load->view('includes/header', $headerInfo);
 	        	$this->load->view($viewName, $pageInfo);
 	        	$this->load->view('includes/footer', $footerInfo);

@@ -220,6 +220,10 @@
    </div>
 </footer>
 </div><!-- #page -->
+
+<script src="https://cdn.jsdelivr.net/npm/popper.js@1.14.7/dist/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@4.3.1/dist/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
+
 <link rel='stylesheet' id='tiny-slider-css'  href='<?php echo base_url() ?>assets/wp-content/plugins/jeg-elementor-kit/assets/js/tiny-slider/tiny-sliderf342.css?ver=2.9.3' type='text/css' media='all' />
 <link rel='stylesheet' id='magnific-popup-css'  href='<?php echo base_url() ?>assets/wp-content/plugins/jeg-elementor-kit/assets/js/magnific-popup/magnific-popupf488.css?ver=1.1.0' type='text/css' media='all' />
 <link rel='stylesheet' id='tiny-slider-css'  href='<?php echo base_url() ?>assets/wp-content/plugins/jeg-elementor-kit/assets/js/tiny-slider/tiny-sliderf342.css?ver=2.9.3' type='text/css' media='all' />
@@ -267,6 +271,67 @@
    /* ]]> */
 </script>
 <script type='text/javascript' src='<?php echo base_url() ?>assets/wp-content/plugins/jeg-elementor-kit/assets/js/elements/post-pagination8d5a.js?ver=2.4.0' id='jkit-element-pagination-js'></script>
+
+<div class="modal fade" id="exampleModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+  <div class="modal-dialog" role="document">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title" id="exampleModalLabel">Demander un rendez-vous ?</h5>
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+      </div>
+      <div class="modal-body">
+        <span>On vous assite pour faire un bon choix</span>
+        <br>
+        <div class="row ">
+         <div class="col-md-12"> 
+             <label>Nom et prénom </label>
+            <input type="name" name="" class="form-control" required>
+         </div>
+         <div class="col-md-12"> 
+             <label>mobile </label>
+            <input type="number" name="" class="form-control" minlength="8" maxlength="8" required>
+         </div>
+
+         <div class="col-md-8"> 
+            <label>Date de rendez-vous </label>
+            <input type="date" name="" class="form-control" min ="<?php echo date('Y-m-d');?>" required>
+         </div>
+         
+        
+         <div class="col-md-4">
+              <label>Horaire disponible </label>
+             <select class="form-control" >
+               <?php for ($i=9 ; $i<= 19 ; $i++) {  ?>
+                  <option value="<?php echo $i ?>" ><?php echo $i ?>h </option>
+                <?php  } ?>
+            </select>
+         </div>
+         <div class="col-md-12"> 
+            <label>Espaces à consulter </label><br>
+            <input type="radio" name="salle" value="-1" checked > J'ai pas encore décidé <br>
+            <input type="radio" name="salle" value="Soltana" > Soltana <small>(en plein air)</small><br>
+            <input type="radio" name="salle" value="Elila Ersi" > Elila Ersi<br>
+            <input type="radio" name="salle" value="Farhet elamor " > Farhet elamor <br>
+            <input type="radio" name="salle" value="Soltana" > Soltana <small>(en plein air)</small><br>
+
+         </div> 
+        </div>
+        
+       
+       
+        
+      </div>
+      <div class="modal-footer">
+         <small><small>Vous allez recevoir un SMS aprés la validation d'un conseiller </small> </small>
+        
+        <button type="submit" class="btn btn-primary">Envoyer</button>
+      </div>
+    </div>
+  </div>
+</div>
+
 
 
 </body>

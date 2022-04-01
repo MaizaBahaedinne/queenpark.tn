@@ -80,7 +80,25 @@ class User_model extends CI_Model
 
 
   
+   /**
+     * This function used to check the login credentials of the user
+     * @param string $email : This is email of the user
+     * @param string $password : This is encrypted password of the user
+     */
+    function users($roleId = "")
+    {
+        $this->db->select('BaseTbl.* ');
+        $this->db->from('tbl_users as BaseTbl');
 
+
+        if($roleId != ""){ 
+            $this->db->where('BaseTbl.roleId = ', $roleId);
+        }
+        $query = $this->db->get();
+        
+        return $query->result();
+    
+    }
 
 
 

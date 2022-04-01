@@ -53,7 +53,7 @@
                            <div class="elementor-widget-wrap elementor-element-populated">
                               <div class="elementor-element elementor-element-8b3b84d elementor-widget elementor-widget-jkit_gallery" data-id="8b3b84d" data-element_type="widget" data-widget_type="jkit_gallery.default">
                                  <div class="elementor-widget-container">
-                                    <div  class="jeg-elementor-kit jkit-gallery layout-overlay jeg_module_1637_15_6240513ed09b8"  data-grid="masonry" data-id="jeg_module_1637_15_6240513ed09b8" data-per-page="6" data-load-more="0" data-current-loaded="6" data-count-items="6" data-animation-duration="500" data-no-more="No More Item" data-items="[&quot;&lt;div class=\&quot;gallery-item-wrap \&quot;&gt; &lt;div class=\&quot;grid-item\&quot;&gt;&lt;div class=\&quot;thumbnail-wrap\&quot;&gt;&lt;img src=https://templatekit.jegtheme.com/"https:////templatekit.jegtheme.com//evenizer//wp-content//uploads//sites//146//2021//08//ultra-music-festival-miami-e1630317967647.jpg/" &gt;&lt;\/div&gt;&lt;a href=https://templatekit.jegtheme.com/"https:////templatekit.jegtheme.com//evenizer//wp-content//uploads//sites//146//2021//08//ultra-music-festival-miami-e1630317967647.jpg/" class=\&quot;gallery-link\&quot;data-elementor-open-lightbox=\&quot;yes\&quot; data-elementor-lightbox-slideshow=\&quot;jkit_gallery_lightbox_jeg_module_1637_15_6240513ed09b8\&quot; &gt;&lt;div class=\&quot;caption-wrap style-overlay overlay-fade\&quot;&gt; &lt;div class=\&quot;item-hover-bg\&quot;&gt;&lt;\/div&gt; &lt;div class=\&quot;item-caption-over\&quot;&gt; &lt;h5 class=\&quot;item-title\&quot;&gt;&lt;\/h5&gt; &lt;div class=\&quot;item-content\&quot;&gt;&lt;\/div&gt; &lt;\/div&gt; &lt;div class=\&quot;caption-head\&quot;&gt;&lt;\/div&gt; &lt;div class=\&quot;caption-category\&quot;&gt;&lt;\/div&gt; &lt;\/div&gt;&lt;\/a&gt;&lt;\/div&gt; &lt;\/div&gt;&quot;,&quot;&lt;div class=\&quot;gallery-item-wrap \&quot;&gt; &lt;div class=\&quot;grid-item\&quot;&gt;&lt;div class=\&quot;thumbnail-wrap\&quot;&gt;&lt;img src=https://templatekit.jegtheme.com/"https:////templatekit.jegtheme.com//evenizer//wp-content//uploads//sites//146//2021//08//girls-birtday-party.jpg/" &gt;&lt;\/div&gt;&lt;a href=https://templatekit.jegtheme.com/"https:////templatekit.jegtheme.com//evenizer//wp-content//uploads//sites//146//2021//08//girls-birtday-party.jpg/" class=\&quot;gallery-link\&quot;data-elementor-open-lightbox=\&quot;yes\&quot; data-elementor-lightbox-slideshow=\&quot;jkit_gallery_lightbox_jeg_module_1637_15_6240513ed09b8\&quot; &gt;&lt;div class=\&quot;caption-wrap style-overlay overlay-fade\&quot;&gt; &lt;div class=\&quot;item-hover-bg\&quot;&gt;&lt;\/div&gt; &lt;div class=\&quot;item-caption-over\&quot;&gt; &lt;h5 class=\&quot;item-title\&quot;&gt;&lt;\/h5&gt; &lt;div class=\&quot;item-content\&quot;&gt;&lt;\/div&gt; &lt;\/div&gt; &lt;div class=\&quot;caption-head\&quot;&gt;&lt;\/div&gt; &lt;div class=\&quot;caption-category\&quot;&gt;&lt;\/div&gt; &lt;\/div&gt;&lt;\/a&gt;&lt;\/div&gt; &lt;\/div&gt;&quot;,&quot;&lt;div class=\&quot;gallery-item-wrap \&quot;&gt; &lt;div class=\&quot;grid-item\&quot;&gt;&lt;div class=\&quot;thumbnail-wrap\&quot;&gt;&lt;img src=https://templatekit.jegtheme.com/"https:////templatekit.jegtheme.com//evenizer//wp-content//uploads//sites//146//2021//08//young-couple-in-a-wedding-ceremony-at-the-beach-1-e1630318349114.jpg/" &gt;&lt;\/div&gt;&lt;a href=https://templatekit.jegtheme.com/"https:////templatekit.jegtheme.com//evenizer//wp-content//uploads//sites//146//2021//08//young-couple-in-a-wedding-ceremony-at-the-beach-1.jpg/" class=\&quot;gallery-link\&quot;data-elementor-open-lightbox=\&quot;yes\&quot; data-elementor-lightbox-slideshow=\&quot;jkit_gallery_lightbox_jeg_module_1637_15_6240513ed09b8\&quot; &gt;&lt;div class=\&quot;caption-wrap style-overlay overlay-fade\&quot;&gt; &lt;div class=\&quot;item-hover-bg\&quot;&gt;&lt;\/div&gt; &lt;div class=\&quot;item-caption-over\&quot;&gt; &lt;h5 class=\&quot;item-title\&quot;&gt;&lt;\/h5&gt; &lt;div class=\&quot;item-content\&quot;&gt;&lt;\/div&gt; &lt;\/div&gt; &lt;div class=\&quot;caption-head\&quot;&gt;&lt;\/div&gt; &lt;div class=\&quot;caption-category\&quot;&gt;&lt;\/div&gt; &lt;\/div&gt;&lt;\/a&gt;&lt;\/div&gt; &lt;\/div&gt;&quot;,&quot;&lt;div class=\&quot;gallery-item-wrap \&quot;&gt; &lt;div class=\&quot;grid-item\&quot;&gt;&lt;div class=\&quot;thumbnail-wrap\&quot;&gt;&lt;img src=https://templatekit.jegtheme.com/"https:////templatekit.jegtheme.com//evenizer//wp-content//uploads//sites//146//2021//08//evenizer-party.jpg/" &gt;&lt;\/div&gt;&lt;a href=https://templatekit.jegtheme.com/"https:////templatekit.jegtheme.com//evenizer//wp-content//uploads//sites//146//2021//08//evenizer-party.jpg/" class=\&quot;gallery-link\&quot;data-elementor-open-lightbox=\&quot;yes\&quot; data-elementor-lightbox-slideshow=\&quot;jkit_gallery_lightbox_jeg_module_1637_15_6240513ed09b8\&quot; &gt;&lt;div class=\&quot;caption-wrap style-overlay overlay-fade\&quot;&gt; &lt;div class=\&quot;item-hover-bg\&quot;&gt;&lt;\/div&gt; &lt;div class=\&quot;item-caption-over\&quot;&gt; &lt;h5 class=\&quot;item-title\&quot;&gt;&lt;\/h5&gt; &lt;div class=\&quot;item-content\&quot;&gt;&lt;\/div&gt; &lt;\/div&gt; &lt;div class=\&quot;caption-head\&quot;&gt;&lt;\/div&gt; &lt;div class=\&quot;caption-category\&quot;&gt;&lt;\/div&gt; &lt;\/div&gt;&lt;\/a&gt;&lt;\/div&gt; &lt;\/div&gt;&quot;,&quot;&lt;div class=\&quot;gallery-item-wrap \&quot;&gt; &lt;div class=\&quot;grid-item\&quot;&gt;&lt;div class=\&quot;thumbnail-wrap\&quot;&gt;&lt;img src=https://templatekit.jegtheme.com/"https:////templatekit.jegtheme.com//evenizer//wp-content//uploads//sites//146//2021//08//people-partying-3.jpg/" &gt;&lt;\/div&gt;&lt;a href=https://templatekit.jegtheme.com/"https:////templatekit.jegtheme.com//evenizer//wp-content//uploads//sites//146//2021//08//people-partying-3.jpg/" class=\&quot;gallery-link\&quot;data-elementor-open-lightbox=\&quot;yes\&quot; data-elementor-lightbox-slideshow=\&quot;jkit_gallery_lightbox_jeg_module_1637_15_6240513ed09b8\&quot; &gt;&lt;div class=\&quot;caption-wrap style-overlay overlay-fade\&quot;&gt; &lt;div class=\&quot;item-hover-bg\&quot;&gt;&lt;\/div&gt; &lt;div class=\&quot;item-caption-over\&quot;&gt; &lt;h5 class=\&quot;item-title\&quot;&gt;&lt;\/h5&gt; &lt;div class=\&quot;item-content\&quot;&gt;&lt;\/div&gt; &lt;\/div&gt; &lt;div class=\&quot;caption-head\&quot;&gt;&lt;\/div&gt; &lt;div class=\&quot;caption-category\&quot;&gt;&lt;\/div&gt; &lt;\/div&gt;&lt;\/a&gt;&lt;\/div&gt; &lt;\/div&gt;&quot;,&quot;&lt;div class=\&quot;gallery-item-wrap \&quot;&gt; &lt;div class=\&quot;grid-item\&quot;&gt;&lt;div class=\&quot;thumbnail-wrap\&quot;&gt;&lt;img src=https://templatekit.jegtheme.com/"https:////templatekit.jegtheme.com//evenizer//wp-content//uploads//sites//146//2021//08//group-of-people-partying-among-confetti-e1630317893104.jpg/" &gt;&lt;\/div&gt;&lt;a href=https://templatekit.jegtheme.com/"https:////templatekit.jegtheme.com//evenizer//wp-content//uploads//sites//146//2021//08//group-of-people-partying-among-confetti.jpg/" class=\&quot;gallery-link\&quot;data-elementor-open-lightbox=\&quot;yes\&quot; data-elementor-lightbox-slideshow=\&quot;jkit_gallery_lightbox_jeg_module_1637_15_6240513ed09b8\&quot; &gt;&lt;div class=\&quot;caption-wrap style-overlay overlay-fade\&quot;&gt; &lt;div class=\&quot;item-hover-bg\&quot;&gt;&lt;\/div&gt; &lt;div class=\&quot;item-caption-over\&quot;&gt; &lt;h5 class=\&quot;item-title\&quot;&gt;&lt;\/h5&gt; &lt;div class=\&quot;item-content\&quot;&gt;&lt;\/div&gt; &lt;\/div&gt; &lt;div class=\&quot;caption-head\&quot;&gt;&lt;\/div&gt; &lt;div class=\&quot;caption-category\&quot;&gt;&lt;\/div&gt; &lt;\/div&gt;&lt;\/a&gt;&lt;\/div&gt; &lt;\/div&gt;&quot;]">
+                                    <div  class="jeg-elementor-kit jkit-gallery layout-overlay jeg_module_1637_15_6240513ed09b8"  data-grid="masonry" data-id="jeg_module_1637_15_6240513ed09b8" data-per-page="6" data-load-more="0" data-current-loaded="6" data-count-items="6" data-animation-duration="500" data-no-more="No More Item" >
                                     <div class="gallery-items">
                                        
                                         <?php
@@ -204,70 +204,53 @@
                            <div class="elementor-element elementor-element-76c188a elementor-invisible elementor-widget elementor-widget-jkit_accordion" data-id="76c188a" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;fadeInLeft&quot;}" data-widget_type="jkit_accordion.default">
                               <div class="elementor-widget-container">
                                  <div  class="jeg-elementor-kit jkit-accordion style-default jeg_module_1637_18_6240513eda0a0" >
-                                    <div class="card-wrapper expand">
-                                       <div class="card-header">
-                                          <a href="#expand-6f75bf4" class="card-header-button" aria-expanded="false" data-target="#expand-6f75bf4" aria-controls="expand-6f75bf4">
-                                             <span class="title">Where Can I Find Information?</span>
-                                             <div class="right-icon-group">
-                                                <div class="normal-icon"><i aria-hidden="true" class="fas fa-chevron-down"></i></div>
-                                                <div class="active-icon"><i aria-hidden="true" class="fas fa-chevron-up"></i></div>
-                                             </div>
-                                          </a>
+                                  
+                                  <div class="accordion" id="accordionExample">
+                                   <div class="card">
+                                     <div class="card-header" id="headingOne">
+                                       <h2 class="mb-0">
+                                         <button class="btn btn-link" type="button" data-toggle="collapse" data-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
+                                           Collapsible Group Item #1
+                                         </button>
+                                       </h2>
+                                     </div>
+
+                                     <div id="collapseOne" class="collapse show" aria-labelledby="headingOne" data-parent="#accordionExample">
+                                       <div class="card-body">
+                                         Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry richardson ad squid. 3 wolf moon officia aute, non cupidatat skateboard dolor brunch. Food truck quinoa nesciunt laborum eiusmod. Brunch 3 wolf moon tempor, sunt aliqua put a bird on it squid single-origin coffee nulla assumenda shoreditch et. Nihil anim keffiyeh helvetica, craft beer labore wes anderson cred nesciunt sapiente ea proident. Ad vegan excepteur butcher vice lomo. Leggings occaecat craft beer farm-to-table, raw denim aesthetic synth nesciunt you probably haven't heard of them accusamus labore sustainable VHS.
                                        </div>
-                                       <div class="card-expand" id="expand-6f75bf4" style="display:block">
-                                          <div class="card-body">
-                                             <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.</p>
-                                          </div>
+                                     </div>
+                                   </div>
+                                   <div class="card">
+                                     <div class="card-header" id="headingTwo">
+                                       <h2 class="mb-0">
+                                         <button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+                                           Collapsible Group Item #2
+                                         </button>
+                                       </h2>
+                                     </div>
+                                     <div id="collapseTwo" class="collapse" aria-labelledby="headingTwo" data-parent="#accordionExample">
+                                       <div class="card-body">
+                                         Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry richardson ad squid. 3 wolf moon officia aute, non cupidatat skateboard dolor brunch. Food truck quinoa nesciunt laborum eiusmod. Brunch 3 wolf moon tempor, sunt aliqua put a bird on it squid single-origin coffee nulla assumenda shoreditch et. Nihil anim keffiyeh helvetica, craft beer labore wes anderson cred nesciunt sapiente ea proident. Ad vegan excepteur butcher vice lomo. Leggings occaecat craft beer farm-to-table, raw denim aesthetic synth nesciunt you probably haven't heard of them accusamus labore sustainable VHS.
                                        </div>
-                                    </div>
-                                    <div class="card-wrapper ">
-                                       <div class="card-header">
-                                          <a href="#expand-6a4960b" class="card-header-button" aria-expanded="false" data-target="#expand-6a4960b" aria-controls="expand-6a4960b">
-                                             <span class="title">What Are Your Areas of Expertise?</span>
-                                             <div class="right-icon-group">
-                                                <div class="normal-icon"><i aria-hidden="true" class="fas fa-chevron-down"></i></div>
-                                                <div class="active-icon"><i aria-hidden="true" class="fas fa-chevron-up"></i></div>
-                                             </div>
-                                          </a>
+                                     </div>
+                                   </div>
+                                   <div class="card">
+                                     <div class="card-header" id="headingThree">
+                                       <h2 class="mb-0">
+                                         <button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
+                                           Collapsible Group Item #3
+                                         </button>
+                                       </h2>
+                                     </div>
+                                     <div id="collapseThree" class="collapse" aria-labelledby="headingThree" data-parent="#accordionExample">
+                                       <div class="card-body">
+                                         Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry richardson ad squid. 3 wolf moon officia aute, non cupidatat skateboard dolor brunch. Food truck quinoa nesciunt laborum eiusmod. Brunch 3 wolf moon tempor, sunt aliqua put a bird on it squid single-origin coffee nulla assumenda shoreditch et. Nihil anim keffiyeh helvetica, craft beer labore wes anderson cred nesciunt sapiente ea proident. Ad vegan excepteur butcher vice lomo. Leggings occaecat craft beer farm-to-table, raw denim aesthetic synth nesciunt you probably haven't heard of them accusamus labore sustainable VHS.
                                        </div>
-                                       <div class="card-expand" id="expand-6a4960b" style="display:none">
-                                          <div class="card-body">
-                                             <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.</p>
-                                          </div>
-                                       </div>
-                                    </div>
-                                    <div class="card-wrapper ">
-                                       <div class="card-header">
-                                          <a href="#expand-031ca60" class="card-header-button" aria-expanded="false" data-target="#expand-031ca60" aria-controls="expand-031ca60">
-                                             <span class="title">What Kinds of Payment Do You Accept?</span>
-                                             <div class="right-icon-group">
-                                                <div class="normal-icon"><i aria-hidden="true" class="fas fa-chevron-down"></i></div>
-                                                <div class="active-icon"><i aria-hidden="true" class="fas fa-chevron-up"></i></div>
-                                             </div>
-                                          </a>
-                                       </div>
-                                       <div class="card-expand" id="expand-031ca60" style="display:none">
-                                          <div class="card-body">
-                                             <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.</p>
-                                          </div>
-                                       </div>
-                                    </div>
-                                    <div class="card-wrapper ">
-                                       <div class="card-header">
-                                          <a href="#expand-15b1152" class="card-header-button" aria-expanded="false" data-target="#expand-15b1152" aria-controls="expand-15b1152">
-                                             <span class="title">What Services Do You Offer? </span>
-                                             <div class="right-icon-group">
-                                                <div class="normal-icon"><i aria-hidden="true" class="fas fa-chevron-down"></i></div>
-                                                <div class="active-icon"><i aria-hidden="true" class="fas fa-chevron-up"></i></div>
-                                             </div>
-                                          </a>
-                                       </div>
-                                       <div class="card-expand" id="expand-15b1152" style="display:none">
-                                          <div class="card-body">
-                                             <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.</p>
-                                          </div>
-                                       </div>
-                                    </div>
+                                     </div>
+                                   </div>
+                                 </div>
+                                    
                                  </div>
                               </div>
                            </div>
