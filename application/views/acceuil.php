@@ -30,7 +30,12 @@
                   </div>
                   <div class="elementor-element elementor-element-b8689c8 elementor-widget__width-auto elementor-widget-mobile__width-auto elementor-invisible elementor-widget elementor-widget-jkit_video_button" data-id="b8689c8" data-element_type="widget" data-settings="{&quot;_animation_delay&quot;:&quot;200&quot;,&quot;_animation&quot;:&quot;fadeInUp&quot;}" data-widget_type="jkit_video_button.default">
                      <div class="elementor-widget-container">
-                        <div  class="jeg-elementor-kit jkit-video-button jeg_module_7_5_6240504cc4737"  data-autoplay="0" data-loop="0" data-controls="0" data-type="youtube" data-start="0" data-end="0"><a href="https://www.youtube.com/watch?v=MLpWrANjFbI"  class="jkit-video-popup-btn glow-enable"><span class="icon-position-before"><i aria-hidden="true" class="fas fa-play"></i></span></a></div>
+                        <div  class="jeg-elementor-kit jkit-video-button jeg_module_7_5_6240504cc4737"  data-autoplay="0" data-loop="0" data-controls="0" data-type="youtube" data-start="0" data-end="0">
+                           <a href="https://www.youtube.com/watch?v=CtADS0VwtX0"  class="jkit-video-popup-btn glow-enable">
+                              <span class="icon-position-before">
+                                 <i aria-hidden="true" class="fas fa-play"></i>
+                              </span></a>
+                        </div>
                      </div>
                   </div>
                   <div class="elementor-element elementor-element-e45c84f elementor-widget-mobile__width-auto elementor-widget__width-auto elementor-invisible elementor-widget elementor-widget-heading" data-id="e45c84f" data-element_type="widget" data-settings="{&quot;_animation_delay&quot;:&quot;200&quot;,&quot;_animation&quot;:&quot;fadeInRight&quot;}" data-widget_type="heading.default">
@@ -381,7 +386,7 @@
                               <div class="icon elementor-animation-"><i aria-hidden="true" class="jki jki-smile-wink-solid"></i></div>
                               <div class="content">
                                  <div class="number-wrapper">
-                                    <span class="number" data-value="200" data-animation-duration="3500">0</span>
+                                    <span class="number" data-value="<?php echo count($clients) ;?>" data-animation-duration="3500">0</span>
                                     <sup class="super">+</sup>
                                  </div>
                                  <h2 class="title">Client satisfait</h2>
@@ -484,7 +489,7 @@
                                     <div  class="jeg-elementor-kit jkit-icon-box icon-position-top elementor-animation- jeg_module_7_33_6240504d1002b" >
                                        <div class="jkit-icon-box-wrapper hover-from-left">
                                           <div class="icon-box icon-box-body">
-                                             <h4 class="title">Haythem Abidi</h4>
+                                             <h4 class="title">Haythem</h4>
                                              <p class="icon-box-description">DIrecteur General</p>
                                           </div>
                                        </div>
@@ -520,7 +525,7 @@
                                     <div  class="jeg-elementor-kit jkit-icon-box icon-position-top elementor-animation- jeg_module_7_37_6240504d15d5b" >
                                        <div class="jkit-icon-box-wrapper hover-from-left">
                                           <div class="icon-box icon-box-body">
-                                             <h3 class="title">Ala Maaref</h3>
+                                             <h3 class="title">Ala</h3>
                                              <p class="icon-box-description">Directeur Commercial</p>
                                           </div>
                                        </div>
@@ -556,7 +561,7 @@
                                     <div  class="jeg-elementor-kit jkit-icon-box icon-position-top elementor-animation- jeg_module_7_33_6240504d1002b" >
                                        <div class="jkit-icon-box-wrapper hover-from-left">
                                           <div class="icon-box icon-box-body">
-                                             <h4 class="title">Koussay Maiza</h4>
+                                             <h4 class="title">Koussay</h4>
                                              <p class="icon-box-description">Marketing manager</p>
                                           </div>
                                        </div>
@@ -592,7 +597,7 @@
                                     <div  class="jeg-elementor-kit jkit-icon-box icon-position-top elementor-animation- jeg_module_7_35_6240504d12b1a" >
                                        <div class="jkit-icon-box-wrapper hover-from-left">
                                           <div class="icon-box icon-box-body">
-                                             <h3 class="title">Lynda Abidi</h3>
+                                             <h3 class="title">Lynda </h3>
                                              <p class="icon-box-description">Responsible commercial</p>
                                           </div>
                                        </div>

@@ -41,7 +41,7 @@
                               <h2 class="heading-title">Espaces couvert ou en plein air</h2>
                            </div>
                            <div class="heading-section-description">
-                              <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+                              <p>Un espace magnifique prestigieux et différent pour des fêtes magnifiques et différentes. Choisissez ce qui est à votre image pour célébrer votre mariage, fiançailles, ... Les espaces de Queen Park accueille vos cérémonies et vous garanti des moments inoubliables</p>
                            </div>
                         </div>
                      </div>

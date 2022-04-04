@@ -46,6 +46,7 @@
       <link rel='stylesheet' id='elementor-post-1637-css'  href='<?php echo base_url() ?>assets/wp-content/uploads/sites/146/elementor/css/post-16374313.css?ver=1641273855' type='text/css' media='all' />
       <link rel='stylesheet' id='elementor-post-1826-css'  href='<?php echo base_url() ?>assets/wp-content/uploads/sites/146/elementor/css/post-1826697d.css?ver=1641373095' type='text/css' media='all' />
       <link rel='stylesheet' id='hfe-widgets-style-css'  href='<?php echo base_url() ?>assets/wp-content/plugins/header-footer-elementor/inc/widgets-css/frontend2745.css?ver=1.6.4' type='text/css' media='all' />
+      <link rel='stylesheet' id='elementor-post-2215-css'  href='<?php echo base_url() ?>assets/wp-content/uploads/sites/146/elementor/css/post-2215fcc4.css?ver=1641319128' type='text/css' media='all' />
       <link rel='stylesheet' id='font-awesome-5-all-css'  href='<?php echo base_url() ?>assets/wp-content/plugins/elementor/assets/lib/font-awesome/css/all.min1aae.css?ver=3.5.3' type='text/css' media='all' />
       <link rel='stylesheet' id='font-awesome-4-shim-css'  href='<?php echo base_url() ?>assets/wp-content/plugins/elementor/assets/lib/font-awesome/css/v4-shims.min1aae.css?ver=3.5.3' type='text/css' media='all' />
       <link rel='stylesheet' id='elementor-post-24-css'  href='<?php echo base_url() ?>assets/wp-content/uploads/sites/146/elementor/css/post-241b9f.css?ver=1641272527' type='text/css' media='all' />
@@ -72,6 +73,18 @@
       <link rel="alternate" type="application/json+oembed" href="wp-json/oembed/1.0/embed873f.json?url=https%3A%2F%2Ftemplatekit.jegtheme.com%2Fevenizer%2F" />
       <link rel="alternate" type="text/xml+oembed" href="wp-json/oembed/1.0/embed970f?url=https%3A%2F%2Ftemplatekit.jegtheme.com%2Fevenizer%2F&amp;format=xml" />
       <style id="jeg_dynamic_css" type="text/css" data-type="jeg_custom-css"></style>
+
+      <!-- Global site tag (gtag.js) - Google Analytics -->
+      <script async src="https://www.googletagmanager.com/gtag/js?id=G-70XWVYXKXL"></script>
+      <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+
+        gtag('config', 'G-70XWVYXKXL');
+      </script>
+
+
    </head>
    <body class="home page-template page-template-elementor_header_footer page page-id-7 ehf-header ehf-footer ehf-template-hello-elementor ehf-stylesheet-hello-elementor jkit-color-scheme elementor-default elementor-template-full-width elementor-kit-4 elementor-page elementor-page-7">
       <div id="page" class="hfeed site">
@@ -89,7 +102,9 @@
                                     <div class="elementor-widget-wrap elementor-element-populated">
                                        <div class="elementor-element elementor-element-6d6cc97 elementor-widget elementor-widget-image" data-id="6d6cc97" data-element_type="widget" data-widget_type="image.default">
                                           <div class="elementor-widget-container">
-                                             <img   src="<?php echo base_url() ?>assets/wp-content/uploads/sites/146/2021/08/Evenizer-logo-2.png" class="attachment-large size-large" alt="" loading="lazy" style="width: 50%;"/>                                             
+                                              <a href="<?php echo base_url() ?>">
+                                                <img   src="<?php echo base_url() ?>assets/wp-content/uploads/sites/146/2021/08/Evenizer-logo-2.png" class="attachment-large size-large" alt="" loading="lazy" style="width: 60%;"/>
+                                                </a>                                             
                                           </div>
                                        </div>
                                     </div>
@@ -104,7 +119,7 @@
                                                    <div class="jkit-menu-container">
                                                       <ul id="menu-menu-1" class="jkit-menu">
                                                           <li id="menu-item-2206" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2206"><a href="<?php echo base_url() ?>">Acceuil</a></li>
-                                                         <li id="menu-item-2206" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2206"><a href="about-us/index.html">A propos</a></li>
+                                                       
                                                          
                                                                                                                 
                                                          <li id="menu-item-58" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-58">
@@ -116,8 +131,9 @@
                                                                <li id="menu-item-2213" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-2213"><a href="">Photographe</a></li>
                                                             </ul>
                                                          </li>
-                                                         <li id="menu-item-2206" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2206"><a href="about-us/index.html">Nos Packs</a></li>
-                                                         <li id="menu-item-2206" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2206"><a href="about-us/index.html">Simulateurs</a></li>
+                                                         <li id="menu-item-2206" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2206"><a href="">Nos Packs</a></li>
+                                                         <li id="menu-item-2206" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2206"><a href="">Simulateurs</a></li>
+                                                         <li id="menu-item-2206" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2206"><a href="<?php echo base_url() ?>Contact">Contact</a></li>
                                                       </ul>
                                                    </div>
                                                    <div class="jkit-nav-identity-panel">

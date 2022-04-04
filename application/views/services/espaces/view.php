@@ -42,7 +42,7 @@
                               <h2 class="heading-title">capturé avec amour</h2>
                            </div>
                            <div class="heading-section-description">
-                              <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam</p>
+                              <p><?php echo $salle->description ?></p>
                            </div>
                         </div>
                      </div>
@@ -56,26 +56,17 @@
                                     <div  class="jeg-elementor-kit jkit-gallery layout-overlay jeg_module_1637_15_6240513ed09b8"  data-grid="masonry" data-id="jeg_module_1637_15_6240513ed09b8" data-per-page="6" data-load-more="0" data-current-loaded="6" data-count-items="6" data-animation-duration="500" data-no-more="No More Item" >
                                     <div class="gallery-items">
                                        
-                                        <?php
-                                             $dir = "./assets/img/salle/gallery/elila/";
-                                             $dir1 = base_url()."/assets/img/salle/gallery/elila/";
-                                            
-                                             chdir($dir);
-                                             array_multisort(array_map('filemtime', ($files = glob("*.{jpg,png,gif}", GLOB_BRACE))), SORT_DESC, $files);
-                                             foreach($files as $filename)
-                                             { echo $filename ; ?>
-
-                                            
-                                          <?php } 
-                                          ?>
-
-
-                                      
-                                        <div class="gallery-item-wrap ">
-                                                <div class="grid-item">
+                                          <?php 
+                                         $mydir = './assets/img/salle/gallery/'.$salle->acro.'/'; 
+                                         
+                                         $myfiles = array_diff(scandir($mydir), array('.', '..')); 
+                                       
+                                             foreach ($myfiles as $myfile) { ?> 
+                                                 <div class="gallery-item-wrap ">
+                                                 <div class="grid-item">
                                                    <div class="thumbnail-wrap">
-                                                      <img src="<?php echo base_url() ?>assets/img/salle/gallery/elila/IMG_4028.JPG" ></div>
-                                                   <a href="<?php echo base_url() ?>assets/img/salle/gallery/elila/IMG_4028.JPG" class="gallery-link"data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="jkit_gallery_lightbox_jeg_module_1637_15_6240513ed09b8" >
+                                                      <img src="<?php echo base_url() ?>assets/img/salle/gallery/<?php echo $salle->acro ?>/<?php echo $myfile ?>" ></div>
+                                                   <a href="<?php echo base_url() ?>assets/img/salle/gallery/<?php echo $salle->acro ?>/<?php echo $myfile ?>" class="gallery-link"data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="jkit_gallery_lightbox_jeg_module_1637_15_6240513ed09b8" >
                                                       <div class="caption-wrap style-overlay overlay-fade">
                                                          <div class="item-hover-bg"></div>
                                                          <div class="item-caption-over">
@@ -88,6 +79,13 @@
                                                    </a>
                                                 </div>
                                              </div>
+                                            
+                                       <?php   }
+                                         
+                                       ?> 
+
+                                      
+                                   
                                           
                                      
                                        

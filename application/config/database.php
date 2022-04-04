@@ -75,12 +75,10 @@ $query_builder = TRUE;
 
 $db['default'] = array(
 	'dsn'	=> '',
-	'hostname' => '127.0.0.1',
-	'username' => 'root',
-	'password' => '',
-
+	'hostname' => '41.226.29.187:3306',
+	'username' => 'queenbd',
+	'password' => '4l5rO7$j',
 	'database' => 'queenbd',
-
 	'dbdriver' => 'mysqli',
 	'dbprefix' => '',
 	'pconnect' => FALSE,

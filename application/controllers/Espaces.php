@@ -19,7 +19,7 @@ class Espaces extends BaseController
         parent::__construct();
   
       $this->load->model('salle_model');
-      
+      $this->load->model('reservation_model');
         $this->isLoggedIn();   
     }
     
@@ -48,8 +48,8 @@ class Espaces extends BaseController
     {
 
        
-                     
-         $data['salle'] = $this->salle_model->salle($salleID) ;
+        $data["projects"] = $this->reservation_model->ReservationAll() ;            
+        $data['salle'] = $this->salle_model->salle($salleID) ;
         $this->global['pageTitle'] = 'Espace '.$data['salle']->nom ;
         $this->loadViews("services/espaces/view", $this->global,  $data , NULL);
        

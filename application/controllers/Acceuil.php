@@ -19,6 +19,7 @@ class Acceuil extends BaseController
         parent::__construct();
             
         $this->load->model('reservation_model');
+        $this->load->model('user_model');
         $this->isLoggedIn();   
     }
     
@@ -33,7 +34,7 @@ class Acceuil extends BaseController
     {
 
        
-                     
+        $data["clients"] = $this->user_model->users(4) ;              
         $data["projects"] = $this->reservation_model->ReservationAll() ; 
         $this->global['pageTitle'] = 'Home';
         $this->loadViews("acceuil", $this->global,  $data , NULL);
