@@ -1,821 +1,886 @@
-<div data-elementor-type="wp-page" data-elementor-id="7" class="elementor elementor-7" data-elementor-settings="[]">
-   <div class="elementor-section-wrap">
-      <section class="elementor-section elementor-top-section elementor-element elementor-element-9aad51b elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="9aad51b" data-element_type="section" 
-      data-settings="{&quot;background_background&quot;:&quot;slideshow&quot;,&quot;background_slideshow_gallery&quot;:
-      [{&quot;id&quot;:85,&quot;url&quot;:&quot;<?php echo base_url() ?>assets/img/1.jpg&quot;}
-      ,{&quot;id&quot;:32,&quot;url&quot;:&quot;<?php echo base_url() ?>assets/img/2.jpg&quot;}
-      ,{&quot;id&quot;:1402,&quot;url&quot;:&quot;<?php echo base_url() ?>assets/img/3.jpg&quot;}
-      ,{&quot;id&quot;:3689,&quot;url&quot;:&quot;<?php echo base_url() ?>assets/img/4.jpg&quot;}]
-      ,&quot;background_slideshow_ken_burns&quot;:&quot;yes&quot;,&quot;background_slideshow_loop&quot;:&quot;yes&quot;,&quot;background_slideshow_slide_duration&quot;:5000,&quot;background_slideshow_slide_transition&quot;:&quot;fade&quot;,&quot;background_slideshow_transition_duration&quot;:500,&quot;background_slideshow_ken_burns_zoom_direction&quot;:&quot;in&quot;}">
-         <div class="elementor-background-overlay"></div>
-         <div class="elementor-container elementor-column-gap-default">
-            <div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-8e82adf" data-id="8e82adf" data-element_type="column">
-               <div class="elementor-widget-wrap elementor-element-populated">
-                  <div class="elementor-element elementor-element-9ca3272 elementor-invisible elementor-widget elementor-widget-jkit_animated_text" data-id="9ca3272" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;fadeInLeft&quot;}" data-widget_type="jkit_animated_text.default">
-                     <div class="elementor-widget-container">
-                        <div  class="jeg-elementor-kit jkit-animated-text jeg_module_7_3_6240504cc1eba"  data-style="rotating" data-text="Birthday,Weddings,Events,Festival" data-rotate="bounce" data-delay="2500">
-                           <p class="animated-text"><span class="normal-text style-color">Célébrons votre </span><span class="dynamic-wrapper style-gradient"><span class="dynamic-text">Mariages</span><span class="dynamic-text">Events</span><span class="dynamic-text">Congrets</span></span></p>
-                        </div>
-                     </div>
-                  </div>
-                  <div class="elementor-element elementor-element-5036ac2 elementor-invisible elementor-widget elementor-widget-text-editor" data-id="5036ac2" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;fadeInRight&quot;}" data-widget_type="text-editor.default">
-                     <div class="elementor-widget-container">
-                        <p></p>
-                     </div>
-                  </div>
-                  <div class="elementor-element elementor-element-c5865a1 elementor-widget__width-auto elementor-widget-mobile__width-inherit elementor-invisible elementor-widget elementor-widget-jkit_button" data-id="c5865a1" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;fadeInLeft&quot;}" data-widget_type="jkit_button.default">
-                     <div class="elementor-widget-container">
-                        <div  class="jeg-elementor-kit jkit-button  icon-position-before jeg_module_7_4_6240504cc3148" ><a href="#"  class="jkit-button-wrapper">PLUS D'INFORMATION</a></div>
-                     </div>
-                  </div>
-                  <div class="elementor-element elementor-element-b8689c8 elementor-widget__width-auto elementor-widget-mobile__width-auto elementor-invisible elementor-widget elementor-widget-jkit_video_button" data-id="b8689c8" data-element_type="widget" data-settings="{&quot;_animation_delay&quot;:&quot;200&quot;,&quot;_animation&quot;:&quot;fadeInUp&quot;}" data-widget_type="jkit_video_button.default">
-                     <div class="elementor-widget-container">
-                        <div  class="jeg-elementor-kit jkit-video-button jeg_module_7_5_6240504cc4737"  data-autoplay="0" data-loop="0" data-controls="0" data-type="youtube" data-start="0" data-end="0">
-                           <a href="https://www.youtube.com/watch?v=CtADS0VwtX0"  class="jkit-video-popup-btn glow-enable">
-                              <span class="icon-position-before">
-                                 <i aria-hidden="true" class="fas fa-play"></i>
-                              </span></a>
-                        </div>
-                     </div>
-                  </div>
-                  <div class="elementor-element elementor-element-e45c84f elementor-widget-mobile__width-auto elementor-widget__width-auto elementor-invisible elementor-widget elementor-widget-heading" data-id="e45c84f" data-element_type="widget" data-settings="{&quot;_animation_delay&quot;:&quot;200&quot;,&quot;_animation&quot;:&quot;fadeInRight&quot;}" data-widget_type="heading.default">
-                     <div class="elementor-widget-container">
-                        <h2 class="elementor-heading-title elementor-size-default"><a href="#">REGARDEZ L'INTRO</a></h2>
-                     </div>
-                  </div>
-               </div>
-            </div>
-            <div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-27b86c6 elementor-hidden-tablet" data-id="27b86c6" data-element_type="column">
-               <div class="elementor-widget-wrap">
-               </div>
-            </div>
-         </div>
-      </section>
-      <section class="elementor-section elementor-top-section elementor-element elementor-element-deef05d elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="deef05d" data-element_type="section">
-         <div class="elementor-container elementor-column-gap-default">
-            <div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-934235c" data-id="934235c" data-element_type="column">
-               <div class="elementor-widget-wrap elementor-element-populated">
-                  <section class="elementor-section elementor-inner-section elementor-element elementor-element-b3d275b elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="b3d275b" data-element_type="section">
-                     <div class="elementor-container elementor-column-gap-no">
-                        <div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-be90be4 elementor-invisible" data-id="be90be4" data-element_type="column" data-settings="{&quot;animation&quot;:&quot;fadeInLeft&quot;}">
-                           <div class="elementor-widget-wrap elementor-element-populated">
-                              <div class="elementor-element elementor-element-afd0234 jkit-equal-height-disable elementor-invisible elementor-widget elementor-widget-jkit_icon_box" data-id="afd0234" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;fadeInLeft&quot;}" data-widget_type="jkit_icon_box.default">
-                                 <div class="elementor-widget-container">
-                                    <div  class="jeg-elementor-kit jkit-icon-box icon-position-left elementor-animation-shrink jeg_module_7_6_6240504cc9600" >
-                                       <div class="jkit-icon-box-wrapper hover-from-left">
-                                          <div class="icon-box icon-box-header elementor-animation-grow">
-                                             <div class="icon style-color"><img src="<?php echo base_url() ?>assets/wp-content/uploads/sites/146/2021/08/wedding-ring-3-150x150.png"  alt="Wedding Party"></div>
-                                          </div>
-                                          <div class="icon-box icon-box-body">
-                                             <h2 class="title">Mariage</h2>
-                                             <p class="icon-box-description">En Tunisie, il est possible de faire confiance à un professionnel ! <br>Nous organis de votre mariage, c’est tout simplement la certitude de réaliser une fête de mariage inoubliable. </p>
-                                          </div>
-                                       </div>
-                                    </div>
-                                 </div>
-                              </div>
-                           </div>
-                        </div>
-                        <div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-ca06dfb elementor-invisible" data-id="ca06dfb" data-element_type="column" data-settings="{&quot;animation&quot;:&quot;fadeInUp&quot;}">
-                           <div class="elementor-widget-wrap elementor-element-populated">
-                              <div class="elementor-element elementor-element-c65bbb4 jkit-equal-height-disable elementor-invisible elementor-widget elementor-widget-jkit_icon_box" data-id="c65bbb4" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;fadeInUp&quot;}" data-widget_type="jkit_icon_box.default">
-                                 <div class="elementor-widget-container">
-                                    <div  class="jeg-elementor-kit jkit-icon-box icon-position-left elementor-animation-shrink jeg_module_7_7_6240504ccb1da" >
-                                       <div class="jkit-icon-box-wrapper hover-from-left">
-                                          <div class="icon-box icon-box-header elementor-animation-grow">
-                                             <div class="icon style-color"><img src="<?php echo base_url() ?>assets/wp-content/uploads/sites/146/2021/08/010-cake-150x150.png"  alt="Birthday Party"></div>
-                                          </div>
-                                          <div class="icon-box icon-box-body">
-                                             <h2 class="title">Voitrues de lux</h2>
-                                             <p class="icon-box-description">Choisissez le modèle de voitures que vous souhaitez, une Traction antique, une limousine, et laissez nous vous rendre votre transport, un moment inoubliable. </p>
-                                          </div>
-                                       </div>
-                                    </div>
-                                 </div>
-                              </div>
-                           </div>
-                        </div>
-                        <div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-b38a117 elementor-invisible" data-id="b38a117" data-element_type="column" data-settings="{&quot;animation&quot;:&quot;fadeInRight&quot;}">
-                           <div class="elementor-widget-wrap elementor-element-populated">
-                              <div class="elementor-element elementor-element-f19feb0 jkit-equal-height-disable elementor-invisible elementor-widget elementor-widget-jkit_icon_box" data-id="f19feb0" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;fadeInUp&quot;}" data-widget_type="jkit_icon_box.default">
-                                 <div class="elementor-widget-container">
-                                    <div  class="jeg-elementor-kit jkit-icon-box icon-position-left elementor-animation-shrink jeg_module_7_8_6240504cccb26" >
-                                       <div class="jkit-icon-box-wrapper hover-from-left">
-                                          <div class="icon-box icon-box-header elementor-animation-grow">
-                                             <div class="icon style-color"><img src="<?php echo base_url() ?>assets/wp-content/uploads/sites/146/2021/08/004-champagne-150x150.png"  alt="Party &amp; Events"></div>
-                                          </div>
-                                          <div class="icon-box icon-box-body">
-                                             <h2 class="title">Prestations</h2>
-                                             <p class="icon-box-description">Toutes les idées nécessaires pour organiser un mariage unique, à votre style : reportages photos et vidéo, troupe musical professionnelle avec un catalogue des artistes.</p>
-                                          </div>
-                                       </div>
-                                    </div>
-                                 </div>
-                              </div>
-                           </div>
-                        </div>
-                     </div>
-                  </section>
-               </div>
-            </div>
-         </div>
-      </section>
-      <section class="elementor-section elementor-top-section elementor-element elementor-element-fcb1cc3 elementor-reverse-tablet elementor-reverse-mobile elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="fcb1cc3" data-element_type="section">
-         <div class="elementor-container elementor-column-gap-no">
-            <div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-a0860d2" data-id="a0860d2" data-element_type="column">
-               <div class="elementor-widget-wrap elementor-element-populated">
-                  <div class="elementor-element elementor-element-be9b1f6 elementor-absolute animated-slow elementor-widget-tablet__width-auto elementor-widget__width-initial elementor-invisible elementor-widget elementor-widget-image" data-id="be9b1f6" data-element_type="widget" data-settings="{&quot;_position&quot;:&quot;absolute&quot;,&quot;_animation&quot;:&quot;fadeInRight&quot;}" data-widget_type="image.default">
-                     <div class="elementor-widget-container">
-                        <img src="<?php echo base_url() ?>assets/img/por/0.jpg" title="People partying" alt="People partying" />                                             
-                     </div>
-                  </div>
-                  <div class="elementor-element elementor-element-3426a85 animated-slow elementor-widget__width-initial elementor-invisible elementor-widget elementor-widget-image" data-id="3426a85" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;fadeInLeft&quot;}" data-widget_type="image.default">
-                     <div class="elementor-widget-container">
-                        <img src="<?php echo base_url() ?>assets/img/por/0.jpg" title="Business People Party Celebration Success Concept" alt="Business People Party Celebration Success Concept" />                                            
-                     </div>
-                  </div>
-               </div>
-            </div>
-            <div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-8ab159b" data-id="8ab159b" data-element_type="column">
-               <div class="elementor-widget-wrap elementor-element-populated">
-                  <div class="elementor-element elementor-element-508fe72 elementor-invisible elementor-widget elementor-widget-jkit_heading" data-id="508fe72" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;fadeInRight&quot;}" data-widget_type="jkit_heading.default">
-                     <div class="elementor-widget-container">
-                        <div  class="jeg-elementor-kit jkit-heading  align-left align-tablet-left align-mobile-left jeg_module_7_9_6240504cd63e4" >
-                           <h3 class="heading-section-subtitle  style-color">A propos Queen Park</h3>
-                           <div class="heading-section-title ">
-                              <h2 class="heading-title">Nous sommes le meilleur planificateur et organisateur d'événements</h2>
-                           </div>
-                           <div class="heading-section-description">
-                              <p>Queen Park est une agence événementielle spécialisée dans l’organisation des événements professionnels, nous proposons à nos clients la planification complète de A à Z ou à la carte, nous collaborons avec les meilleurs prestataires de services en Tunisie.</p>
-                           </div>
-                        </div>
-                     </div>
-                  </div>
-                  <section class="elementor-section elementor-inner-section elementor-element elementor-element-8e4959b elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-invisible" data-id="8e4959b" data-element_type="section" data-settings="{&quot;animation&quot;:&quot;fadeInLeft&quot;}">
-                     <div class="elementor-container elementor-column-gap-no">
-                        <div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-2b5a342" data-id="2b5a342" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
-                           <div class="elementor-widget-wrap elementor-element-populated">
-                              <div class="elementor-element elementor-element-1fe29f7 elementor-widget elementor-widget-jkit_fun_fact" data-id="1fe29f7" data-element_type="widget" data-widget_type="jkit_fun_fact.default">
-                                 <div class="elementor-widget-container">
-                                    <div  class="jeg-elementor-kit jkit-fun-fact align-center hover-from-left elementor-animation- jeg_module_7_10_6240504cd8686" >
-                                       <div class=fun-fact-inner>
-                                          <div class="icon elementor-animation-"><i aria-hidden="true" class="jki jki-medal"></i></div>
-                                          <div class="content">
-                                             <div class="number-wrapper">
-                                                <span class="number" data-value="5" data-animation-duration="3500">0</span>
-                                                <sup class="super">+</sup>
-                                             </div>
-                                             <h2 class="title">Years Of Experiences</h2>
-                                          </div>
-                                       </div>
-                                    </div>
-                                 </div>
-                              </div>
-                           </div>
-                        </div>
-                        <div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-36211a0" data-id="36211a0" data-element_type="column">
-                           <div class="elementor-widget-wrap elementor-element-populated">
-                              <div class="elementor-element elementor-element-60105e9 elementor-icon-list--layout-traditional elementor-list-item-link-full_width elementor-widget elementor-widget-icon-list" data-id="60105e9" data-element_type="widget" data-widget_type="icon-list.default">
-                                 <div class="elementor-widget-container">
-                                    <ul class="elementor-icon-list-items">
-                                       <li class="elementor-icon-list-item">
-                                          <span class="elementor-icon-list-icon">
-                                          <i aria-hidden="true" class="fas fa-check-circle"></i>                  </span>
-                                          <span class="elementor-icon-list-text">Meilleurs services de qualité</span>
-                                       </li>
-                                       <li class="elementor-icon-list-item">
-                                          <span class="elementor-icon-list-icon">
-                                          <i aria-hidden="true" class="fas fa-check-circle"></i>                  </span>
-                                          <span class="elementor-icon-list-text">Garantie de satisfaction à 100 %</span>
-                                       </li>
-                                       <li class="elementor-icon-list-item">
-                                          <span class="elementor-icon-list-icon">
-                                          <i aria-hidden="true" class="fas fa-check-circle"></i>                  </span>
-                                          <span class="elementor-icon-list-text">Système de contrôle de la qualité</span>
-                                       </li>
-                                       <li class="elementor-icon-list-item">
-                                          <span class="elementor-icon-list-icon">
-                                          <i aria-hidden="true" class="fas fa-check-circle"></i>                  </span>
-                                          <span class="elementor-icon-list-text">Engagement envers les clients</span>
-                                       </li>
-                                       <li class="elementor-icon-list-item">
-                                          <span class="elementor-icon-list-icon">
-                                          <i aria-hidden="true" class="fas fa-check-circle"></i>                  </span>
-                                          <span class="elementor-icon-list-text">Équipe hautement professionnelle</span>
-                                       </li>
-                                    </ul>
-                                 </div>
-                              </div>
-                           </div>
-                        </div>
-                     </div>
-                  </section>
-                  <div class="elementor-element elementor-element-50c6338 elementor-invisible elementor-widget elementor-widget-jkit_button" data-id="50c6338" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;fadeInRight&quot;}" data-widget_type="jkit_button.default">
-                     <div class="elementor-widget-container">
-                        <div  class="jeg-elementor-kit jkit-button  icon-position-before jeg_module_7_11_6240504cda378" ><a href="#"  class="jkit-button-wrapper">À PROPOS</a></div>
-                     </div>
-                  </div>
-               </div>
-            </div>
-         </div>
-      </section>
-      <section class="elementor-section elementor-top-section elementor-element elementor-element-0eb5c0a elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="0eb5c0a" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
-         <div class="elementor-background-overlay"></div>
-         <div class="elementor-container elementor-column-gap-default">
-            <div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-8601777" data-id="8601777" data-element_type="column">
-               <div class="elementor-widget-wrap elementor-element-populated">
+           <div id="rev_slider_4_1_wrapper" class="rev_slider_wrapper fullwidthbanner-container slide-overlay" data-alias="classic4export" data-source="gallery">
+                <!-- START REVOLUTION SLIDER 5.3.0.2 auto mode -->
+                <div id="rev_slider_4_1" class="rev_slider fullwidthabanner" data-version="5.3.0.2">
+                    <div class="slotholder"></div>
+                        <ul>
+                            <li data-index="rs-1" data-transition="boxslide" data-slotamount="default" data-hideafterloop="0" data-hideslideonmobile="off" data-easein="default" data-easeout="default" data-masterspeed="default" data-thumb="" data-delay="10010" data-rotate="0" data-saveperformance="off" data-title="Let’s Have a Party!" data-param1="" data-param2="" data-param3="" data-param4="" data-param5="" data-param6="" data-param7="" data-param8="" data-param9="" data-param10="" data-description="">
 
-                  <section class="elementor-section elementor-inner-section elementor-element elementor-element-9308063 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="9308063" data-element_type="section">
-                     <div class="elementor-container elementor-column-gap-no">
-                        <div class="elementor-column elementor-col-100 elementor-inner-column elementor-element elementor-element-8173572 elementor-invisible" data-id="8173572" data-element_type="column" data-settings="{&quot;animation&quot;:&quot;fadeInUp&quot;}">
-                           <div class="elementor-widget-wrap elementor-element-populated">
-                              <div class="elementor-element elementor-element-af475f4 elementor-invisible elementor-widget elementor-widget-jkit_heading" data-id="af475f4" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;fadeInRight&quot;}" data-widget_type="jkit_heading.default">
-                                 <div class="elementor-widget-container">
-                                    <div  class="jeg-elementor-kit jkit-heading  align-center align-tablet-left align-mobile-left jeg_module_7_12_6240504cdb639" >
-                                       <h3 class="heading-section-subtitle  style-color">Nos Services</h3>
-                                       <div class="heading-section-title ">
-                                          <h2 class="heading-title">Nous fournissons le meilleur service pour votre événement</h2>
-                                       </div>
-                                       <div class="heading-section-description">
-                                          <p>En tant qu'organisateur de mariage prestige, nous vous proposons un service à la carte à la hauteur</p>
-                                       </div>
-                                    </div>
-                                 </div>
-                              </div>
-                           </div>
+                                <img src="<?php echo base_url() ?>assets/images/slides/slider-mainbg-004.jpg" alt="" title="slider-mainbg-003" width="1920" height="915" data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" class="rev-slidebg" data-no-retina>
+
+                               <div class="tp-caption tp-resizeme head-font" id="slide-1-layer-1" data-x="['center','center','center','center']" data-hoffset="['0','0','0','0']" data-y="['middle','middle','middle','middle']" data-voffset="['-126','-177','-156','-99']"
+
+                                data-fontsize="['36','36','36','25']"
+                                data-lineheight="['45','45','35','35']"
+                                data-fontweight="['400','400','400','400']"
+                                data-color="['#fff','#fff','#fff','#fff']"
+                                data-width="none"
+                                data-height="none"
+                                data-whitespace="nowrap"
+                                data-type="text"
+                                data-responsive_offset="on"
+                                data-frames='[{"delay":210,"speed":1500,"frame":"0","from":"y:[100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:0;","to":"o:1;","ease":"Power4.easeInOut"},{"delay":"wait","speed":300,"frame":"999","to":"opacity:0;","ease":"Power3.easeInOut"}]'
+                                data-textAlign="['inherit','inherit','inherit','inherit']"
+                                data-paddingtop="[0,0,0,0]"
+                                data-paddingright="[0,0,0,0]"
+                                data-paddingbottom="[0,0,0,0]"
+                                data-paddingleft="[0,0,0,0]"
+                                >Vos cadeaux de célébration</div>
+                                
+                                <div class="tp-caption tp-resizeme highlight-skin-button" id="slide-1-layer-2" data-x="['center','center','center','center']" data-hoffset="['0','0','0','0']" data-y="['middle','middle','middle','middle']" data-voffset="['-70','-121','-105','-52']"  
+
+                                data-fontsize="['20','18','20','14']"
+                                data-lineheight="['22','20','22','20']"
+                                data-fontweight="['300','300','300','300']"
+                                data-width="none"
+                                data-height="none"
+                                data-whitespace="nowrap"
+                                data-type="text"
+                                data-responsive_offset="on"
+                                data-frames='[{"delay":930,"speed":900,"frame":"0","from":"z:0;rX:0;rY:0;rZ:0;sX:0.9;sY:0.9;skX:0;skY:0;opacity:0;","to":"o:1;","ease":"Power3.easeInOut"},{"delay":"wait","speed":300,"frame":"999","to":"opacity:0;","ease":"Power3.easeInOut"}]'
+                                data-textAlign="['inherit','inherit','inherit','inherit']"
+                                data-paddingtop="[6,6,6,5]"
+                                data-paddingright="[18,18,18,18]"
+                                data-paddingbottom="[6,6,6,5]"
+                                data-paddingleft="[18,18,18,18]"
+                                >December 03rd 2018</div>
+                                
+                                <div class="tp-caption tp-resizeme tp-shapewrapper" id="slide-1-layer-3" data-x="['center','center','center','center']" data-hoffset="['269','269','201','134']" data-y="['middle','middle','middle','middle']" data-voffset="['52','6','-7','29']"
+
+                                data-width="['311','311','236','154']"
+                                data-height="['23','23','24','17']"
+                                data-whitespace="nowrap"
+                                data-type="shape"
+                                data-responsive_offset="on"
+                                data-frames='[{"delay":1980,"speed":1000,"frame":"0","from":"y:[100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:0;","to":"o:1;","ease":"Power4.easeInOut"},{"delay":"wait","speed":300,"frame":"999","to":"opacity:0;","ease":"Power3.easeInOut"}]'
+                                data-textAlign="['inherit','inherit','inherit','inherit']"
+                                data-paddingtop="[0,0,0,0]"
+                                data-paddingright="[0,0,0,0]"
+                                data-paddingbottom="[0,0,0,0]"
+                                data-paddingleft="[0,0,0,0]"
+                                ></div>
+
+                                <div class="tp-caption tp-resizeme heading-slide" id="slide-1-layer-4" data-x="['center','center','center','center']" data-hoffset="['0','0','0','0']" data-y="['middle','middle','middle','middle']" data-voffset="['23','-21','-27','15']"
+
+                                data-fontsize="['85','85','62','42']"
+                                data-lineheight="['110','110','110','110']"
+                                data-fontweight="['600','600','600','600']"
+                                data-color="['#fff','#fff','#fff','#fff']"
+                                data-width="none"
+                                data-height="none"
+                                data-whitespace="nowrap"
+                                data-type="text"
+                                data-responsive_offset="on"
+                                data-frames='[{"delay":880,"split":"chars","splitdelay":0.05,"speed":1500,"split_direction":"forward","frame":"0","from":"y:[100%];z:0;rZ:-35deg;sX:1;sY:1;skX:0;skY:0;","mask":"x:0px;y:0px;s:inherit;e:inherit;","to":"o:1;","ease":"Power4.easeInOut"},{"delay":"wait","speed":300,"frame":"999","to":"opacity:0;","ease":"Power3.easeInOut"}]'
+                                data-textAlign="['inherit','inherit','inherit','inherit']"
+                                data-paddingtop="[0,0,0,0]"
+                                data-paddingright="[0,0,0,0]"
+                                data-paddingbottom="[0,0,0,0]"
+                                data-paddingleft="[0,0,0,0]"
+                                >FAISONS UNE FÊTE!</div>
+
+                                <div class="tp-caption tp-resizeme" id="slide-1-layer-5" data-x="['center','center','center','center']" data-hoffset="['0','0','0','0']" data-y="['middle','middle','middle','middle']" data-voffset="['109','82','53','53']"
+
+                                data-fontsize="['16','16','16','14']"
+                                data-lineheight="['26','26','26','24']"
+                                data-fontweight="['300','300','300','300']"
+                                data-color="['#e0e0e0','#e0e0e0','#e0e0e0','#e0e0e0']"
+                                data-width="none"
+                                data-height="none"
+                                data-whitespace="nowrap"
+                                data-visibility="['on','on','on','off']"
+                                data-type="text"
+                                data-responsive_offset="on"
+                                data-frames='[{"delay":2010,"speed":1500,"frame":"0","from":"y:[100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:0;","to":"o:1;","ease":"Power4.easeInOut"},{"delay":"wait","speed":300,"frame":"999","to":"opacity:0;","ease":"Power3.easeInOut"}]'
+                                data-textAlign="['center','center','center','center']"
+                                data-paddingtop="[0,0,0,0]"
+                                data-paddingright="[0,0,0,0]"
+                                data-paddingbottom="[0,0,0,0]"
+                                data-paddingleft="[0,0,0,0]"
+                                >Planifier un mariage, une demande en mariage, une entreprise ou un événement <br>dans notre ville animée n'est pas si simple, et il faut des compétences (et du temps) pour que tout cela paraisse facile.</div>
+
+                                <a class="tp-caption tp-resizeme highlight-skin-button" href="#" target="_self" id="slide-1-layer-6" data-x="['center','center','center','center']" data-hoffset="['-97','-97','-97','-97']" data-y="['middle','middle','middle','middle']" data-voffset="['203','182','127','85']"
+
+                                data-fontsize="['14','14','14','14']"
+                                data-lineheight="['14','14','14','14']"
+                                data-fontweight="['600','600','600','600']"
+                                data-width="none"
+                                data-height="none"
+                                data-whitespace="nowrap"
+                                data-type="text"
+                                data-actions=''
+                                data-responsive_offset="on"
+                                data-frames='[{"delay":2260,"speed":1500,"frame":"0","from":"y:[100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:0;","to":"o:1;","ease":"Power4.easeInOut"},{"delay":"wait","speed":300,"frame":"999","to":"opacity:0;","ease":"Power3.easeInOut"}]'
+                                data-textAlign="['inherit','inherit','inherit','inherit']"
+                                data-paddingtop="[15,15,15,10]"
+                                data-paddingright="[30,30,30,25]"
+                                data-paddingbottom="[15,15,15,10]"
+                                data-paddingleft="[30,30,30,25]"
+                                >Demande en ligne </a>
+
+                                <a class="tp-caption tp-resizeme classic-border-button" href="#" target="_self" id="slide-1-layer-7" data-x="['center','center','center','center']" data-hoffset="['98','98','98','98']" data-y="['middle','middle','middle','middle']" data-voffset="['203','182','128','85']"
+
+                                data-fontsize="['14','14','14','14']"
+                                data-lineheight="['14','14','14','14']"
+                                data-fontweight="['600','600','600','600']"
+                                data-width="none"
+                                data-height="none"
+                                data-whitespace="nowrap"
+                                data-type="text"
+                                data-actions=''
+                                data-responsive_offset="on"
+                                data-frames='[{"delay":2260,"speed":1500,"frame":"0","from":"y:[100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:0;","to":"o:1;","ease":"Power4.easeInOut"},{"delay":"wait","speed":300,"frame":"999","to":"opacity:0;","ease":"Power3.easeInOut"}]'
+                                data-textAlign="['inherit','inherit','inherit','inherit']"
+                                data-paddingtop="[15,15,15,10]"
+                                data-paddingright="[30,30,30,25]"
+                                data-paddingbottom="[15,15,15,10]"
+                                data-paddingleft="[30,30,30,25]"
+                                >Plus de galerie <span><i class="ti ti-angle-right"></i></span></a>
+                            </li>
+                            
+                            <li data-index="rs-2" data-transition="slotslide-vertical,fade" data-slotamount="default,default" data-hideafterloop="0" data-hideslideonmobile="off" data-easein="default,default" data-easeout="default,default" data-masterspeed="default,300" data-thumb="" data-delay="10010" data-rotate="0,0" data-saveperformance="off" data-title="We Plan the Best Events" data-param1="" data-param2="" data-param3="" data-param4="" data-param5="" data-param6="" data-param7="" data-param8="" data-param9="" data-param10="" data-description="">
+                                <img src="<?php echo base_url() ?>assets/images/slides/slider-mainbg-003.jpg" alt="" title="slider-mainbg-003" width="1920" height="915" data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" class="rev-slidebg" data-no-retina>
+                                
+                                <div class="tp-caption" id="slide-2-layer-1" data-x="['left','left','left','center']" data-hoffset="['50','50','50','-290']" data-y="['top','top','top','middle']" data-voffset="['336','228','80','-120']"
+
+                                data-lineheight="['110','90','120','74']"
+                                data-fontweight="[400,400,400,400]"
+                                data-fontsize="['110','90','75','75']"
+                                data-width="none"
+                                data-height="none"
+                                data-whitespace="nowrap"
+                                data-visibility="['on','on','on','off']"
+                                data-type="text"
+                                data-responsive_offset="on"
+                                data-frames='[{"delay":190,"speed":850,"frame":"0","from":"x:{-250,250};y:{-150,150};rX:{-90,90};rY:{-90,90};rZ:{-360,360};sX:0;sY:0;opacity:0;","to":"o:1;","ease":"Power2.easeOut"},{"delay":"wait","speed":300,"frame":"999","to":"opacity:0;","ease":"Power3.easeInOut"}]'
+                                data-textAlign="['inherit','inherit','inherit','inherit']"
+                                data-paddingtop="[0,0,0,0]"
+                                data-paddingright="[0,0,0,0]"
+                                data-paddingbottom="[0,0,0,0]"
+                                data-paddingleft="[0,0,0,0]"
+                                ><strong class="ttm-textcolor-skincolor"><i class="ti ti-gift"></i></strong>
+                                </div>
+
+                                <div class="tp-caption tp-resizeme" id="slide-2-layer-2" data-x="['left','left','left','center']" data-hoffset="['187','177','143','-1']" data-y="['top','top','top','middle']" data-voffset="['354','237','95','-101']"
+
+                                data-fontsize="['105','105','70','55']"
+                                data-lineheight="['110','110','100','70']"
+                                data-fontweight="[600,600,600,600]"
+                                data-color="['#fff','#fff','#fff','#fff']"
+                                data-width="none"
+                                data-height="none"
+                                data-whitespace="nowrap"
+                                data-type="text"
+                                data-responsive_offset="on"
+                                data-frames='[{"delay":380,"speed":1500,"frame":"0","from":"x:[-100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;","mask":"x:0px;y:0px;s:inherit;e:inherit;","to":"o:1;","ease":"Power3.easeInOut"},{"delay":"wait","speed":300,"frame":"999","to":"opacity:0;","ease":"Power3.easeInOut"}]'
+                                data-textAlign="['inherit','inherit','inherit','inherit']"
+                                data-paddingtop="[0,0,0,0]"
+                                data-paddingright="[0,0,0,0]"
+                                data-paddingbottom="[0,0,0,0]"
+                                data-paddingleft="[0,0,0,0]"
+                                >Nous planifions les</div>
+
+                                <div class="tp-caption tp-resizeme" id="slide-2-layer-3" data-x="['left','left','left','center']" data-hoffset="['50','50','50','0']" data-y="['top','top','top','middle']" data-voffset="['463','330','168','-40']" 
+                                
+
+                                data-fontweight="[600,600,600,600]"
+                                data-fontsize="['105','105','70','55']"
+                                data-lineheight="['110','110','100','70']"
+                                data-color="['#fff','#fff','#fff','#fff']"
+                                data-width="none"
+                                data-height="none"
+                                data-whitespace="nowrap"
+                                data-type="text"
+                                data-responsive_offset="on"
+                                data-frames='[{"delay":960,"speed":1500,"frame":"0","from":"x:[-100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;","mask":"x:0px;y:0px;s:inherit;e:inherit;","to":"o:1;","ease":"Power3.easeInOut"},{"delay":"wait","speed":300,"frame":"999","to":"opacity:0;","ease":"Power3.easeInOut"}]'
+                                data-textAlign="['inherit','inherit','inherit','inherit']"
+                                data-paddingtop="[0,0,0,0]"
+                                data-paddingright="[0,0,0,0]"
+                                data-paddingbottom="[0,0,0,0]"
+                                data-paddingleft="[0,0,0,0]"
+                                >Meilleurs<strong class="ttm-textcolor-skincolor"> Evénements</strong>
+                                </div>
+
+                                ><div class="tp-caption tp-resizeme" id="slide-2-layer-4" data-x="['right','right','right','center']" data-hoffset="['49','49','50','330']" data-y="['middle','middle','middle','middle']" data-voffset="['80','20','26','-104']"
+                                
+                                data-width="['97','80','65','40']"
+                                data-height="['97','80','65','40']"
+                                data-lineheight="['97','80','65','40']"
+                                data-whitespace="nowrap"
+                                data-visibility="['on','on','off','off']"
+                                data-type="shape"
+                                data-responsive_offset="on"
+                                data-frames='[{"delay":1320,"speed":800,"frame":"0","from":"z:0;rX:0;rY:0;rZ:0;sX:0.9;sY:0.9;skX:0;skY:0;opacity:0;","to":"o:1;","ease":"Power3.easeInOut"},{"delay":"wait","speed":300,"frame":"999","to":"opacity:0;","ease":"Power3.easeInOut"},{"frame":"hover","speed":"300","ease":"Linear.easeNone","to":"o:1;rX:0;rY:0;rZ:0;z:0;","style":"c:rgb(255,255,255);bg:rgba(255,61,85,0);bc:transparent;bw:0px 0 0 0;br:50px 50px 50px 50px;"}]'
+                                data-textAlign="['inherit','inherit','inherit','inherit']"
+                                data-paddingtop="[0,0,0,0]"
+                                data-paddingright="[0,0,0,0]"
+                                data-paddingbottom="[0,0,0,0]"
+                                data-paddingleft="[0,0,0,0]"
+                                ></div>
+
+                                <a class="tp-caption tp-resizeme vedio-icon" href="https://youtu.be/HkyVTxH2fIM" target="_self" id="slide-2-layer-5" data-x="['right','right','right','center']" data-hoffset="['49','49','50','326']" data-y="['middle','middle','middle','middle']" data-voffset="['80','20','26','-106']"
+
+                                data-fontsize="['43','43','43','43']"
+                                data-lineheight="['97','97','97','97']"
+                                data-width="['90','90','65','50']"
+                                data-height="['90','90','65','50']"
+                                data-whitespace="nowrap"
+                                data-visibility="['on','on','off','off']"
+                                data-type="text"
+                                data-actions=''
+                                data-responsive_offset="on"
+                                data-frames='[{"delay":1450,"speed":800,"frame":"0","from":"z:0;rX:0;rY:0;rZ:0;sX:0.9;sY:0.9;skX:0;skY:0;opacity:0;","to":"o:1;","ease":"Power3.easeInOut"},{"delay":"wait","speed":300,"frame":"999","to":"opacity:0;","ease":"Power3.easeInOut"}]'
+                                data-textAlign="['center','center','center','center']"
+                                data-paddingtop="[0,0,0,0]"
+                                data-paddingright="[0,0,0,0]"
+                                data-paddingbottom="[0,0,0,0]"
+                                data-paddingleft="[0,0,0,0]"
+                                ><i class="ti ti-control-play"></i>
+                                </a>
+
+                                <a class="tp-caption tp-resizeme highlight-skin-button" href="#" target="_self" id="slide-2-layer-6" data-x="['left','left','left','center']" data-hoffset="['50','50','50','0']" data-y="['middle','middle','middle','middle']" data-voffset="['200','130','89','39']"
+
+                                data-fontsize="['14','14','14','14']"
+                                data-lineheight="['14','14','14','14']"
+                                data-fontweight="[600,600,600,600]"
+                                data-width="none"
+                                data-height="none"
+                                data-whitespace="nowrap"
+                                data-type="text"
+                                data-actions=''
+                                data-responsive_offset="on"
+                                data-frames='[{"delay":1760,"speed":1500,"frame":"0","from":"y:[100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:0;","to":"o:1;","ease":"Power4.easeInOut"},{"delay":"wait","speed":300,"frame":"999","to":"opacity:0;","ease":"Power3.easeInOut"}]'
+                                data-textAlign="['inherit','inherit','inherit','inherit']"
+                                data-paddingtop="[15,15,15,10]"
+                                data-paddingright="[30,30,30,25]"
+                                data-paddingbottom="[15,15,15,10]"
+                                data-paddingleft="[30,30,30,25]"
+                                >Obtenez un devis <span><i class="ti ti-angle-right"></i></span></a>
+
+                                <a class="tp-caption tp-resizeme classic-border-button" href="#" target="_self" id="slide-2-layer-7" data-x="['left','left','left','center']" data-hoffset="['249','249','240','0']" data-y="['middle','middle','middle','middle']" data-voffset="['200','130','89','99']"
+
+                                data-fontsize="['14','14','14','14']"
+                                data-lineheight="['14','14','14','14']"
+                                data-fontweight="[600,600,600,600]"
+                                data-width="none"
+                                data-height="none"
+                                data-whitespace="nowrap"
+                                data-type="text"
+                                data-actions=''
+                                data-responsive_offset="on"
+                                data-frames='[{"delay":1960,"speed":1500,"frame":"0","from":"y:[100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:0;","to":"o:1;","ease":"Power4.easeInOut"},{"delay":"wait","speed":300,"frame":"999","to":"opacity:0;","ease":"Power3.easeInOut"}]'
+                                data-textAlign="['inherit','inherit','inherit','inherit']"
+                                data-paddingtop="[15,15,15,10]"
+                                data-paddingright="[30,30,30,25]"
+                                data-paddingbottom="[15,15,15,10]"
+                                data-paddingleft="[30,30,30,25]"
+                                >À propos de nous </a>
+                            </li>
+                        </ul>
+                    <div class="tp-loader"><div class="dot1"></div><div class="dot2"></div><div class="bounce1"></div><div class="bounce2"></div><div class="bounce3"></div></div>
+                    <div class="tp-bannertimer"></div>
+                </div>
+            </div>
+            <!--rev-slider end-->
+        </header>
+        <!--header end-->
+
+        <!--site-main start-->
+        <div class="site-main">
+
+            <!--intro-section start-->
+            <section class="ttm-row welcome-section clearfix ttm-bgcolor-white">
+                <div class="container">
+                    <div class="row">
+                        <div class="col-md-12 col-lg-6">
+                            <div class="ttm_single_image_wrapper mt_20 res-991-mt-0">
+                                <img src="<?php echo base_url() ?>assets/images/about-2.png" alt="image" class="img-fluid">
+                            </div>
                         </div>
-                     </div>
-                  </section>
-                  <section class="elementor-section elementor-inner-section elementor-element elementor-element-56275e4 elementor-section-content-bottom elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="56275e4" data-element_type="section">
-                     <div class="elementor-container elementor-column-gap-no">
-                        <div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-a6d5b7b elementor-invisible" data-id="a6d5b7b" data-element_type="column" data-settings="{&quot;animation&quot;:&quot;fadeInLeft&quot;,&quot;animation_delay&quot;:80}">
-                           <div class="elementor-widget-wrap elementor-element-populated">
-                              <div class="elementor-element elementor-element-10d6703 jkit-equal-height-disable elementor-widget elementor-widget-jkit_icon_box" data-id="10d6703" data-element_type="widget" data-widget_type="jkit_icon_box.default">
-                                 <div class="elementor-widget-container">
-                                    <div  class="jeg-elementor-kit jkit-icon-box icon-position-top elementor-animation- jeg_module_7_16_6240504ce1967" >
-                                       <div class="jkit-icon-box-wrapper hover-from-bottom">
-                                          <div class="icon-box icon-box-header elementor-animation-">
-                                             <div class="icon style-color">
-                                                <img src="<?php echo base_url() ?>assets/wp-content/uploads/sites/146/2021/08/046-garlands.png" alt="Decoration"></div>
-                                          </div>
-                                          <div class="icon-box icon-box-body">
-                                             <h3 class="title">Location d'espace</h3>
-                                             <p class="icon-box-description">Une salle couverte ou en plein air c'est votre choix et notre devoir c'est de vous garantir la luxait. </p>
-                                             <div class="icon-box-button ">
-                                                <div class="btn-wrapper icon-position-after">
-                                                   <a href="#"  class="icon-box-link">Read More<i aria-hidden="true" class="jki jki-right-arrow-light"></i></a>
+                        <div class="col-md-12 col-lg-6">
+                            <div class="row">
+                                <div class="col-md-12 col-lg-12">
+                                    <div class="pt-40 res-991-pt-30">
+                                        <div class="section-title">
+                                            <h2 class="title">A Propos</h2>
+                                            <p class="mb-25"><strong>Queen Park Tunisie est bien plus qu'un service de wedding planner. C'est un monde où l'élégance rencontre la créativité pour créer des événements mémorables. Nous sommes passionnés par la transformation de moments spéciaux en souvenirs inoubliables, adaptés à chaque client.</strong></p>
+                                        </div>
+                                        <div class="mt_19 mb-30 pr-35">
+                                            <p>Notre équipe dévouée est là pour vous accompagner de la conception à la réalisation de votre événement, en veillant à ce que chaque détail soit parfait. Nous croyons que chaque détail compte, et nous nous efforçons de faire de votre grand jour une expérience impeccable.</p>
+                                        </div>
+                                        <div class="separator">
+                                            <div class="sep-line mt_5 mb-20 res-991-mb-0"></div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="row">
+                                <div class="col-md-4 col-sm-4">
+                                    <!-- ttm-fid -->
+                                    <div class="ttm-fid inside ttm-fid-view-topicon">
+                                        <div class="ttm-fid-contents">
+                                            <h4><span   data-appear-animation = "animateDigits"
+                                                        data-from             = "0"
+                                                        data-to               = "<?php echo count($clients) ?>"
+                                                        data-interval         = "10"
+                                                        data-before           = ""
+                                                        data-before-style     = "sup"
+                                                        data-after            = ""
+                                                        data-after-style      = "sub"
+                                                    ><?php echo count($clients) ?>
+                                                </span><sub></sub>
+                                            </h4>
+                                            <h3 class="ttm-fid-title"><span>Clients</span></h3>
+                                        </div><!-- ttm-fid-contents end -->
+                                    </div><!-- ttm-fid end -->
+                                </div>
+                                <div class="col-md-4 col-sm-4">
+                                    <!-- ttm-fid -->
+                                    <div class="ttm-fid inside ttm-fid-view-topicon">
+                                        <div class="ttm-fid-contents">
+                                            <h4><span   data-appear-animation = "animateDigits"
+                                                        data-from             = "0"
+                                                        data-to               = "<?php echo (date('Y')-2017) ;  ?>"
+                                                        data-interval         = "1"
+                                                        data-before           = ""
+                                                        data-before-style     = "sup"
+                                                        data-after            = ""
+                                                        data-after-style      = "sub"
+                                                    ><?php echo (date('Y')-2017) ;  ?>
+                                                </span><sub>Ans</sub>
+                                            </h4>
+                                            <h3 class="ttm-fid-title"><span>Experience</span></h3>
+                                        </div><!-- ttm-fid-contents end -->
+                                    </div><!-- ttm-fid end -->
+                                </div>
+                                <div class="col-md-4 col-sm-4">
+                                    <!-- ttm-fid -->
+                                    <div class="ttm-fid inside ttm-fid-view-topicon">
+                                        <div class="ttm-fid-contents">
+                                            <h4><span   data-appear-animation = "animateDigits"
+                                                        data-from             = "0"
+                                                        data-to               = "<?php echo count($projects) ?>"
+                                                        data-interval         = "10"
+                                                        data-before           = ""
+                                                        data-before-style     = "sup"
+                                                        data-after            = ""
+                                                        data-after-style      = "sub"
+                                                    ><?php echo count($projects) ?>
+                                                </span><sub></sub>
+                                            </h4>
+                                            <h3 class="ttm-fid-title"><span>Projets réalisés</span></h3>
+                                        </div><!-- ttm-fid-contents end-->
+                                    </div><!-- ttm-fid end -->
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </section>
+            <!--intro-section end-->
+            
+            <!--service-section start-->
+            <section class="ttm-row bg-img1 ttm-bgcolor-black service-section ttm-bg ttm-bgimage-yes clearfix">
+                <div class="ttm-row-wrapper-bg-layer ttm-bg-layer"></div>
+                <div class="container">
+                    <div class="row text-center">
+                        <div class="col-lg-12">
+                            <div class=" section-title clearfix">
+                                <h4>CE QUE NOUS OFFRONS</h4>
+                                <h2 class="title">Fournir les meilleurs services</h2>
+                                <div class="title-img">
+                                    <img src="<?php echo base_url() ?>assets/images/ds-2.png" alt="underline-img">
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="col-md-6 col-lg-4">
+                            <div class="featured-imagebox static-title mb-20">
+                                <div class="featured-thumbnail">
+                                    <img class="img-fluid" src="<?php echo base_url() ?>assets/images/blog/blog-01.jpg" alt="">
+                                </div>
+                                <div class="featured-content">
+                                    <div class="featured-title">
+                                        <h5><a href="#"> Mariage</a></h5>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-6 col-lg-4">
+                            <div class="featured-imagebox static-title mb-20">
+                                <div class="featured-thumbnail">
+                                    <img class="img-fluid" src="<?php echo base_url() ?>assets/images/blog/blog-02.jpg" alt="">
+                                </div>
+                                <div class="featured-content">
+                                    <div class="featured-title">
+                                        <h5><a href="#">Transfert</a></h5>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-6 col-lg-4">
+                            <div class="featured-imagebox static-title mb-20">
+                                <div class="featured-thumbnail">
+                                    <img class="img-fluid" src="<?php echo base_url() ?>assets/images/blog/blog-03.jpg" alt="">
+                                </div>
+                                <div class="featured-content">
+                                    <div class="featured-title">
+                                        <h5><a href="#">Fête d'entreprise</a></h5>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </section>
+            <!--service-section end-->
+            
+            <!--service-section.style2 start-->
+            <section class="ttm-row service-section style2 bg-layer clearfix bg-layer-equal-height break-991-colum">
+                <div class="container">
+                    <div class="row">
+                        <div class="col-md-12 col-lg-5">
+                            <!-- col-bg-img-three -->
+                            <div class="col-bg-img-three ttm-col-bgimage-yes ttm-bg ttm-left-span res-991-mt-0 mt_60">
+                                <div class="ttm-col-wrapper-bg-layer ttm-bg-layer"></div>
+                                <div class="layer-content">
+                                </div>
+                            </div><!-- col-bg-img-three end-->
+                            <img src="<?php echo base_url() ?>assets/images/bg-image/col-bgimage-3.jpg" class="ttm-equal-height-image" alt="bg-image">
+                        </div>
+                        <div class="col-lg-7 col-md-12">
+                        <!-- about-content -->
+                        <div class="about-content ttm-bg ttm-col-bgcolor-yes ttm-right-span ttm-bgcolor-skincolor padding-15">
+                            <div class="ttm-col-wrapper-bg-layer ttm-bg-layer"></div>
+                            <div class="layer-content">
+                                <!-- section title -->
+                                <div class="section-title with-desc clearfix">
+                                    <div class="title-header">
+                                        <h4>CE QUE NOUS FAISONS</h4>
+                                        <h2 class="title">Obtenez Nos Services Premium</h2>
+                                    </div>
+                                    <p>Nous disposons d'un large éventail de fournisseurs et de contacts dqui travaillent en étroite collaboration avec nous non seulement pour garantir que vous obteniez le jour de votre mariage.</p>
+                                </div><!-- section title end -->
+                                <div class="separator clearfix">
+                                    <div class="sep-line mb-50"></div>
+                                </div>
+                                <!--
+                                <div class="row">
+                                    <div class="col-md-6">
+                                        <div class="featured-box style2 left-icon icon-align-top">
+                                            <div class="featured-icon">
+                                                <div class="ttm-icon ttm-icon_element-size-sm ttm-icon_element-color-white">
+                                                    <i class="flaticon flaticon-cake"></i>
                                                 </div>
-                                             </div>
-                                          </div>
-                                       </div>
-                                    </div>
-                                 </div>
-                              </div>
-                           </div>
-                        </div>
-                         <div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-a6d5b7b elementor-invisible" data-id="a6d5b7b" data-element_type="column" data-settings="{&quot;animation&quot;:&quot;fadeInLeft&quot;,&quot;animation_delay&quot;:80}">
-                           <div class="elementor-widget-wrap elementor-element-populated">
-                              <div class="elementor-element elementor-element-10d6703 jkit-equal-height-disable elementor-widget elementor-widget-jkit_icon_box" data-id="10d6703" data-element_type="widget" data-widget_type="jkit_icon_box.default">
-                                 <div class="elementor-widget-container">
-                                    <div  class="jeg-elementor-kit jkit-icon-box icon-position-top elementor-animation- jeg_module_7_16_6240504ce1967" >
-                                       <div class="jkit-icon-box-wrapper hover-from-bottom">
-                                          <div class="icon-box icon-box-header elementor-animation-">
-                                             <div class="icon style-color"><img src="<?php echo base_url() ?>assets/wp-content/uploads/sites/146/2021/08/028-guitar.png"  alt="Entertaiment"></div>
-                                          </div>
-                                          <div class="icon-box icon-box-body">
-                                             <h3 class="title">Troupe Musical</h3>
-                                             <p class="icon-box-description">le Maestro Hatem Lahmedi avec les artistes les plus brillants de Tunisie et du monde arabe assuront une soirée innoubliabe. </p>
-                                             <div class="icon-box-button ">
-                                                <div class="btn-wrapper icon-position-after">
-                                                   <a href="#"  class="icon-box-link">Read More<i aria-hidden="true" class="jki jki-right-arrow-light"></i></a>
+                                            </div>
+                                            <div class="featured-content">
+                                                <div class="featured-title">
+                                                    <h5>Catering &amp; Decor</h5>
                                                 </div>
-                                             </div>
-                                          </div>
-                                       </div>
-                                    </div>
-                                 </div>
-                              </div>
-                           </div>
-                        </div>
-                        <div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-65f015e elementor-invisible" data-id="65f015e" data-element_type="column" data-settings="{&quot;animation&quot;:&quot;fadeInUp&quot;,&quot;animation_delay&quot;:80}">
-                           <div class="elementor-widget-wrap elementor-element-populated">
-                              <div class="elementor-element elementor-element-919d4d7 jkit-equal-height-disable elementor-widget elementor-widget-jkit_icon_box" data-id="919d4d7" data-element_type="widget" data-widget_type="jkit_icon_box.default">
-                                 <div class="elementor-widget-container">
-                                    <div  class="jeg-elementor-kit jkit-icon-box icon-position-top elementor-animation- jeg_module_7_14_6240504cde68e" >
-                                       <div class="jkit-icon-box-wrapper hover-from-bottom">
-                                          <div class="icon-box icon-box-header elementor-animation-">
-                                             <div class="icon style-color"><img src="<?php echo base_url() ?>assets/wp-content/uploads/sites/146/2021/08/012-photo-camera.png"  alt="Documentation"></div>
-                                          </div>
-                                          <div class="icon-box icon-box-body">
-                                             <h3 class="title">Photographe</h3>
-                                             <p class="icon-box-description">Quand on pense au choix du photographe de mariage, on ne peut que penser au talentueux et incontournable Mak'Photo.  </p>
-                                             <div class="icon-box-button ">
-                                                <div class="btn-wrapper icon-position-after">
-                                                   <a href="#"  class="icon-box-link">Read More<i aria-hidden="true" class="jki jki-right-arrow1-light"></i></a>
+                                                <div class="featured-desc">
+                                                    <p>Lorem Ipsum is simply dummy text of the printing and typendard nknown.</p>
                                                 </div>
-                                             </div>
-                                          </div>
-                                       </div>
+                                                <a class="ttm-btn btn-inline ttm-btn-color-white ttm-icon-btn-right mt-5" href="#">View More<i class="ti ti-angle-double-right"></i></a>
+                                            </div>
+                                        </div>
                                     </div>
-                                 </div>
-                              </div>
-                           </div>
-                        </div>
-                     </div>
-                     <div class="elementor-container elementor-column-gap-no">
-                        <div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-31f5ae1 elementor-invisible" data-id="31f5ae1" data-element_type="column" data-settings="{&quot;animation&quot;:&quot;fadeInRight&quot;,&quot;animation_delay&quot;:80}">
-                           <div class="elementor-widget-wrap elementor-element-populated">
-                              <div class="elementor-element elementor-element-4e0fb84 jkit-equal-height-disable elementor-widget elementor-widget-jkit_icon_box" data-id="4e0fb84" data-element_type="widget" data-widget_type="jkit_icon_box.default">
-                                 <div class="elementor-widget-container">
-                                    <div  class="jeg-elementor-kit jkit-icon-box icon-position-top elementor-animation- jeg_module_7_15_6240504cdfd7e" >
-                                       <div class="jkit-icon-box-wrapper hover-from-bottom">
-                                          <div class="icon-box icon-box-header elementor-animation-">
-                                             <div class="icon style-color"><img src="<?php echo base_url() ?>assets/wp-content/uploads/sites/146/2021/08/031-invitation.png"  alt="Invitation Cards"></div>
-                                          </div>
-                                          <div class="icon-box icon-box-body">
-                                             <h3 class="title">Cartes d'invitation</h3>
-                                             <p class="icon-box-description">On vous propse un service gratuit des invitaions virtuelles sur notre site web</p>
-                                             <div class="icon-box-button ">
-                                                <div class="btn-wrapper icon-position-after">
-                                                   <a href="#"  class="icon-box-link">Read More<i aria-hidden="true" class="jki jki-arrow-right-light"></i></a>
+                                    <div class="col-md-6">
+                                        <div class="featured-box style2 left-icon icon-align-top">
+                                            <div class="featured-icon">
+                                                <div class="ttm-icon ttm-icon_element-size-sm ttm-icon_element-color-white">
+                                                    <i class="flaticon flaticon-wedding-location"></i>
                                                 </div>
-                                             </div>
-                                          </div>
-                                       </div>
+                                            </div>
+                                            <div class="featured-content">
+                                                <div class="featured-title">
+                                                    <h5>Venue Selections</h5>
+                                                </div>
+                                                <div class="featured-desc">
+                                                    <p>Lorem Ipsum is simply dummy text of the printing and typendard nknown.</p>
+                                                </div>
+                                                <a class="ttm-btn btn-inline ttm-btn-color-white ttm-icon-btn-right mt-5" href="#">View More
+                                                    <i class="ti ti-angle-double-right"></i>
+                                                </a>
+                                            </div>
+                                        </div>
                                     </div>
-                                 </div>
-                              </div>
-                           </div>
-                        </div>
-                     </div>
-                  
-                  </section>
-               </div>
-            </div>
-         </div>
-      </section>
-      <section class="elementor-section elementor-top-section elementor-element elementor-element-6c8c0f2 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="6c8c0f2" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
-         <div class="elementor-background-overlay"></div>
-         <div class="elementor-container elementor-column-gap-default">
-            <div class="elementor-column elementor-col-25 elementor-top-column elementor-element elementor-element-f86a65a elementor-invisible" data-id="f86a65a" data-element_type="column" data-settings="{&quot;animation&quot;:&quot;fadeInUp&quot;,&quot;animation_delay&quot;:100}">
-               <div class="elementor-widget-wrap elementor-element-populated">
-                  <div class="elementor-element elementor-element-f711e82 elementor-widget elementor-widget-jkit_fun_fact" data-id="f711e82" data-element_type="widget" data-widget_type="jkit_fun_fact.default">
-                     <div class="elementor-widget-container">
-                        <div  class="jeg-elementor-kit jkit-fun-fact align-center hover-from-left elementor-animation- jeg_module_7_19_6240504ce6767" >
-                           <div class=fun-fact-inner>
-                              <div class="icon elementor-animation-"><i aria-hidden="true" class="jki jki-handshake-light"></i></div>
-                              <div class="content">
-                                 <div class="number-wrapper">
-                                    <span class="number" data-value="<?php echo count($projects) ;?>" data-animation-duration="3500">0</span>
-                                    <sup class="super">+</sup>
-                                 </div>
-                                 <h2 class="title">Projets réalisés</h2>
-                              </div>
-                           </div>
-                        </div>
-                     </div>
-                  </div>
-               </div>
-            </div>
-            <div class="elementor-column elementor-col-25 elementor-top-column elementor-element elementor-element-9e71ef4 elementor-invisible" data-id="9e71ef4" data-element_type="column" data-settings="{&quot;animation&quot;:&quot;fadeInUp&quot;,&quot;animation_delay&quot;:200}">
-               <div class="elementor-widget-wrap elementor-element-populated">
-                  <div class="elementor-element elementor-element-d9bdf0a elementor-widget elementor-widget-jkit_fun_fact" data-id="d9bdf0a" data-element_type="widget" data-widget_type="jkit_fun_fact.default">
-                     <div class="elementor-widget-container">
-                        <div  class="jeg-elementor-kit jkit-fun-fact align-center hover-from-left elementor-animation- jeg_module_7_20_6240504ce734c" >
-                           <div class=fun-fact-inner>
-                              <div class="icon elementor-animation-"><i aria-hidden="true" class="jki jki-smile-wink-solid"></i></div>
-                              <div class="content">
-                                 <div class="number-wrapper">
-                                    <span class="number" data-value="<?php echo count($clients) ;?>" data-animation-duration="3500">0</span>
-                                    <sup class="super">+</sup>
-                                 </div>
-                                 <h2 class="title">Client satisfait</h2>
-                              </div>
-                           </div>
-                        </div>
-                     </div>
-                  </div>
-               </div>
-            </div>
-            <div class="elementor-column elementor-col-25 elementor-top-column elementor-element elementor-element-0099a1b elementor-invisible" data-id="0099a1b" data-element_type="column" data-settings="{&quot;animation&quot;:&quot;fadeInUp&quot;,&quot;animation_delay&quot;:300}">
-               <div class="elementor-widget-wrap elementor-element-populated">
-                  <div class="elementor-element elementor-element-45de13f elementor-widget elementor-widget-jkit_fun_fact" data-id="45de13f" data-element_type="widget" data-widget_type="jkit_fun_fact.default">
-                     <div class="elementor-widget-container">
-                        <div  class="jeg-elementor-kit jkit-fun-fact align-center hover-from-left elementor-animation- jeg_module_7_21_6240504ce7eb4" >
-                           <div class=fun-fact-inner>
-                              <div class="icon elementor-animation-"><i aria-hidden="true" class="jki jki-badge"></i></div>
-                              <div class="content">
-                                 <div class="number-wrapper">
-                                    <span class="number" data-value="100" data-animation-duration="3500">0</span>
-                                    <sup class="super">%</sup>
-                                 </div>
-                                 <h2 class="title">Garantie de service</h2>
-                              </div>
-                           </div>
-                        </div>
-                     </div>
-                  </div>
-               </div>
-            </div>
-            <div class="elementor-column elementor-col-25 elementor-top-column elementor-element elementor-element-3baa18c elementor-invisible" data-id="3baa18c" data-element_type="column" data-settings="{&quot;animation&quot;:&quot;fadeInUp&quot;,&quot;animation_delay&quot;:400}">
-               <div class="elementor-widget-wrap elementor-element-populated">
-                  <div class="elementor-element elementor-element-b1d3c46 elementor-widget elementor-widget-jkit_fun_fact" data-id="b1d3c46" data-element_type="widget" data-widget_type="jkit_fun_fact.default">
-                     <div class="elementor-widget-container">
-                        <div  class="jeg-elementor-kit jkit-fun-fact align-center hover-from-left elementor-animation- jeg_module_7_22_6240504ce8a31" >
-                           <div class=fun-fact-inner>
-                              <div class="icon elementor-animation-"><i aria-hidden="true" class="jki jki-team-2-line"></i></div>
-                              <div class="content">
-                                 <div class="number-wrapper">
-                                    <span class="number" data-value="5" data-animation-duration="3500">0</span>
-                                    <sup class="super">+</sup>
-                                 </div>
-                                 <h2 class="title">Experts de l'équipe</h2>
-                              </div>
-                           </div>
-                        </div>
-                     </div>
-                  </div>
-               </div>
-            </div>
-         </div>
-      </section>
-     
-     
-      <section class="elementor-section elementor-top-section elementor-element elementor-element-7bf25b9 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="7bf25b9" data-element_type="section">
-         <div class="elementor-container elementor-column-gap-default">
-            <div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-9de5e84" data-id="9de5e84" data-element_type="column">
-               <div class="elementor-widget-wrap elementor-element-populated">
-                  <div class="elementor-element elementor-element-f2c8822 elementor-invisible elementor-widget elementor-widget-jkit_heading" data-id="f2c8822" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;fadeInUp&quot;}" data-widget_type="jkit_heading.default">
-                     <div class="elementor-widget-container">
-                        <div  class="jeg-elementor-kit jkit-heading  align-center align-tablet-left align-mobile-left jeg_module_7_31_6240504d0a04f" >
-                           <h3 class="heading-section-subtitle  style-color">Notre équipe</h3>
-                           <div class="heading-section-title ">
-                              <h2 class="heading-title">Rencontrez notre équipe d'experts</h2>
-                           </div>
-                           <div class="heading-section-description">
-                              <p>
-                                 L'équipe de Queen Park restera à votre écoute et vous accompagnera lors des préparatifs. Elle rendra votre soirée inoubliable
-                             </p>
-                           </div>
-                        </div>
-                     </div>
-                  </div>
-                  <section class="elementor-section elementor-inner-section elementor-element elementor-element-52f9ce7 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="52f9ce7" data-element_type="section">
-                     <div class="elementor-container elementor-column-gap-default">
-                        <div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-1b0ca37 elementor-invisible" data-id="1b0ca37" data-element_type="column" data-settings="{&quot;animation_delay&quot;:200,&quot;animation&quot;:&quot;fadeInLeft&quot;}">
-                           <div class="elementor-widget-wrap elementor-element-populated">
-                              <div class="elementor-element elementor-element-fd8b8d6 elementor-widget elementor-widget-jkit_team" data-id="fd8b8d6" data-element_type="widget" data-widget_type="jkit_team.default">
-                                 <div class="elementor-widget-container">
-                                    <div  class="jeg-elementor-kit jkit-team style-overlay overlay-bottom jeg_module_7_32_6240504d0e8de" >
-                                       <div class="profile-card ">
-                                          <img src="<?php echo base_url() ?>assets/img/teams/haythem.jpg" >
-                                          <div class="hover-area alignment-center">
-                                             <div class="profile-body">
-                                                <h2 class="profile-title"></h2>
-                                                <p class="profile-designation"></p>
-                                                <ul class="social-list">
-                                                   <li class="social-icon elementor-repeater-item-14ee0f9"><a href="https://facebook.com/" ><i aria-hidden="true" class="fab fa-facebook-f"></i></a></li>
-                                                   <li class="social-icon elementor-repeater-item-11db393"><a href="https://twitter.com/" ><i aria-hidden="true" class="fab fa-twitter"></i></a></li>
-                                                   <li class="social-icon elementor-repeater-item-618b2ac"><a href="https://instagram.com/" ><i aria-hidden="true" class="jki jki-instagram-1-light"></i></a></li>
-                                                </ul>
-                                             </div>
-                                          </div>
-                                       </div>
-                                    </div>
-                                 </div>
-                              </div>
-                              <div class="elementor-element elementor-element-5d935ea jkit-equal-height-disable elementor-widget elementor-widget-jkit_icon_box" data-id="5d935ea" data-element_type="widget" data-widget_type="jkit_icon_box.default">
-                                 <div class="elementor-widget-container">
-                                    <div  class="jeg-elementor-kit jkit-icon-box icon-position-top elementor-animation- jeg_module_7_33_6240504d1002b" >
-                                       <div class="jkit-icon-box-wrapper hover-from-left">
-                                          <div class="icon-box icon-box-body">
-                                             <h4 class="title">Haythem</h4>
-                                             <p class="icon-box-description">DIrecteur General</p>
-                                          </div>
-                                       </div>
-                                    </div>
-                                 </div>
-                              </div>
-                           </div>
-                        </div>
-                         <div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-fcd55e1 elementor-invisible" data-id="fcd55e1" data-element_type="column" data-settings="{&quot;animation_delay&quot;:200,&quot;animation&quot;:&quot;fadeInRight&quot;}">
-                           <div class="elementor-widget-wrap elementor-element-populated">
-                              <div class="elementor-element elementor-element-552b6dc elementor-widget elementor-widget-jkit_team" data-id="552b6dc" data-element_type="widget" data-widget_type="jkit_team.default">
-                                 <div class="elementor-widget-container">
-                                    <div  class="jeg-elementor-kit jkit-team style-overlay overlay-bottom jeg_module_7_36_6240504d13f66" >
-                                       <div class="profile-card ">
-                                          <img src="<?php echo base_url() ?>assets/img/teams/ala.jpg" >
-                                          <div class="hover-area alignment-center">
-                                             <div class="profile-body">
-                                                <h2 class="profile-title"></h2>
-                                                <p class="profile-designation"></p>
-                                                <ul class="social-list">
-                                                   <li class="social-icon elementor-repeater-item-14ee0f9"><a href="https://facebook.com/" ><i aria-hidden="true" class="fab fa-facebook-f"></i></a></li>
-                                                   <li class="social-icon elementor-repeater-item-11db393"><a href="https://twitter.com/" ><i aria-hidden="true" class="fab fa-twitter"></i></a></li>
-                                                   <li class="social-icon elementor-repeater-item-618b2ac"><a href="https://instagram.com/" ><i aria-hidden="true" class="jki jki-instagram-1-light"></i></a></li>
-                                                </ul>
-                                             </div>
-                                          </div>
-                                       </div>
-                                    </div>
-                                 </div>
-                              </div>
-                              <div class="elementor-element elementor-element-2468d11 jkit-equal-height-disable elementor-widget elementor-widget-jkit_icon_box" data-id="2468d11" data-element_type="widget" data-widget_type="jkit_icon_box.default">
-                                 <div class="elementor-widget-container">
-                                    <div  class="jeg-elementor-kit jkit-icon-box icon-position-top elementor-animation- jeg_module_7_37_6240504d15d5b" >
-                                       <div class="jkit-icon-box-wrapper hover-from-left">
-                                          <div class="icon-box icon-box-body">
-                                             <h3 class="title">Ala</h3>
-                                             <p class="icon-box-description">Directeur Commercial</p>
-                                          </div>
-                                       </div>
-                                    </div>
-                                 </div>
-                              </div>
-                           </div>
-                        </div>
-                        <div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-1b0ca37 elementor-invisible" data-id="1b0ca37" data-element_type="column" data-settings="{&quot;animation_delay&quot;:200,&quot;animation&quot;:&quot;fadeInLeft&quot;}">
-                           <div class="elementor-widget-wrap elementor-element-populated">
-                              <div class="elementor-element elementor-element-fd8b8d6 elementor-widget elementor-widget-jkit_team" data-id="fd8b8d6" data-element_type="widget" data-widget_type="jkit_team.default">
-                                 <div class="elementor-widget-container">
-                                    <div  class="jeg-elementor-kit jkit-team style-overlay overlay-bottom jeg_module_7_32_6240504d0e8de" >
-                                       <div class="profile-card ">
-                                          <img src="<?php echo base_url() ?>assets/img/teams/koussay.jpg" >
-                                          <div class="hover-area alignment-center">
-                                             <div class="profile-body">
-                                                <h2 class="profile-title"></h2>
-                                                <p class="profile-designation"></p>
-                                                <ul class="social-list">
-                                                   <li class="social-icon elementor-repeater-item-14ee0f9"><a href="https://facebook.com/" ><i aria-hidden="true" class="fab fa-facebook-f"></i></a></li>
-                                                   <li class="social-icon elementor-repeater-item-11db393"><a href="https://twitter.com/" ><i aria-hidden="true" class="fab fa-twitter"></i></a></li>
-                                                   <li class="social-icon elementor-repeater-item-618b2ac"><a href="https://instagram.com/" ><i aria-hidden="true" class="jki jki-instagram-1-light"></i></a></li>
-                                                </ul>
-                                             </div>
-                                          </div>
-                                       </div>
-                                    </div>
-                                 </div>
-                              </div>
-                              <div class="elementor-element elementor-element-5d935ea jkit-equal-height-disable elementor-widget elementor-widget-jkit_icon_box" data-id="5d935ea" data-element_type="widget" data-widget_type="jkit_icon_box.default">
-                                 <div class="elementor-widget-container">
-                                    <div  class="jeg-elementor-kit jkit-icon-box icon-position-top elementor-animation- jeg_module_7_33_6240504d1002b" >
-                                       <div class="jkit-icon-box-wrapper hover-from-left">
-                                          <div class="icon-box icon-box-body">
-                                             <h4 class="title">Koussay</h4>
-                                             <p class="icon-box-description">Marketing manager</p>
-                                          </div>
-                                       </div>
-                                    </div>
-                                 </div>
-                              </div>
-                           </div>
-                        </div>
-                        <div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-10f30fe elementor-invisible" data-id="10f30fe" data-element_type="column" data-settings="{&quot;animation_delay&quot;:&quot;200&quot;,&quot;animation&quot;:&quot;fadeInUp&quot;}">
-                           <div class="elementor-widget-wrap elementor-element-populated">
-                              <div class="elementor-element elementor-element-7a3e123 elementor-widget elementor-widget-jkit_team" data-id="7a3e123" data-element_type="widget" data-widget_type="jkit_team.default">
-                                 <div class="elementor-widget-container">
-                                    <div  class="jeg-elementor-kit jkit-team style-overlay overlay-bottom jeg_module_7_34_6240504d11526" >
-                                       <div class="profile-card ">
-                                          <img src="<?php echo base_url() ?>assets/img/teams/lynda.jpg" >
-                                          <div class="hover-area alignment-center">
-                                             <div class="profile-body">
-                                                <h2 class="profile-title"></h2>
-                                                <p class="profile-designation"></p>
-                                                <ul class="social-list">
-                                                   <li class="social-icon elementor-repeater-item-14ee0f9"><a href="https://facebook.com/" ><i aria-hidden="true" class="fab fa-facebook-f"></i></a></li>
-                                                   <li class="social-icon elementor-repeater-item-11db393"><a href="https://twitter.com/" ><i aria-hidden="true" class="fab fa-twitter"></i></a></li>
-                                                   <li class="social-icon elementor-repeater-item-618b2ac"><a href="https://instagram.com/" ><i aria-hidden="true" class="jki jki-instagram-1-light"></i></a></li>
-                                                </ul>
-                                             </div>
-                                          </div>
-                                       </div>
-                                    </div>
-                                 </div>
-                              </div>
-                              <div class="elementor-element elementor-element-b0a01f6 jkit-equal-height-disable elementor-widget elementor-widget-jkit_icon_box" data-id="b0a01f6" data-element_type="widget" data-widget_type="jkit_icon_box.default">
-                                 <div class="elementor-widget-container">
-                                    <div  class="jeg-elementor-kit jkit-icon-box icon-position-top elementor-animation- jeg_module_7_35_6240504d12b1a" >
-                                       <div class="jkit-icon-box-wrapper hover-from-left">
-                                          <div class="icon-box icon-box-body">
-                                             <h3 class="title">Lynda </h3>
-                                             <p class="icon-box-description">Responsible commercial</p>
-                                          </div>
-                                       </div>
-                                    </div>
-                                 </div>
-                              </div>
-                           </div>
-                        </div>
-                       
-                     </div>
-                  </section>
-               </div>
-            </div>
-         </div>
-      </section>
+                                </div>
+                                -->
+                            </div>
+                        </div><!-- about-content end-->
+                    </div>
+                    </div>
+                </div>
+            </section>
+            <!--service-section.style2 end-->
 
-       <section class="elementor-section elementor-top-section elementor-element elementor-element-36dac22 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="36dac22" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
-         <div class="elementor-container elementor-column-gap-default">
-            <div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-c476c86" data-id="c476c86" data-element_type="column">
-               <div class="elementor-widget-wrap elementor-element-populated">
-                  <div class="elementor-element elementor-element-f98ffaf elementor-invisible elementor-widget elementor-widget-jkit_client_logo" data-id="f98ffaf" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;fadeInUp&quot;,&quot;_animation_delay&quot;:300}" data-widget_type="jkit_client_logo.default">
-                     <div class="elementor-widget-container">
-                        <div  class="jeg-elementor-kit jkit-client-logo arrow-bottom-middle jeg_module_7_30_6240504d077a5"  data-id="jeg_module_7_30_6240504d077a5" data-settings="{&quot;autoplay&quot;:true,&quot;autoplay_speed&quot;:3500,&quot;autoplay_hover_pause&quot;:false,&quot;show_navigation&quot;:false,&quot;navigation_left&quot;:&quot;&lt;i aria-hidden=\&quot;true\&quot; class=\&quot;fas fa-angle-left\&quot;&gt;&lt;\/i&gt;&quot;,&quot;navigation_right&quot;:&quot;&lt;i aria-hidden=\&quot;true\&quot; class=\&quot;fas fa-angle-right\&quot;&gt;&lt;\/i&gt;&quot;,&quot;show_dots&quot;:false,&quot;arrow_position&quot;:&quot;bottom&quot;,&quot;responsive&quot;:{&quot;desktop&quot;:{&quot;items&quot;:&quot;5&quot;,&quot;margin&quot;:&quot;20&quot;,&quot;breakpoint&quot;:1025},&quot;tablet&quot;:{&quot;items&quot;:3,&quot;margin&quot;:10,&quot;breakpoint&quot;:768},&quot;mobile&quot;:{&quot;items&quot;:&quot;1&quot;,&quot;margin&quot;:&quot;20&quot;,&quot;breakpoint&quot;:0}}}">
-                           <div class="client-list">
-                              <div class="client-track">
-                                 <div class="client-slider item ">
-                                    <div class="image-list">
-                                       <div class="content-image"><img src="<?php echo base_url() ?>assets/wp-content/uploads/sites/146/2021/08/carousel-logo-300x300.png"  class="main-image" alt="Logo 1"></div>
-                                    </div>
-                                 </div>
-                                 <div class="client-slider item ">
-                                    <div class="image-list">
-                                       <div class="content-image"><img src="<?php echo base_url() ?>assets/wp-content/uploads/sites/146/2021/08/lancaster-logo-300x300.png"  class="main-image" alt="Logo 2"></div>
-                                    </div>
-                                 </div>
-                                 <div class="client-slider item ">
-                                    <div class="image-list">
-                                       <div class="content-image"><img src="<?php echo base_url() ?>assets/wp-content/uploads/sites/146/2021/08/mark-focus-logo-300x300.png"  class="main-image" alt="Logo 3"></div>
-                                    </div>
-                                 </div>
-                                 <div class="client-slider item ">
-                                    <div class="image-list">
-                                       <div class="content-image"><img src="<?php echo base_url() ?>assets/wp-content/uploads/sites/146/2021/08/mary-jane-logo-300x300.png"  class="main-image" alt="Logo 4"></div>
-                                    </div>
-                                 </div>
-                                 <div class="client-slider item ">
-                                    <div class="image-list">
-                                       <div class="content-image"><img src="<?php echo base_url() ?>assets/wp-content/uploads/sites/146/2021/08/wisconsin-logo-300x300.png"  class="main-image" alt="Logo 5"></div>
-                                    </div>
-                                 </div>
-                                 <div class="client-slider item ">
-                                    <div class="image-list">
-                                       <div class="content-image"><img src="<?php echo base_url() ?>assets/wp-content/uploads/sites/146/2021/08/three-angles-logo-300x300.png"  class="main-image" alt="Logo 6"></div>
-                                    </div>
-                                 </div>
-                                 <div class="client-slider item ">
-                                    <div class="image-list">
-                                       <div class="content-image"><img src="<?php echo base_url() ?>assets/wp-content/uploads/sites/146/2021/08/xoca-logo-300x300.png"  class="main-image" alt="Logo 7"></div>
-                                    </div>
-                                 </div>
-                              </div>
-                           </div>
-                        </div>
-                     </div>
-                  </div>
-               </div>
-            </div>
-         </div>
-      </section>
+            <!--timer-section start-->
+            
+            <!--timer-section end-->
 
+            <!--event-section start-->
+           
+            <!--event-section end-->
 
-   
+            <!--gallery-section start-->
+            <section class="ttm-row bg-img7 ttm-bgcolor-black gallery-section ttm-bg ttm-bgimage-yes clearfix">
+                <div class="ttm-row-wrapper-bg-layer ttm-bg-layer"></div>
+                <div class="container">
+                    <div class="row text-center">
+                        <div class="col-lg-12 col-md-12">
+                            <div class=" section-title clearfix">
+                                <h4>VOIR NOS MEILLEURS</h4>
+                                <h2 class="title">Galerie de photos</h2>
+                                <div class="title-img">
+                                    <img src="<?php echo base_url() ?>assets/images/ds-2.png" alt="underline-img">
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </section>
+            <!--gallery-section end-->
 
-       <section class="elementor-section elementor-top-section elementor-element elementor-element-c8c087b elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="c8c087b" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
-         <div class="elementor-background-overlay"></div>
-         <div class="elementor-container elementor-column-gap-default">
-            <div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-72e1191" data-id="72e1191" data-element_type="column">
-               <div class="elementor-widget-wrap elementor-element-populated">
-                  <div class="elementor-element elementor-element-65f257a elementor-invisible elementor-widget elementor-widget-jkit_animated_text" data-id="65f257a" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;fadeInLeft&quot;}" data-widget_type="jkit_animated_text.default">
-                     <div class="elementor-widget-container">
-                        <div  class="jeg-elementor-kit jkit-animated-text jeg_module_7_50_6240504d279a3"  data-style="none">
-                           <p class="animated-text"><span class="normal-text style-color">N'hésitez pas à utiliser nos services, votre </span><span class="dynamic-wrapper style-color"><span class="dynamic-text">Événement &amp; Fête </span></span><span class="normal-text style-color"> Sera spécial !</span></p>
+            <!--gallery-view-section start-->
+            <section class="ttm-row gallery-view-section">
+                <div class="container">
+                    <!-- row -->
+                    <div class="row multi-columns-row ttm-boxes-spacing-5px style2 mt_65">
+                        <div class="ttm-box-col-wrapper col-lg-4 col-md-6">
+                            <!-- featured-image-box -->
+                            <div class="featured-imagebox featured-imagebox-portfolio">
+                                <!-- featured-thumbnail-->
+                                <div class="featured-thumbnail">
+                                    <a href="#"> <img class="img-fluid" src="<?php echo base_url() ?>assets/images/gallery/gallery-1.jpg" alt="image"></a>
+                                </div><!-- featured-thumbnail END-->
+                                <!-- ttm-box-view-overlay -->
+                                <div class="ttm-box-view-overlay">
+                                    <div class="ttm-media-link">
+                                        <a class="ttm_prettyphoto ttm_image" data-gal="prettyPhoto[gallery1]" title="Autue Art Gallery Opening" href="<?php echo base_url() ?>assets/images/gallery/gallery-1.jpg" data-rel="prettyPhoto">
+                                            <i class="ti ti-search"></i>
+                                        </a>
+                                    </div>
+                                    <div class="featured-content featured-content-portfolio">
+                                        <div class="featured-title">
+                                            <h5><a href="portfolio-details-01.html">Autue Art Gallery Opening</a></h5>
+                                        </div>
+                                        <span class="category">
+                                            <a href="private-party.html">Private Party</a>
+                                        </span>
+                                    </div>
+                                </div><!-- ttm-box-view-overlay end-->
+                            </div><!-- featured-item -->
                         </div>
-                     </div>
-                  </div>
-                  <div class="elementor-element elementor-element-e51a9b6 elementor-invisible elementor-widget elementor-widget-text-editor" data-id="e51a9b6" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;fadeInRight&quot;}" data-widget_type="text-editor.default">
-                     <div class="elementor-widget-container">
-                        <p></p>
-                     </div>
-                  </div>
-                  <div class="elementor-element elementor-element-843ed3b elementor-invisible elementor-widget elementor-widget-jkit_button" data-id="843ed3b" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;fadeInUp&quot;}" data-widget_type="jkit_button.default">
-                     <div class="elementor-widget-container">
-                        <div  class="jeg-elementor-kit jkit-button  icon-position-before jeg_module_7_51_6240504d28733" ><a href="#"  class="jkit-button-wrapper">ENTRER EN CONTACT</a></div>
-                     </div>
-                  </div>
-               </div>
-            </div>
-         </div>
-      </section>
+                        <div class="ttm-box-col-wrapper col-lg-4 col-md-6">
+                            <!-- featured-image-box -->
+                            <div class="featured-imagebox featured-imagebox-portfolio">
+                                <!-- featured-thumbnail-->
+                                <div class="featured-thumbnail">
+                                    <a href="#"> <img class="img-fluid" src="<?php echo base_url() ?>assets/images/gallery/gallery-5.jpg" alt="image"></a>
+                                </div><!-- featured-thumbnail END-->
+                                <!-- ttm-box-view-overlay -->
+                                <div class="ttm-box-view-overlay">
+                                    <div class="ttm-media-link">
+                                        <a class="ttm_prettyphoto ttm_image" data-gal="prettyPhoto[gallery1]" title="Grand Despa Events" href="<?php echo base_url() ?>assets/images/gallery/gallery-5.jpg" data-rel="prettyPhoto">
+                                            <i class="ti ti-search"></i>
+                                        </a>
+                                    </div>
+                                    <div class="featured-content featured-content-portfolio">
+                                        <div class="featured-title">
+                                            <h5><a href="portfolio-details-01.html">Grand Despa Events</a></h5>
+                                        </div>
+                                        <span class="category">
+                                            <a href="private-party.html">birthday Party</a>
+                                        </span>
+                                    </div>
+                                </div><!-- ttm-box-view-overlay end-->
+                            </div><!-- featured-item -->
+                        </div>
+                        <div class="ttm-box-col-wrapper col-lg-4 col-md-6">
+                            <!-- featured-image-box -->
+                            <div class="featured-imagebox featured-imagebox-portfolio">
+                                <!-- featured-thumbnail-->
+                                <div class="featured-thumbnail">
+                                    <a href="#"> <img class="img-fluid" src="<?php echo base_url() ?>assets/images/gallery/gallery-2.jpg" alt="image"></a>
+                                </div><!-- featured-thumbnail END-->
+                                <!-- ttm-box-view-overlay -->
+                                <div class="ttm-box-view-overlay">
+                                    <div class="ttm-media-link">
+                                        <a class="ttm_prettyphoto ttm_image" data-gal="prettyPhoto[gallery1]" title="Divqi Holiday Party" href="<?php echo base_url() ?>assets/images/gallery/gallery-2.jpg" data-rel="prettyPhoto">
+                                            <i class="ti ti-search"></i>
+                                        </a>
+                                    </div>
+                                    <div class="featured-content featured-content-portfolio">
+                                        <div class="featured-title">
+                                            <h5><a href="portfolio-details-01.html">Divqi Holiday Party</a></h5>
+                                        </div>
+                                        <span class="category">
+                                            <a href="private-party.html">Corporate</a>
+                                        </span>
+                                    </div>
+                                </div><!-- ttm-box-view-overlay end-->
+                            </div><!-- featured-item -->
+                        </div>
+                        <div class="ttm-box-col-wrapper col-lg-4 col-md-6">
+                            <!-- featured-image-box -->
+                            <div class="featured-imagebox featured-imagebox-portfolio">
+                                <!-- featured-thumbnail-->
+                                <div class="featured-thumbnail">
+                                    <a href="#"> <img class="img-fluid" src="<?php echo base_url() ?>assets/images/gallery/gallery-3.jpg" alt="image"></a>
+                                </div><!-- featured-thumbnail END-->
+                                <!-- ttm-box-view-overlay -->
+                                <div class="ttm-box-view-overlay">
+                                    <div class="ttm-media-link">
+                                        <a class="ttm_prettyphoto ttm_image" data-gal="prettyPhoto[gallery1]" title="Helen Birthday Party" href="<?php echo base_url() ?>assets/images/gallery/gallery-3.jpg" data-rel="prettyPhoto">
+                                            <i class="ti ti-search"></i>
+                                        </a>
+                                    </div>
+                                    <div class="featured-content featured-content-portfolio">
+                                        <div class="featured-title">
+                                            <h5><a href="portfolio-details-01.html">Helen Birthday Party</a></h5>
+                                        </div>
+                                        <span class="category">
+                                            <a href="private-party.html">Birthday Party</a>
+                                        </span>
+                                    </div>
+                                </div><!-- ttm-box-view-overlay end-->
+                            </div><!-- featured-item -->
+                        </div>
+                        <div class="ttm-box-col-wrapper col-lg-4 col-md-6">
+                            <!-- featured-image-box -->
+                            <div class="featured-imagebox featured-imagebox-portfolio">
+                                <!-- featured-thumbnail-->
+                                <div class="featured-thumbnail">
+                                    <a href="#"> <img class="img-fluid" src="<?php echo base_url() ?>assets/images/gallery/gallery-4.jpg" alt="image"></a>
+                                </div><!-- featured-thumbnail END-->
+                                <!-- ttm-box-view-overlay -->
+                                <div class="ttm-box-view-overlay">
+                                    <div class="ttm-media-link">
+                                        <a class="ttm_prettyphoto ttm_image" data-gal="prettyPhoto[gallery1]" title="Steven and Sofia Wedding" href="https://youtu.be/HkyVTxH2fIM" data-rel="prettyPhoto">
+                                            <i class="ti ti-control-play"></i>
+                                        </a>
+                                    </div>
+                                    <div class="featured-content featured-content-portfolio">
+                                        <div class="featured-title">
+                                            <h5><a href="portfolio-details-01.html">Steven and Sofia Wedding</a></h5>
+                                        </div>
+                                        <span class="category">
+                                            <a href="private-party.html">Engagement</a>,
+                                            <a href="private-party.html">Wedding</a>
+                                        </span>
+                                    </div>
+                                </div><!-- ttm-box-view-overlay end-->
+                            </div><!-- featured-item -->
+                        </div>
+                        <div class="ttm-box-col-wrapper col-lg-4 col-md-6">
+                            <!-- featured-image-box -->
+                            <div class="featured-imagebox featured-imagebox-portfolio">
+                                <!-- featured-thumbnail-->
+                                <div class="featured-thumbnail">
+                                    <a href="#"> <img class="img-fluid" src="<?php echo base_url() ?>assets/images/gallery/gallery-8.jpg" alt="image"></a>
+                                </div><!-- featured-thumbnail END-->
+                                <!-- ttm-box-view-overlay -->
+                                <div class="ttm-box-view-overlay">
+                                    <div class="ttm-media-link">
+                                        <a class="ttm_prettyphoto ttm_image" data-gal="prettyPhoto[gallery1]" title="Kids Birthday Party" href="<?php echo base_url() ?>assets/images/gallery/gallery-8.jpg" data-rel="prettyPhoto">
+                                            <i class="ti ti-search"></i>
+                                        </a>
+                                    </div>
+                                    <div class="featured-content featured-content-portfolio">
+                                        <div class="featured-title">
+                                            <h5><a href="portfolio-details-01.html">Kids Birthday Party</a></h5>
+                                        </div>
+                                        <span class="category">
+                                            <a href="private-party.html">Birthday Party</a>
+                                        </span>
+                                    </div>
+                                </div><!-- ttm-box-view-overlay end-->
+                            </div><!-- featured-item -->
+                        </div>
+                    </div><!-- row end -->
+                    <div class="row">
+                        <div class="col-md-12 text-center">
+                            <a class="ttm-btn ttm-btn-size-md ttm-btn-shape-round ttm-btn-style-fill ttm-btn-color-black mt-50" href="gallery.html">View More Gallery</a>
+                        </div>
+                    </div>
+                </div>
+            </section>
+            <!--gallery-view-section end-->
 
-      <section class="elementor-section elementor-top-section elementor-element elementor-element-86b6537 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="86b6537" data-element_type="section">
-         <div class="elementor-container elementor-column-gap-default">
-            <div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-8a813b7" data-id="8a813b7" data-element_type="column">
-               <div class="elementor-widget-wrap elementor-element-populated">
-                  <div class="elementor-element elementor-element-19042b2 elementor-invisible elementor-widget elementor-widget-jkit_heading" data-id="19042b2" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;fadeInLeft&quot;,&quot;_animation_delay&quot;:100}" data-widget_type="jkit_heading.default">
-                     <div class="elementor-widget-container">
-                        <div  class="jeg-elementor-kit jkit-heading  align-left align-tablet-left align-mobile-left jeg_module_7_47_6240504d21095" >
-                           <h3 class="heading-section-subtitle  style-color">Testimonials</h3>
-                           <div class="heading-section-title ">
-                              <h2 class="heading-title">What Client Says</h2>
-                           </div>
-                           <div class="heading-section-description">
-                              <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
-                           </div>
+            <!--testimonial-->
+            <section class="testimonial-section ttm-row bg-layer break-991-colum">
+                <div class="container">
+                    <div class="row">
+                        <!--Testimonials-->
+                        <div class="col-md-12 col-lg-7">
+                            <div class="ttm-col-bgcolor-yes ttm-bg ttm-left-span ttm-bgcolor-skincolor padding-3 res-1199-pl-15">
+                                <div class="ttm-col-wrapper-bg-layer ttm-bg-layer">
+                                    <div class="ttm-bg-layer-inner"></div>
+                                </div>
+                                <div class="layer-content">
+                                    <div class="carousel-outer pr-10">
+                                        <div class="section-title clearfix mb-30">
+                                            <h4>TÉMOIGNAGE</h4>
+                                            <h2 class="title ttm-textcolor-white">
+
+                                            </h2>
+                                        </div>
+                                        <!-- wrap-testimonial -->
+                                        <div class="testimonial-slide owl-carousel" data-item="1" data-nav="false" data-dots="false" data-auto="false">
+                                            <!-- testimonials -->
+                                            <div class="testimonials"> 
+                                                <div class="testimonial-content mb-35">
+                                                    <div class="testimonial-avatar">
+                                                        <div class="testimonial-img">
+                                                            <img class="img-center" src="<?php echo base_url() ?>assets/images/feedback1.jpg" alt="testimonial-img">
+                                                        </div>
+                                                    </div>
+                                                     <div class="testimonial-caption">
+                                                        <h6>Linda Jone</h6>
+                                                        <label>Newyork City</label>
+                                                    </div>
+                                                    <blockquote>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloret quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit.</blockquote>
+                                                </div>
+                                            </div><!-- testimonials end -->
+                                            <!-- testimonials -->
+                                            <div class="testimonials"> 
+                                                <div class="testimonial-content mb-35">
+                                                    <div class="testimonial-avatar">
+                                                        <div class="testimonial-img">
+                                                            <img class="img-center" src="<?php echo base_url() ?>assets/images/feedback2.jpg" alt="testimonial-img">
+                                                        </div>
+                                                    </div>
+                                                     <div class="testimonial-caption">
+                                                        <h6>Tonny Edward</h6>
+                                                        <label>Newyork City</label>
+                                                    </div>
+                                                    <blockquote>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloret quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit.</blockquote>
+                                                </div>
+                                            </div><!-- testimonials end -->
+                                            <!-- testimonials -->
+                                            <div class="testimonials">
+                                                <div class="testimonial-content mb-35">
+                                                    <div class="testimonial-avatar">
+                                                        <div class="testimonial-img">
+                                                            <img class="img-center" src="<?php echo base_url() ?>assets/images/feedback3.jpg" alt="testimonial-img">
+                                                        </div>
+                                                    </div> 
+                                                     <div class="testimonial-caption">
+                                                        <h6>Teena Venanda</h6>
+                                                        <label>Newyork City</label>
+                                                    </div>
+                                                    <blockquote>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloret quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit.</blockquote>
+                                                </div>
+                                            </div><!-- testimonials end -->
+                                        </div><!-- wrap-testimonial end-->
+                                    </div>
+                                </div>
+                            </div>
+                        </div><!--left Column-end-->
+                        <div class="col-md-12 col-lg-5">
+                            <div class="col-bg-img-four ttm-col-bgimage-yes ttm-bg ttm-right-span ml_165 mt-60 res-991-mt-0">
+                                <div class="ttm-col-wrapper-bg-layer ttm-bg-layer"></div>
+                                <div class="layer-content"></div>
+                            </div>
+                            <img src="<?php echo base_url() ?>assets/images/bg-image/col-bgimage-4.jpg" class="ttm-equal-height-image" alt="bg-image">
                         </div>
-                     </div>
-                  </div>
-                  <div class="elementor-element elementor-element-2c78999 elementor-invisible elementor-widget elementor-widget-jkit_button" data-id="2c78999" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;fadeInRight&quot;,&quot;_animation_delay&quot;:200}" data-widget_type="jkit_button.default">
-                     <div class="elementor-widget-container">
-                        <div  class="jeg-elementor-kit jkit-button  icon-position-before jeg_module_7_48_6240504d219c0" ><a href="#"  class="jkit-button-wrapper">SEE MORE</a></div>
-                     </div>
-                  </div>
-               </div>
-            </div>
-            <div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-61b234e elementor-invisible" data-id="61b234e" data-element_type="column" data-settings="{&quot;animation&quot;:&quot;fadeInRight&quot;,&quot;animation_delay&quot;:200}">
-               <div class="elementor-widget-wrap elementor-element-populated">
-                  <div class="elementor-element elementor-element-e30f007 elementor-widget elementor-widget-jkit_testimonials" data-id="e30f007" data-element_type="widget" data-widget_type="jkit_testimonials.default">
-                     <div class="elementor-widget-container">
-                        <div  class="jeg-elementor-kit jkit-testimonials arrow-bottom-middle style-2 quote-override jeg_module_7_49_6240504d258b7"  data-id="jeg_module_7_49_6240504d258b7" data-settings="{&quot;autoplay&quot;:true,&quot;autoplay_speed&quot;:3500,&quot;autoplay_hover_pause&quot;:false,&quot;show_navigation&quot;:false,&quot;navigation_left&quot;:&quot;&lt;i aria-hidden=\&quot;true\&quot; class=\&quot;fas fa-angle-left\&quot;&gt;&lt;\/i&gt;&quot;,&quot;navigation_right&quot;:&quot;&lt;i aria-hidden=\&quot;true\&quot; class=\&quot;fas fa-angle-right\&quot;&gt;&lt;\/i&gt;&quot;,&quot;show_dots&quot;:false,&quot;arrow_position&quot;:&quot;bottom&quot;,&quot;responsive&quot;:{&quot;desktop&quot;:{&quot;items&quot;:1,&quot;margin&quot;:10,&quot;breakpoint&quot;:1025},&quot;tablet&quot;:{&quot;items&quot;:1,&quot;margin&quot;:10,&quot;breakpoint&quot;:768},&quot;mobile&quot;:{&quot;items&quot;:1,&quot;margin&quot;:10,&quot;breakpoint&quot;:0}}}">
-                           <div class="testimonials-list">
-                              <div class="testimonials-track">
-                                 <div class="testimonial-item  elementor-repeater-item-08a7159">
-                                    <div class="testimonial-box hover-from-left" >
-                                       <div class="comment-header">
-                                          <ul class="rating-stars">
-                                             <li><i aria-hidden="true" class="jki jki-star-solid"></i></li>
-                                             <li><i aria-hidden="true" class="jki jki-star-solid"></i></li>
-                                             <li><i aria-hidden="true" class="jki jki-star-solid"></i></li>
-                                             <li><i aria-hidden="true" class="jki jki-star-solid"></i></li>
-                                             <li><i aria-hidden="true" class="jki jki-star-solid"></i></li>
-                                          </ul>
-                                       </div>
-                                       <div class="comment-bio">
-                                          <div class="bio-details">
-                                             <div class="profile-image"><img src="<?php echo base_url() ?>assets/wp-content/uploads/sites/146/2021/08/cheerful-smiling-man-bodybuilder-standing-in-a-gym-150x150.jpg"  alt="Jerry Smith"></div>
-                                             <span class="profile-info">
-                                                <strong class="profile-name">Jerry Smith</strong>
-                                                <p class="profile-des">Client</p>
-                                             </span>
-                                          </div>
-                                          <div class="icon-content"><i aria-hidden="true" class="jki jki-quote-right-solid"></i></div>
-                                       </div>
-                                       <div class="comment-content">
-                                          <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
-                                       </div>
-                                    </div>
-                                 </div>
-                                 <div class="testimonial-item  elementor-repeater-item-c88c418">
-                                    <div class="testimonial-box hover-from-left" >
-                                       <div class="comment-header">
-                                          <ul class="rating-stars">
-                                             <li><i aria-hidden="true" class="jki jki-star-solid"></i></li>
-                                             <li><i aria-hidden="true" class="jki jki-star-solid"></i></li>
-                                             <li><i aria-hidden="true" class="jki jki-star-solid"></i></li>
-                                             <li><i aria-hidden="true" class="jki jki-star-solid"></i></li>
-                                             <li><i aria-hidden="true" class="jki jki-star-half-solid"></i></li>
-                                          </ul>
-                                       </div>
-                                       <div class="comment-bio">
-                                          <div class="bio-details">
-                                             <div class="profile-image"><img src="<?php echo base_url() ?>assets/wp-content/uploads/sites/146/2021/08/charming-brown-eyed-woman-with-smile-looks-into-camera-and-holds-cup-on-background-of-kitchen-150x150.jpg"  alt="Amanda Kelly"></div>
-                                             <span class="profile-info">
-                                                <strong class="profile-name">Amanda Kelly</strong>
-                                                <p class="profile-des">Client</p>
-                                             </span>
-                                          </div>
-                                          <div class="icon-content"><i aria-hidden="true" class="jki jki-quote-right-solid"></i></div>
-                                       </div>
-                                       <div class="comment-content">
-                                          <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
-                                       </div>
-                                    </div>
-                                 </div>
-                                 <div class="testimonial-item  elementor-repeater-item-9d1ed81">
-                                    <div class="testimonial-box hover-from-left" >
-                                       <div class="comment-header">
-                                          <ul class="rating-stars">
-                                             <li><i aria-hidden="true" class="jki jki-star-solid"></i></li>
-                                             <li><i aria-hidden="true" class="jki jki-star-solid"></i></li>
-                                             <li><i aria-hidden="true" class="jki jki-star-solid"></i></li>
-                                             <li><i aria-hidden="true" class="jki jki-star-solid"></i></li>
-                                          </ul>
-                                       </div>
-                                       <div class="comment-bio">
-                                          <div class="bio-details">
-                                             <div class="profile-image"><img src="<?php echo base_url() ?>assets/wp-content/uploads/sites/146/2021/08/portrait-of-adult-bald-smiling-attractive-man-forty-years-with-beard-in-blue-shirt-businessman-150x150.jpg"  alt="Robert Cabalero"></div>
-                                             <span class="profile-info">
-                                                <strong class="profile-name">Robert Cabalero</strong>
-                                                <p class="profile-des">Client</p>
-                                             </span>
-                                          </div>
-                                          <div class="icon-content"><i aria-hidden="true" class="jki jki-quote-right-solid"></i></div>
-                                       </div>
-                                       <div class="comment-content">
-                                          <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
-                                       </div>
-                                    </div>
-                                 </div>
-                              </div>
-                           </div>
+                        <!--Testimonials-end-->
+                    </div>
+                </div>
+            </section>
+            <!--End testimonial-->
+            
+            <!--last-section start-->
+        <!--
+            <section class="ttm-row ttm-bgcolor-grey last-section clearfix">
+                <div class="container">
+                    <div class="row text-center">
+                        <div class="col-lg-12">
+                            <div class="section-title clearfix">
+                                <h4>WORKING WITH EXCELLENT</h4>
+                                <h2 class="title">Our Latest News/ Blog</h2>
+                                <div class="title-img"><img src="<?php echo base_url() ?>assets/images/ds-1.png" alt="underline-img"></div>
+                            </div>
                         </div>
-                     </div>
-                  </div>
-               </div>
-            </div>
-         </div>
-      </section>
-     
-      
-   </div>
-</div>
+                    </div>
+                    <div class="row">
+                        <div class="col-lg-8 col-md-6 col-sm-12 col-xs-12">
+                            <div class="featured-imagebox featured-imagebox-post ttm-box-view-left-image box-shadow1 ttm-bgcolor-white mb-30">
+                                <div class="row row-equal-height">
+                                    <div class="col-md-12 col-lg-6 ttm-featured-img-left">
+                                        <div class="featured-thumbnail">
+                                            <a href="single-blog.html"><img class="img-fluid" src="<?php echo base_url() ?>assets/images/blog/blog1.jpg" alt="image"></a>
+                                        </div>
+                                    </div>
+                                    <div class="col-md-12 col-lg-6 ttm-featured-content-right">
+                                        <div class="featured-content featured-content-post">
+                                            <div class="ttm-box-post-date">
+                                                <span class="ttm-entry-date">
+                                                    <time class="entry-date" datetime="2019-01-16T07:07:55+00:00">01<span class="entry-month entry-year">MAY</span></time>
+                                                </span>
+                                            </div>
+                                            <div class="featured-title ml-70">
+                                                <h5><a href="single-blog.html">Best Kids’ Birthday Party Ideas</a></h5>
+                                            </div>
+                                            <div class="featured-desc">
+                                                <p>Lorem Ipsum is simply dummy text of the printing and typendard nknown printet to make a type specimen book.</p>
+                                            </div>
+                                            <a class="ttm-btn ttm-btn-size-sm ttm-btn-shape-round ttm-btn-style-fill ttm-btn-color-black mt-20 mb-15" href="single-blog.html" title="">Read More</a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="featured-imagebox featured-imagebox-post ttm-box-view-left-image box-shadow1 ttm-bgcolor-white mb-30">
+                                <div class="row row-equal-height">
+                                    <div class="col-md-12 col-lg-6 ttm-featured-img-left">
+                                        <div class="featured-thumbnail">
+                                            <a href="single-blog.html"><img class="img-fluid" src="<?php echo base_url() ?>assets/images/blog/blog3.jpg" alt="image"></a>
+                                        </div>
+                                    </div>
+                                    <div class="col-md-12 col-lg-6 ttm-featured-content-right">
+                                        <div class="featured-content featured-content-post">
+                                            <div class="ttm-box-post-date">
+                                                <span class="ttm-entry-date">
+                                                    <time class="entry-date" datetime="2019-01-16T07:07:55+00:00">23<span class="entry-month entry-year">NOV</span></time>
+                                                </span>
+                                            </div>
+                                            <div class="featured-title ml-70">
+                                                <h5><a href="single-blog.html">5 Steps To Planning A Sweet Party</a></h5>
+                                            </div>
+                                            <div class="featured-desc">
+                                                <p>Lorem Ipsum is simply dummy text of the printing and typendard nknown printet to make a type specimen book.</p>
+                                            </div>
+                                            <a class="ttm-btn ttm-btn-size-sm ttm-btn-shape-round ttm-btn-style-fill ttm-btn-color-black mt-20 mb-15" href="single-blog.html" title="">Read More</a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-6 col-lg-4">
+                            <div class="featured-imagebox featured-imagebox-post ttm-box-view-top-image box-shadow1 ttm-bgcolor-white mb-30 res-1199-m-0">
+                                <div class="featured-thumbnail">
+                                    <a href="blog-details.html"><img class="img-fluid" src="<?php echo base_url() ?>assets/images/blog/blog2.jpg" alt="image"></a>
+                                </div>
+                                <div class="featured-content featured-content-post">
+                                    <div class="ttm-box-post-date">
+                                        <span class="ttm-entry-date">
+                                            <time class="entry-date" datetime="2019-01-16T07:07:55+00:00">18<span class="entry-month entry-year">DEC</span></time>
+                                        </span>
+                                    </div>
+                                    <div class="featured-title ml-70">
+                                        <h5><a href="blog-details.html">How to Find the Perfect Event Venue</a></h5>
+                                    </div>
+                                    <div class="featured-desc">
+                                        <p class="res-991-mb-0">Lorem Ipsum is simply dummy text of the printing and typendard nknown printet to make a type specimen book Lorem Ipsum is simply dummy tex.</p>
+                                    </div>
+                                    <a class="ttm-btn ttm-btn-size-sm ttm-btn-shape-round ttm-btn-style-fill ttm-btn-color-black mt-10 mb-15" href="single-blog.html" title="">Read More</a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </section>
+        -->
+            <!--last-section end-->
+
+        </div><!-- site-main end -->

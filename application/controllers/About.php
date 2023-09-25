@@ -17,7 +17,8 @@ class About extends BaseController
     public function __construct()
     {
         parent::__construct();
-  
+        $this->load->model('reservation_model');
+        $this->load->model('user_model');
       
         $this->isLoggedIn();   
     }
@@ -32,26 +33,15 @@ class About extends BaseController
     public function index()
     {
 
-       
-                     
-        
+        $data["clients"] = $this->user_model->users(4) ;              
+        $data["projects"] = $this->reservation_model->ReservationAll() ; 
+
         $this->global['pageTitle'] = 'About';
-        $this->loadViews("about", $this->global,  NULL , NULL);
+        $this->loadViews("about", $this->global,  $data , NULL);
     }
 
 
-     /**
-     * This function used to load the first screen of the user
-     */
-    public function About()
-    {
-
-       
-                     
-        
-        $this->global['pageTitle'] = 'Über';
-        $this->loadViews("about", $this->global,  NULL , NULL);
-    }
+    
     
 
 }

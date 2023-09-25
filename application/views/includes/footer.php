@@ -1,342 +1,162 @@
-<footer itemtype="https://schema.org/WPFooter" itemscope="itemscope" id="colophon" role="contentinfo">
-   <div class='footer-width-fixer'>
-      <div data-elementor-type="wp-post" data-elementor-id="79" class="elementor elementor-79" data-elementor-settings="[]">
-         <div class="elementor-section-wrap">
-            <section class="elementor-section elementor-top-section elementor-element elementor-element-fb0049e elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="fb0049e" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
-               <div class="elementor-background-overlay"></div>
-               <div class="elementor-container elementor-column-gap-default">
-                  <div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-9373cf8" data-id="9373cf8" data-element_type="column">
-                     <div class="elementor-widget-wrap elementor-element-populated">
-                        <section class="elementor-section elementor-inner-section elementor-element elementor-element-4025925 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="4025925" data-element_type="section">
-                           <div class="elementor-container elementor-column-gap-no">
-                              <div class="elementor-column elementor-col-25 elementor-inner-column elementor-element elementor-element-a69080e" data-id="a69080e" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
-                                 <div class="elementor-widget-wrap elementor-element-populated">
-                                    <div class="elementor-element elementor-element-4e88d44 elementor-widget elementor-widget-image" data-id="4e88d44" data-element_type="widget" data-widget_type="image.default">
-                                       <div class="elementor-widget-container">
-                                          <img width="366" height="88" src="<?php echo base_url() ?>assets/wp-content/uploads/sites/146/2021/08/Evenizer-logo-2.png" class="attachment-large size-large" alt="" loading="lazy" sizes="(max-width: 366px) 100vw, 366px" />                                             
-                                       </div>
-                                    </div>
-                                    <div class="elementor-element elementor-element-20a0ef7 elementor-widget elementor-widget-text-editor" data-id="20a0ef7" data-element_type="widget" data-widget_type="text-editor.default">
-                                       <div class="elementor-widget-container">
-                                          On donne du style à votre page                  
-                                       </div>
-                                    </div>
-                                    <div class="elementor-element elementor-element-4013b50 elementor-align-left elementor-icon-list--layout-traditional elementor-list-item-link-full_width elementor-widget elementor-widget-icon-list" data-id="4013b50" data-element_type="widget" data-widget_type="icon-list.default">
-                                       <div class="elementor-widget-container">
-                                          <ul class="elementor-icon-list-items">
-                                             <li class="elementor-icon-list-item">
-                                                <span class="elementor-icon-list-icon">
-                                                <i aria-hidden="true" class="fas fa-map-marker-alt"></i>                </span>
-                                                <span class="elementor-icon-list-text">MC 34 Route mornag, BOUJARDGA , BEN AROUS 2090</span>
-                                             </li>
-                                             <li class="elementor-icon-list-item">
-                                                <span class="elementor-icon-list-icon">
-                                                <i aria-hidden="true" class="fas fa-envelope"></i>                </span>
-                                                <span class="elementor-icon-list-text"><a href="https://templatekit.jegtheme.com/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="731605161d1a09160133171c1e121a1d5d101c1e">info@queenpark.tn</a></span>
-                                             </li>
-                                             <li class="elementor-icon-list-item">
-                                                <span class="elementor-icon-list-icon">
-                                                <i aria-hidden="true" class="fas fa-phone-alt"></i>                  </span>
-                                                <span class="elementor-icon-list-text">(+216) 79 352 153</span>
-                                             </li>
-                                          </ul>
-                                       </div>
-                                    </div>
-                                 </div>
-                              </div>
-                              <div class="elementor-column elementor-col-25 elementor-inner-column elementor-element elementor-element-1a3a4ef" data-id="1a3a4ef" data-element_type="column">
-                                 <div class="elementor-widget-wrap elementor-element-populated">
-                                    <div class="elementor-element elementor-element-ee09bd6 elementor-widget elementor-widget-heading" data-id="ee09bd6" data-element_type="widget" data-widget_type="heading.default">
-                                       <div class="elementor-widget-container">
-                                          <h4 class="elementor-heading-title elementor-size-default">Quick Links</h4>
-                                       </div>
-                                    </div>
-                                    <div class="elementor-element elementor-element-110c848 elementor-icon-list--layout-traditional elementor-list-item-link-full_width elementor-widget elementor-widget-icon-list" data-id="110c848" data-element_type="widget" data-widget_type="icon-list.default">
-                                       <div class="elementor-widget-container">
-                                          <ul class="elementor-icon-list-items">
-                                             <li class="elementor-icon-list-item">
-                                                <a href="#">
-                                                <span class="elementor-icon-list-text">About Us</span>
-                                                </a>
-                                             </li>
-                                             <li class="elementor-icon-list-item">
-                                                <a href="#">
-                                                <span class="elementor-icon-list-text">Services</span>
-                                                </a>
-                                             </li>
-                                             <li class="elementor-icon-list-item">
-                                                <a href="#">
-                                                <span class="elementor-icon-list-text">Our Team</span>
-                                                </a>
-                                             </li>
-                                             <li class="elementor-icon-list-item">
-                                                <a href="#">
-                                                <span class="elementor-icon-list-text">Pricing</span>
-                                                </a>
-                                             </li>
-                                             <li class="elementor-icon-list-item">
-                                                <a href="#">
-                                                <span class="elementor-icon-list-text">Contact</span>
-                                                </a>
-                                             </li>
-                                          </ul>
-                                       </div>
-                                    </div>
-                                 </div>
-                              </div>
-                              <div class="elementor-column elementor-col-25 elementor-inner-column elementor-element elementor-element-6b17858" data-id="6b17858" data-element_type="column">
-                                 <div class="elementor-widget-wrap elementor-element-populated">
-                                    <div class="elementor-element elementor-element-2563ccb elementor-widget elementor-widget-heading" data-id="2563ccb" data-element_type="widget" data-widget_type="heading.default">
-                                       <div class="elementor-widget-container">
-                                          <h4 class="elementor-heading-title elementor-size-default">Useful Links</h4>
-                                       </div>
-                                    </div>
-                                    <div class="elementor-element elementor-element-52a07a3 elementor-icon-list--layout-traditional elementor-list-item-link-full_width elementor-widget elementor-widget-icon-list" data-id="52a07a3" data-element_type="widget" data-widget_type="icon-list.default">
-                                       <div class="elementor-widget-container">
-                                          <ul class="elementor-icon-list-items">
-                                             <li class="elementor-icon-list-item">
-                                                <a href="#">
-                                                <span class="elementor-icon-list-text">Privacy Policy</span>
-                                                </a>
-                                             </li>
-                                             <li class="elementor-icon-list-item">
-                                                <a href="#">
-                                                <span class="elementor-icon-list-text">Terms and Conditions</span>
-                                                </a>
-                                             </li>
-                                             <li class="elementor-icon-list-item">
-                                                <a href="#">
-                                                <span class="elementor-icon-list-text">Disclaimer</span>
-                                                </a>
-                                             </li>
-                                             <li class="elementor-icon-list-item">
-                                                <a href="#">
-                                                <span class="elementor-icon-list-text">Support</span>
-                                                </a>
-                                             </li>
-                                             <li class="elementor-icon-list-item">
-                                                <a href="#">
-                                                <span class="elementor-icon-list-text">FAQ</span>
-                                                </a>
-                                             </li>
-                                          </ul>
-                                       </div>
-                                    </div>
-                                 </div>
-                              </div>
-                              <div class="elementor-column elementor-col-25 elementor-inner-column elementor-element elementor-element-5c5a40c" data-id="5c5a40c" data-element_type="column">
-                                 <div class="elementor-widget-wrap elementor-element-populated">
-                                    <div class="elementor-element elementor-element-0ae0640 elementor-widget elementor-widget-heading" data-id="0ae0640" data-element_type="widget" data-widget_type="heading.default">
-                                       <div class="elementor-widget-container">
-                                          <h4 class="elementor-heading-title elementor-size-default">Newsletter</h4>
-                                       </div>
-                                    </div>
-                                    <div class="elementor-element elementor-element-b323263 elementor-widget elementor-widget-jkit_mailchimp" data-id="b323263" data-element_type="widget" data-widget_type="jkit_mailchimp.default">
-                                       <div class="elementor-widget-container">
-                                          <div  class="jeg-elementor-kit jkit-mailchimp style-inline jeg_module_7_54_6240504d41a25" >
-                                             <form method="post" class="jkit-mailchimp-form" data-listed="" data-success-message="Successfully listed this email" data-error-message="Something went wrong">
-                                                <div class="jkit-mailchimp-message"></div>
-                                                <div class="jkit-form-wrapper email-form">
-                                                   <div class="jkit-mailchimp-email jkit-input-wrapper input-container">
-                                                      <div class="jkit-form-group">
-                                                         <div class="jkit-input-element-container jkit-input-group">
-                                                            <input type="email" name="email" class="jkit-email jkit-form-control " placeholder="Your Email Address" required="">
-                                                         </div>
-                                                      </div>
-                                                   </div>
-                                                   <div class="jkit-submit-input-holder jkit-input-wrapper">
-                                                      <button type="submit" class="jkit-mailchimp-submit position-before" name="jkit-mailchimp">
-                                                      SEND
-                                                      </button>
-                                                   </div>
-                                                </div>
-                                             </form>
-                                          </div>
-                                       </div>
-                                    </div>
-                                    <div class="elementor-element elementor-element-067b062 elementor-widget elementor-widget-text-editor" data-id="067b062" data-element_type="widget" data-widget_type="text-editor.default">
-                                       <div class="elementor-widget-container">
-                                          Lorem ipsum dolor sit amet, consectectur adipiscing elit, sed do eiusmod tempor                 
-                                       </div>
-                                    </div>
-                                    <div class="elementor-element elementor-element-7d20499 elementor-shape-circle e-grid-align-left e-grid-align-tablet-left e-grid-align-mobile-center elementor-grid-0 elementor-widget elementor-widget-social-icons" data-id="7d20499" data-element_type="widget" data-widget_type="social-icons.default">
-                                       <div class="elementor-widget-container">
-                                          <div class="elementor-social-icons-wrapper elementor-grid">
-                                             <span class="elementor-grid-item">
-                                             <a class="elementor-icon elementor-social-icon elementor-social-icon-facebook-f elementor-animation-shrink elementor-repeater-item-c0163ab" target="_blank">
-                                             <span class="elementor-screen-only">Facebook-f</span>
-                                             <i class="fab fa-facebook-f"></i>               </a>
-                                             </span>
-                                             <span class="elementor-grid-item">
-                                             <a class="elementor-icon elementor-social-icon elementor-social-icon-twitter elementor-animation-shrink elementor-repeater-item-310ab07" target="_blank">
-                                             <span class="elementor-screen-only">Twitter</span>
-                                             <i class="fab fa-twitter"></i>               </a>
-                                             </span>
-                                             <span class="elementor-grid-item">
-                                             <a class="elementor-icon elementor-social-icon elementor-social-icon-instagram elementor-animation-shrink elementor-repeater-item-63f86db" target="_blank">
-                                             <span class="elementor-screen-only">Instagram</span>
-                                             <i class="fab fa-instagram"></i>             </a>
-                                             </span>
-                                             <span class="elementor-grid-item">
-                                             <a class="elementor-icon elementor-social-icon elementor-social-icon-jki-youtube-v-light elementor-animation-shrink elementor-repeater-item-d54d883" target="_blank">
-                                             <span class="elementor-screen-only">Jki-youtube-v-light</span>
-                                             <i class="jki jki-youtube-v-light"></i>               </a>
-                                             </span>
-                                          </div>
-                                       </div>
-                                    </div>
-                                 </div>
-                              </div>
-                           </div>
-                        </section>
-                        <section class="elementor-section elementor-inner-section elementor-element elementor-element-4694d67 elementor-section-content-middle elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="4694d67" data-element_type="section">
-                           <div class="elementor-container elementor-column-gap-no">
-                              <div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-f748c79" data-id="f748c79" data-element_type="column">
-                                 <div class="elementor-widget-wrap elementor-element-populated">
-                                    <div class="elementor-element elementor-element-864c7c6 elementor-widget elementor-widget-text-editor" data-id="864c7c6" data-element_type="widget" data-widget_type="text-editor.default">
-                                       <div class="elementor-widget-container">
-                                          <p>Queen Park &amp; Organizer Template Kit by Koussay Bahaedinne Maiza</p>
-                                       </div>
-                                    </div>
-                                 </div>
-                              </div>
-                              <div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-cfd8697" data-id="cfd8697" data-element_type="column">
-                                 <div class="elementor-widget-wrap elementor-element-populated">
-                                    <div class="elementor-element elementor-element-fe1f596 elementor-widget elementor-widget-text-editor" data-id="fe1f596" data-element_type="widget" data-widget_type="text-editor.default">
-                                       <div class="elementor-widget-container">
-                                          Copyright © 2022. All rights reserved.
-                                       </div>
-                                    </div>
-                                 </div>
-                              </div>
-                           </div>
-                        </section>
-                     </div>
-                  </div>
-               </div>
-            </section>
-         </div>
-      </div>
-   </div>
-</footer>
-</div><!-- #page -->
+        <!--footer--> 
+        <footer class="footer widget-footer bg-img11 ttm-bgcolor-black ttm-bg ttm-bgimage-yes clearfix">
+            <div class="ttm-row-wrapper-bg-layer ttm-bg-layer"></div>
+            <div class="first-footer ttm-textcolor-white">
+                <div class="container">
+                       <div class="row">
+                        <div class="widget-area col-xs-12 col-sm-12 col-md-12 col-lg-12">
+                            <aside class="widget widget-text">
+                                <div class="ttm-newstter-box">
+                                    <h4>S'abonner à <span class="ttm-textcolor-skincolor">Notre newsletter</span></h4>
+                                    <p>Pas de spam de notre part, vous proposez uniquement la dernière offre qui convient le mieux à vous et à votre entreprise.</p>
+                                    <form class="mc4wp-form mc4wp-form-24" method="post" data-id="24" data-name="Newsletter Form">
+                                        <div class="mc4wp-form-fields">
+                                            <div class="mailchimp-inputbox">
+                                                <input type="email" name="EMAIL" placeholder="Your email address.." required="">
+                                                <input type="submit" value="Subscribe Now">
+                                            </div>
+                                        </div>
+                                        <div class="mc4wp-response"></div>
+                                    </form>
+                                </div>
+                            </aside>
+                        </div>
+                    </div><!-- row end --> 
+                </div>
+            </div>
+            <div class="second-footer">
+                <div class="container">
+                    <div class="second-footer-inner">
+                        <div class="row">
+                            <div class="widget-area col-xs-12 col-sm-6 col-md-6 col-lg-3">
+                                <div class="widget widget-out-link clearfix">
+                                    <h4 class="widget-title">Nos Contacts</h4>
+                                    <ul class="widget-contact">
+                                        <li><i class="fa fa-map-marker"></i>Mc 35 Route mornag<br>Boujardga Ben arous , Tunisie</li>
+                                        <li><i class="fa fa-envelope-o"></i><a href="#">info@queenpark.tn</a></li>
+                                        <li><i class="fa fa-phone"></i>Phone: (+216) 54 419 959  <br>Support: (+216) 58 465 249  </li>
+                                    </ul>
+                                </div>
+                            </div>
+                            <div class="widget-area col-xs-12 col-sm-6 col-md-6 col-lg-3">
+                                <div class="widget widget_nav_menu clearfix">
+                                    <h4 class="widget-title">Nos services </h4>
+                                    <ul class="menu-footer-services">
+                                        <li><a href="#">Notre histoire</a></li>
+                                        <li><a href="#">Notre galerie</a></li>
+                                        <li><a href="#">Guides d'événements</a></li>
+                                        <li><a href="#">À propos de nous</a></li>
+                                        <li><a href="#">Dernières nouvelles</a></li>
+                                        <li><a href="#">Prix et conditions</a></li>
+                                    </ul>
+                                </div>
+                            </div>
+                            <div class="widget-area col-xs-12 col-sm-6 col-md-6 col-lg-3">
+                                <div class="widget widget-out-link clearfix ">
+                                    <h4 class="widget-title">Recent Posts</h4>
+                                    <ul class="widget-post ttm-recent-post-list">
+                                     <!--   <li>
+                                            <a href="#"><img src="<?php echo base_url() ?>assets/images/blog/blog7.jpg" alt="post-img"></a>
+                                            <a href="single-blog.html">Our Biggest Summer Meetup</a>
+                                            <span class="post-date clearfix">August 1, 2018</span>
+                                        </li>
+                                        <li>
+                                            <a href="#"><img src="<?php echo base_url() ?>assets/images/blog/blog3.jpg" alt="post-img"></a>
+                                            <a href="single-blog.html">5 Steps To Planning A Sweet Party</a>
+                                            <span class="post-date clearfix">August 1, 2018</span>
+                                        </li> -->
+                                    </ul>
+                                </div>
+                            </div>
+                            <div class="widget-area col-xs-12 col-sm-6 col-md-6 col-lg-3">
+                                <div class="widget widget-out-link clearfix ">
+                                    <h4 class="widget-title">Frequent Questions</h4>
+                                    <ul class="widget-text">
+                                        <li><a href="#">How Can I Set An Event? </a></li>
+                                        <li><a href="#">What Venues Do You Use? </a></li>
+                                        <li><a href="#">Event Catalogue </a></li>
+                                        <li><a href="#">Shipping & Delivery </a></li>
+                                        <li><a href="#">What's your dream job? </a></li>
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="bottom-footer-text">
+                <div class="container">
+                    <div class="row">
+                        <div class="col-md-8 col-sm-12 col-xs-12 ttm-footer2-left">
+                            <div class="company-info">
+                                <div class="company-logo">
+                                    <img src="<?php echo base_url() ?>assets/images/logo-img.png" alt="company-logo" height="45">
+                                </div>
+                                <div class="company-desc">Queen Park Tunisie est une société spécialisée dans l'organisation d'événements exceptionnels et mémorables, avec une expertise particulière dans le domaine du mariage et de l'événementiel. Nous nous engageons à créer des expériences uniques et sur mesure, reflétant la personnalité et les rêves de chaque couple.
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-sm-12 col-xs-12 col-md-4 ttm-footer2-right">
+                            <div class="ttm-social-link-wrapper">
+                                <ul class="social-icons">
+                                    <li><a href="#" target="_blank"><i class="fa fa-facebook"></i></a></li>
+                                    <li><a href="#" target="_blank"><i class="fa fa-twitter"></i></a></li>
+                                    <li><a href="#" target="_blank"><i class="fa fa-instagram"></i></a></li>
+                                    <li><a href="#" target="_blank"><i class="fa fa-youtube-play"></i></a></li>
+                                </ul>
+                            </div>
+                            <P>Copyright © 2023 Maiza Bahaedinne. All rights reserved.</P>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </footer>
+        <!--footer-END-->
 
-<script src="https://cdn.jsdelivr.net/npm/popper.js@1.14.7/dist/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
-<script src="https://cdn.jsdelivr.net/npm/bootstrap@4.3.1/dist/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
+</div><!-- page end -->
 
-<link rel='stylesheet' id='tiny-slider-css'  href='<?php echo base_url() ?>assets/wp-content/plugins/jeg-elementor-kit/assets/js/tiny-slider/tiny-sliderf342.css?ver=2.9.3' type='text/css' media='all' />
-<link rel='stylesheet' id='magnific-popup-css'  href='<?php echo base_url() ?>assets/wp-content/plugins/jeg-elementor-kit/assets/js/magnific-popup/magnific-popupf488.css?ver=1.1.0' type='text/css' media='all' />
-<link rel='stylesheet' id='tiny-slider-css'  href='<?php echo base_url() ?>assets/wp-content/plugins/jeg-elementor-kit/assets/js/tiny-slider/tiny-sliderf342.css?ver=2.9.3' type='text/css' media='all' />
-<link rel='stylesheet' id='e-animations-css'  href='<?php echo base_url() ?>assets/wp-content/plugins/elementor/assets/lib/animations/animations.min1aae.css?ver=3.5.3' type='text/css' media='all' />
-<script data-cfasync="false" src="../cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script type='text/javascript' src='wp-includes/js/wp-embed.min69c8.js?ver=5.8.4' id='wp-embed-js'></script>
-<script type='text/javascript' src='<?php echo base_url() ?>assets/wp-content/plugins/elementor/assets/js/webpack.runtime.min1aae.js?ver=3.5.3' id='elementor-webpack-runtime-js'></script>
-<script type='text/javascript' src='<?php echo base_url() ?>assets/wp-content/plugins/elementor/assets/js/frontend-modules.min1aae.js?ver=3.5.3' id='elementor-frontend-modules-js'></script>
-<script type='text/javascript' src='<?php echo base_url() ?>assets/wp-content/plugins/elementor/assets/lib/waypoints/waypoints.min05da.js?ver=4.0.2' id='elementor-waypoints-js'></script>
-<script type='text/javascript' src='<?php echo base_url() ?>assets/wp-includes/js/jquery/ui/core.min35d0.js?ver=1.12.1' id='jquery-ui-core-js'></script>
-<script type='text/javascript' id='elementor-frontend-js-before'>
-   var elementorFrontendConfig = {"environmentMode":{"edit":false,"wpPreview":false,"isScriptDebug":false},"i18n":{"shareOnFacebook":"Share on Facebook","shareOnTwitter":"Share on Twitter","pinIt":"Pin it","download":"Download","downloadImage":"Download image","fullscreen":"Fullscreen","zoom":"Zoom","share":"Share","playVideo":"Play Video","previous":"Previous","next":"Next","close":"Close"},"is_rtl":false,"breakpoints":{"xs":0,"sm":480,"md":768,"lg":1025,"xl":1440,"xxl":1600},"responsive":{"breakpoints":{"mobile":{"label":"Mobile","value":767,"default_value":767,"direction":"max","is_enabled":true},"mobile_extra":{"label":"Mobile Extra","value":880,"default_value":880,"direction":"max","is_enabled":false},"tablet":{"label":"Tablet","value":1024,"default_value":1024,"direction":"max","is_enabled":true},"tablet_extra":{"label":"Tablet Extra","value":1200,"default_value":1200,"direction":"max","is_enabled":false},"laptop":{"label":"Laptop","value":1366,"default_value":1366,"direction":"max","is_enabled":false},"widescreen":{"label":"Widescreen","value":2400,"default_value":2400,"direction":"min","is_enabled":false}}},"version":"3.5.3","is_static":false,"experimentalFeatures":{"e_dom_optimization":true,"e_optimized_assets_loading":true,"a11y_improvements":true,"e_import_export":true,"e_hidden_wordpress_widgets":true,"landing-pages":true,"elements-color-picker":true,"favorite-widgets":true,"admin-top-bar":true},"urls":{"assets":"https:\/\/templatekit.jegtheme.com\/evenizer\/wp-content\/plugins\/elementor\/assets\/"},"settings":{"page":[],"editorPreferences":[]},"kit":{"active_breakpoints":["viewport_mobile","viewport_tablet"],"global_image_lightbox":"yes","lightbox_enable_counter":"yes","lightbox_enable_fullscreen":"yes","lightbox_enable_zoom":"yes","lightbox_enable_share":"yes","lightbox_title_src":"title","lightbox_description_src":"description"},"post":{"id":7,"title":"Evenizer%20%E2%80%93%20Event%20Planner%20%26%20Organizer%20Elementor%20Template%20Kit%20by%20Jegtheme","excerpt":"","featuredImage":false}};
-</script>
-<script type='text/javascript' src='<?php echo base_url() ?>assets/wp-content/plugins/elementor/assets/js/frontend.min1aae.js?ver=3.5.3' id='elementor-frontend-js'></script>
-<script type='text/javascript' id='elementor-frontend-js-after'>
-   var jkit_ajax_url = "indexe2f2.html?jkit-ajax-request=jkit_elements", jkit_nonce = "1745d8d1f7";
-</script>
-<script type='text/javascript' src='<?php echo base_url() ?>assets/wp-content/plugins/jeg-elementor-kit/assets/js/elements/sticky-element8d5a.js?ver=2.4.0' id='jkit-sticky-element-js'></script>
-<script type='text/javascript' src='<?php echo base_url() ?>assets/wp-content/plugins/jeg-elementor-kit/assets/js/elements/nav-menu8d5a.js?ver=2.4.0' id='jkit-element-navmenu-js'></script>
-<script type='text/javascript' src='<?php echo base_url() ?>assets/wp-content/plugins/jeg-elementor-kit/assets/js/elements/search8d5a.js?ver=2.4.0' id='jkit-element-search-js'></script>
-<script type='text/javascript' src='<?php echo base_url() ?>assets/wp-content/plugins/jeg-elementor-kit/assets/js/magnific-popup/jquery.magnific-popup.minf488.js?ver=1.1.0' id='magnific-popup-js'></script>
-<script type='text/javascript' src='<?php echo base_url() ?>assets/wp-content/plugins/jeg-elementor-kit/assets/js/elements/animated-text8d5a.js?ver=2.4.0' id='jkit-element-animatedtext-js'></script>
-<script type='text/javascript' src='<?php echo base_url() ?>assets/wp-content/plugins/jeg-elementor-kit/assets/js/elements/video-button8d5a.js?ver=2.4.0' id='jkit-element-videobutton-js'></script>
-<script type='text/javascript' src='<?php echo base_url() ?>assets/wp-content/plugins/jeg-elementor-kit/assets/js/elements/fun-fact8d5a.js?ver=2.4.0' id='jkit-element-funfact-js'></script>
-<script type='text/javascript' src='<?php echo base_url() ?>assets/wp-content/plugins/jeg-elementor-kit/assets/js/elements/client-logo8d5a.js?ver=2.4.0' id='jkit-element-clientlogo-js'></script>
-<script type='text/javascript' src='<?php echo base_url() ?>assets/wp-content/plugins/jeg-elementor-kit/assets/js/tiny-slider/tiny-sliderf342.js?ver=2.9.3' id='tiny-slider-js'></script>
-<script type='text/javascript' src='<?php echo base_url() ?>assets/wp-content/plugins/jeg-elementor-kit/assets/js/elements/team8d5a.js?ver=2.4.0' id='jkit-element-team-js'></script>
-<script type='text/javascript' src='<?php echo base_url() ?>assets/wp-content/plugins/jeg-elementor-kit/assets/js/elements/testimonials8d5a.js?ver=2.4.0' id='jkit-element-testimonials-js'></script>
-<script type='text/javascript' id='jkit-element-pagination-js-extra'>
-   /* <![CDATA[ */
-   var jkit_element_pagination_option = {"element_prefix":"jkit_element_ajax_"};
-   /* ]]> */
-</script>
-<script type='text/javascript' src='<?php echo base_url() ?>assets/wp-content/plugins/jeg-elementor-kit/assets/js/elements/post-pagination8d5a.js?ver=2.4.0' id='jkit-element-pagination-js'></script>
-<script type='text/javascript' src='<?php echo base_url() ?>assets/wp-content/plugins/jeg-elementor-kit/assets/js/elements/mailchimp8d5a.js?ver=2.4.0' id='jkit-element-mailchimp-js'></script>
+    <!--back-to-top start-->
+    <a id="totop" href="#top">
+        <i class="fa fa-angle-up"></i>
+    </a>
+    <!--back-to-top end-->
 
-<script type='text/javascript' src='<?php echo base_url() ?>assets/wp-content/plugins/jeg-elementor-kit/assets/js/elements/video-button8d5a.js?ver=2.4.0' id='jkit-element-videobutton-js'></script>
-<script type='text/javascript' src='<?php echo base_url() ?>assets/wp-content/plugins/jeg-elementor-kit/assets/js/elements/fun-fact8d5a.js?ver=2.4.0' id='jkit-element-funfact-js'></script>
-<script type='text/javascript' src='<?php echo base_url() ?>assets/wp-content/plugins/jeg-elementor-kit/assets/js/elements/client-logo8d5a.js?ver=2.4.0' id='jkit-element-clientlogo-js'></script>
-<script type='text/javascript' src='<?php echo base_url() ?>assets/wp-content/plugins/jeg-elementor-kit/assets/js/tiny-slider/tiny-sliderf342.js?ver=2.9.3' id='tiny-slider-js'></script>
+<!--page wrapper end-->
 
-<script type='text/javascript' src='<?php echo base_url() ?>assets/wp-content/plugins/jeg-elementor-kit/assets/js/elements/testimonials8d5a.js?ver=2.4.0' id='jkit-element-testimonials-js'></script>
-<script type='text/javascript' id='jkit-element-pagination-js-extra'>
-   /* <![CDATA[ */
-   var jkit_element_pagination_option = {"element_prefix":"jkit_element_ajax_"};
-   /* ]]> */
-</script>
-<script type='text/javascript' src='<?php echo base_url() ?>assets/wp-content/plugins/jeg-elementor-kit/assets/js/elements/post-pagination8d5a.js?ver=2.4.0' id='jkit-element-pagination-js'></script>
+    <!-- Javascript -->
 
-<div class="modal fade" id="exampleModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
-  <div class="modal-dialog" role="document">
-    <div class="modal-content">
-      <div class="modal-header">
-        <h5 class="modal-title" id="exampleModalLabel">Demander un rendez-vous ?</h5>
-        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
-          <span aria-hidden="true">&times;</span>
-        </button>
-      </div>
-      <div class="modal-body">
-        <span>On vous assite pour faire un bon choix</span>
-        <br>
-        <div class="row ">
-         <div class="col-md-12"> 
-             <label>Nom et prénom </label>
-            <input type="name" name="" class="form-control" required>
-         </div>
-         <div class="col-md-12"> 
-             <label>mobile </label>
-            <input type="number" name="" class="form-control" minlength="8" maxlength="8" required>
-         </div>
-
-         <div class="col-md-8"> 
-            <label>Date de rendez-vous </label>
-            <input type="date" name="" class="form-control" min ="<?php echo date('Y-m-d');?>" required>
-         </div>
-         
-        
-         <div class="col-md-4">
-              <label>Horaire disponible </label>
-             <select class="form-control" >
-               <?php for ($i=9 ; $i<= 19 ; $i++) {  ?>
-                  <option value="<?php echo $i ?>" ><?php echo $i ?>h </option>
-                <?php  } ?>
-            </select>
-         </div>
-         <div class="col-md-12"> 
-            <label>Espaces à consulter </label><br>
-            <input type="radio" name="salle" value="-1" checked > J'ai pas encore décidé <br>
-            <input type="radio" name="salle" value="Soltana" > Soltana <small>(en plein air)</small><br>
-            <input type="radio" name="salle" value="Elila Ersi" > Elila Ersi<br>
-            <input type="radio" name="salle" value="Farhet elamor " > Farhet elamor <br>
-            <input type="radio" name="salle" value="Soltana" > Soltana <small>(en plein air)</small><br>
-
-         </div> 
-        </div>
-        
-       
-       
-        
-      </div>
-      <div class="modal-footer">
-         <small><small>Vous allez recevoir un SMS aprés la validation d'un conseiller </small> </small>
-        
-        <button type="submit" class="btn btn-primary">Envoyer</button>
-      </div>
-    </div>
-  </div>
-</div>
+    <script src="<?php echo base_url() ?>assets/js/jquery.min.js"></script>
+    <script src="<?php echo base_url() ?>assets/js/tether.min.js"></script>
+    <script src="<?php echo base_url() ?>assets/js/bootstrap.min.js"></script> 
+    <script src="<?php echo base_url() ?>assets/js/jquery.easing.js"></script>    
+    <script src="<?php echo base_url() ?>assets/js/jquery-waypoints.js"></script>    
+    <script src="<?php echo base_url() ?>assets/js/jquery-validate.js"></script> 
+    <script src="<?php echo base_url() ?>assets/js/owl.carousel.js"></script>
+    <script src="<?php echo base_url() ?>assets/js/jquery.prettyPhoto.js"></script>
+    <script src="<?php echo base_url() ?>assets/js/numinate.min6959.js?ver=4.9.3"></script>
+    <script src="<?php echo base_url() ?>assets/js/main.js"></script>
 
 
+    <!-- Revolution Slider -->
+    <script src="<?php echo base_url() ?>assets/revolution/js/jquery.themepunch.tools.min.js"></script>
+    <script src="<?php echo base_url() ?>assets/revolution/js/jquery.themepunch.revolution.min.js"></script>
+    <script src="<?php echo base_url() ?>assets/revolution/js/slider.js"></script>
 
+    <!-- SLIDER REVOLUTION 5.0 EXTENSIONS  (Load Extensions only on Local File Systems !  The following part can be removed on Server for On Demand Loading) -->    
+
+    <script src="<?php echo base_url() ?>assets/revolution/js/extensions/revolution.extension.actions.min.js"></script>
+    <script src="<?php echo base_url() ?>assets/revolution/js/extensions/revolution.extension.carousel.min.js"></script>
+    <script src="<?php echo base_url() ?>assets/revolution/js/extensions/revolution.extension.kenburn.min.js"></script>
+    <script src="<?php echo base_url() ?>assets/revolution/js/extensions/revolution.extension.layeranimation.min.js"></script>
+    <script src="<?php echo base_url() ?>assets/revolution/js/extensions/revolution.extension.migration.min.js"></script>
+    <script src="<?php echo base_url() ?>assets/revolution/js/extensions/revolution.extension.navigation.min.js"></script>
+    <script src="<?php echo base_url() ?>assets/revolution/js/extensions/revolution.extension.parallax.min.js"></script>
+    <script src="<?php echo base_url() ?>assets/revolution/js/extensions/revolution.extension.slideanims.min.js"></script>
+
+    
+
+   
 </body>
-<!-- Mirrored from templatekit.jegtheme.com/evenizer/ by HTTrack Website Copier/3.x [XR&CO'2014], Sun, 27 Mar 2022 11:58:06 GMT -->
-</html> 
-<!-- Dynamic page generated in 0.881 seconds. -->
-<!-- Cached page generated by WP-Super-Cache on 2022-03-27 11:53:49 -->
-<!-- super cache -->
+
+<!-- Mirrored from themetechmount.com/html/planwey/index.html by HTTrack Website Copier/3.x [XR&CO'2014], Fri, 22 Sep 2023 17:17:57 GMT -->
+</html>

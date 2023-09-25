@@ -57,9 +57,7 @@ $route['translate_uri_dashes'] = FALSE;
 
 $route['Cart'] = "Cart/myCart";
 
-$route['About'] = "Acceuil/About";
 
-$route['logout'] = "Acceuil/logout";
 
 
 

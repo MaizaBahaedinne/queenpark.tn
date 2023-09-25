@@ -33,26 +33,13 @@ class Acceuil extends BaseController
     public function index()
     {
 
-       
         $data["clients"] = $this->user_model->users(4) ;              
         $data["projects"] = $this->reservation_model->ReservationAll() ; 
-        $this->global['pageTitle'] = 'Home';
+        $this->global['pageTitle'] = 'Acceuil';
         $this->loadViews("acceuil", $this->global,  $data , NULL);
     }
 
 
-     /**
-     * This function used to load the first screen of the user
-     */
-    public function About()
-    {
-
-       
-                     
-        
-        $this->global['pageTitle'] = 'Über';
-        $this->loadViews("about", $this->global,  NULL , NULL);
-    }
-    
+   
 
 }
