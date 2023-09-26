@@ -26,23 +26,7 @@
                                 data-paddingleft="[0,0,0,0]"
                                 >Vos cadeaux de célébration</div>
                                 
-                                <div class="tp-caption tp-resizeme highlight-skin-button" id="slide-1-layer-2" data-x="['center','center','center','center']" data-hoffset="['0','0','0','0']" data-y="['middle','middle','middle','middle']" data-voffset="['-70','-121','-105','-52']"  
-
-                                data-fontsize="['20','18','20','14']"
-                                data-lineheight="['22','20','22','20']"
-                                data-fontweight="['300','300','300','300']"
-                                data-width="none"
-                                data-height="none"
-                                data-whitespace="nowrap"
-                                data-type="text"
-                                data-responsive_offset="on"
-                                data-frames='[{"delay":930,"speed":900,"frame":"0","from":"z:0;rX:0;rY:0;rZ:0;sX:0.9;sY:0.9;skX:0;skY:0;opacity:0;","to":"o:1;","ease":"Power3.easeInOut"},{"delay":"wait","speed":300,"frame":"999","to":"opacity:0;","ease":"Power3.easeInOut"}]'
-                                data-textAlign="['inherit','inherit','inherit','inherit']"
-                                data-paddingtop="[6,6,6,5]"
-                                data-paddingright="[18,18,18,18]"
-                                data-paddingbottom="[6,6,6,5]"
-                                data-paddingleft="[18,18,18,18]"
-                                >December 03rd 2018</div>
+                                
                                 
                                 <div class="tp-caption tp-resizeme tp-shapewrapper" id="slide-1-layer-3" data-x="['center','center','center','center']" data-hoffset="['269','269','201','134']" data-y="['middle','middle','middle','middle']" data-voffset="['52','6','-7','29']"
 
