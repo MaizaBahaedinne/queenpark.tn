@@ -444,8 +444,8 @@
                     <div class="row text-center">
                         <div class="col-lg-12">
                             <div class=" section-title clearfix">
-                                <h4>OUR BEST SERVICE</h4>
-                                <h2 class="title">Our Working Process</h2>
+                                <h4>NOTRE MEILLEUR SERVICE</h4>
+                                <h2 class="title">Notre processus de travail</h2>
                                 <div class="title-img"><img src="<?php echo base_url() ?>assets/images/ds-1.png" alt="underline-img"></div>
                             </div>
                         </div>
@@ -460,7 +460,7 @@
                                         </div>
                                     </div>
                                     <div class="featured-title">
-                                        <h5>Find The Perfect Venue <br>For Free</h5>
+                                        <h5>Trouvez la salle idéal <br>Gratuitement</h5>
                                     </div>
                                 </div>
                             </div>
@@ -474,7 +474,7 @@
                                         </div>
                                     </div>
                                     <div class="featured-title">
-                                        <h5>Connect with the best <br>vendor</h5>
+                                        <h5>Connectez-vous avec les meilleurs <br>conseillers</h5>
                                     </div>
                                 </div>
                             </div>
@@ -488,7 +488,7 @@
                                         </div>
                                     </div>
                                     <div class="featured-title">
-                                        <h5>Let us help you with <br>the event</h5>
+                                        <h5>Laissez-nous vous aider pour<br>votre evenement</h5>
                                     </div>
                                 </div>
                             </div>
@@ -502,7 +502,7 @@
                                         </div>
                                     </div>
                                     <div class="featured-title">
-                                        <h5>Enjoy the party with <br>your friends</h5>
+                                        <h5>Profitez de la fête avec <br>invités</h5>
                                     </div>
                                 </div>
                             </div>
@@ -511,8 +511,8 @@
                     <div class="row">
                         <div class="col-md-12 text-center">
                             <div class="mt-30">
-                                <a class="ttm-btn ttm-btn-size-md ttm-btn-shape-round ttm-btn-style-border ttm-btn-color-black mt-20" href="#">Book Event</a>
-                                <a class="ttm-btn ttm-btn-size-md ttm-btn-shape-round ttm-btn-style-fill ttm-btn-color-skincolor ml-30 mt-20" href="#" title="">Our Gallery</a>
+                                <a class="ttm-btn ttm-btn-size-md ttm-btn-shape-round ttm-btn-style-border ttm-btn-color-black mt-20" href="#">Réservez un événement</a>
+                                <a class="ttm-btn ttm-btn-size-md ttm-btn-shape-round ttm-btn-style-fill ttm-btn-color-skincolor ml-30 mt-20" href="#" title="">Notre galerie</a>
                             </div>
                         </div>
                     </div>
